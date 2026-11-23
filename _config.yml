@@ -1,5 +1,5 @@
 # Set theme
-remote_theme: daviddarnes/garth
+#remote_theme: daviddarnes/garth
 
 # File excludes
 exclude:
