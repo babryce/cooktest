@@ -38,4 +38,5 @@ logo: "/assets/logo.svg" # Site logo
 description: "Stuff"
 url: "http://babryce.com/cooktest" # Site url
 baseurl: "http://babryce.com/cooktest"
+navurl: "http://babryce.com/cooktest/nav"
 lang: en-GB
