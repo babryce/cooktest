@@ -1,0 +1,325 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<!-- Mirrored from http://polarhist.com/humbug/1907.html by HTTrack Website Copier/3.x [XR&CO], Sun, 22 Nov 2026 23:49:41 GMT -->
+<head>
+
+  
+  <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+
+  
+  <title>Frederick A. Cook: from Hero to Humbug</title>
+  <script language="javaScript"><!--
+newimage0 = new Image();
+newimage0.src = "nav/nav/nav_1x1.html";
+newimage1 = new Image();
+newimage1.src = "nav/nav/nav_1x2.html";
+newimage2 = new Image();
+newimage2.src = "nav/nav/nav_1x3.html";
+newimage3 = new Image();
+newimage3.src = "nav/nav/nav_1x4.html";
+newimage4 = new Image();
+newimage4.src = "nav/nav/nav_1x5.html";
+newimage5 = new Image();
+newimage5.src = "nav/nav/nav_1x6.html";
+newimage6 = new Image();
+newimage6.src = "nav/nav_1x7.gif";
+newimage7 = new Image();
+newimage7.src = "exped/1907.gif";
+newimage8 = new Image();
+newimage8.src = "exped/flag_sm.gif";
+newimage9 = new Image();
+newimage9.src = "exped/bradley.gif";
+newimage10 = new Image();
+newimage10.src = "exped/franke_sm.gif";
+newimage11 = new Image();
+newimage11.src = "exped/eskimos_sm.gif";
+newimage12 = new Image();
+newimage12.src = "exped/nyh_sm.gif";
+newimage13 = new Image();
+newimage13.src = "exped/ccrowd_sm.gif";
+newimage14 = new Image();
+newimage14.src = "exped/pointer_sm.gif";
+newimage15 = new Image();
+newimage15.src = "exped/cdias_sm.gif";
+// -->
+  </script>
+  <script language="JavaScript"><!--
+
+	var messages = new Array(
+	"\"On April 21, 1908, I reached the North Pole and unfurled the stars and stripes\"",
+	"John R. Bradley and trophy",
+	"Rudolph Franke",
+	"Etukishook and Ahwellah",
+	"\"The scoop of all scoops\"",
+	"Cook in Copenhagen",
+	"Cook's first lecture",
+	"\"I show you my hands!\""
+	);
+	var flag = 0;
+
+	var positions = new Array(2);
+	var textnodes = new Array(2);
+
+    function getpositions() {
+	//table, tr, td, position to store
+        myDocumentElements=document.getElementsByTagName("body");
+        myBody=myDocumentElements.item(0);
+        myTables=myBody.getElementsByTagName("table");
+        myTRs=myTables.item(getpositions.arguments[0]).getElementsByTagName("tr");
+        myTDs=myTRs.item(getpositions.arguments[1]).getElementsByTagName("td");
+        myFonts = myTDs.item(getpositions.arguments[2]).getElementsByTagName("font");
+
+        positions[getpositions.arguments[3]]= myFonts[0];
+
+    }
+
+
+   	function changecaption() {
+	//position, message, remove flag
+
+        if(changecaption.arguments[2] == 1)
+        {
+	  		positions[changecaption.arguments[0]].removeChild(textnodes[changecaption.arguments[0]]);
+		}
+
+        textnodes[changecaption.arguments[0]]=document.createTextNode(messages[changecaption.arguments[1]]);
+		positions[changecaption.arguments[0]].appendChild(textnodes[changecaption.arguments[0]]);
+    }
+
+
+function loadinital()
+{
+
+	getpositions(2,0,1,0);
+	changecaption(0,0,0);
+	getpositions(3,0,0,1);
+	changecaption(1,4,0);
+
+}
+
+if (document.images) {
+  image1 = new Image();
+  image1.src = "exped/flag.gif";
+  image2 = new Image();
+  image2.src = "exped/bradley.gif";
+  image3 = new Image();
+  image3.src = "exped/franke.gif";
+  image4 = new Image();
+  image4.src = "exped/eskimos.gif";
+  image5 = new Image();
+  image5.src = "exped/nyh.gif";
+  image6 = new Image();
+  image6.src = "exped/ccrowd.gif";
+  image7 = new Image();
+  image7.src = "exped/pointer.gif";
+  image8 = new Image();
+  image8.src = "exped/cdias.gif";
+
+
+}
+
+function changeImages() {
+  if (document.images) {
+    for (var i=0; i<changeImages.arguments.length; i+=2) {
+      document[changeImages.arguments[i]].src = eval(changeImages.arguments[i+1] + ".src");
+
+	  var largeview = changeImages.arguments[i];
+	  var image = changeImages.arguments[i + 1];
+
+	  var splitlargeview = largeview.split("largeview");
+	  var splitimage = image.split("image");
+
+	  if(splitlargeview[1] == "")
+	  {
+	  	var tablenum = 1;
+		var captionnumber = splitimage[1];
+		captionnumber -= 1;
+		tablenum -= 1;
+		changecaption(tablenum,captionnumber,1);
+
+	  }
+	  else
+	  {
+	  	var tablenum = splitlargeview[1];
+		var captionnumber = splitimage[1];
+		captionnumber -= 1;
+		tablenum -= 1;
+		changecaption(tablenum,captionnumber,1);
+	  }
+    }
+  }
+}
+
+
+
+// -->
+  </script>
+</head>
+
+
+<body onload="loadinital()">
+
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+
+  <tbody>
+    <tr>
+
+	<td><!-- Begin NAV -->
+      <table border="0" cellpadding="0" cellspacing="0" height="25" width="725">
+
+
+        <tbody>
+          <tr>
+
+            <td rowspan="1" colspan="1" height="25" width="96">
+	<a href="biography.html"><img name="nav0" src="nav/nav_1x1.gif" border="0" height="25" width="96"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="107">
+	<a href="expeditions.html"><img name="nav1" src="nav/nav_1x2.gif" border="0" height="25" width="107"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="156">
+	<a href="controversy.html"><img name="nav2" src="nav/nav_1x3.gif" border="0" height="25" width="156"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="100">
+	<a href="oilafter.html"><img name="nav3" src="nav/nav_1x4.gif" border="0" height="25" width="100"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="116">
+	<a href="cookstory.html"><img name="nav4" src="nav/nav_1x5.gif" border="0" height="25" width="116"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="86">
+	<a href="artifacts.html"><img name="nav5" src="nav/nav_1x6.gif" border="0" height="25" width="86"></a></td>
+
+            <td rowspan="1" colspan="1" height="25" width="64">
+	<a href="http://humbug.polarhist.com/news"><img name="nav6" src="nav/nav_1x7.gif" border="0" height="25" width="64"></a></td>
+
+          </tr>
+
+
+        </tbody>
+      </table>
+
+<!-- End Nav -->
+      <br>
+
+      <img src="exped/1907.gif"><br>
+
+      <table align="left" bgcolor="#e6e6e6" border="0" cellpadding="0" cellspacing="2" hspace="5">
+
+        <tbody>
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview', 'image1')"><img src="exped/flag_sm.gif" border="0" height="60" width="60"></a></td>
+
+    <td rowspan="4" align="center" bgcolor="#fafafa" width="250"><img name="largeview" src="exped/flag.gif"><br>
+            <font size="1">&nbsp;</font></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview', 'image2')"><img src="exped/bradley_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview', 'image3')"><img src="exped/franke_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview', 'image4')"><img src="exped/eskimos_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+        </tbody>
+      </table>
+
+Cook left Gloucester, Massachusetts, in July 1907, on a refurbished schooner, named after his sponsor.<a href="javascript:changeImages('largeview', 'image2')"><img src="camera.gif" border="0"></a>&nbsp; Cook built a box house at Annoatok,
+North Greenland,&nbsp; and wintered there with Rudolph Franke, Bradley&rsquo;s
+German cook. <a href="javascript:changeImages('largeview', 'image3')"><img src="camera.gif" border="0"></a>&nbsp; In the early spring he left his winter
+base and crossed Smith Sound to Pim Island.&nbsp; From there he proceeded
+across Ellesmere Island via the Sverdrup Pass and Nansen Sound, reaching
+Cape Thomas Hubbard in March.&nbsp; Cook went northwest in the company
+of five Inuit, sending back all but Etukishook and Ahwellah after two days.
+      <a href="javascript:changeImages('largeview', 'image4')"><img src="camera.gif" border="0"></a>&nbsp; He was not heard of again until he returned to Annoatok in
+April 1909 claiming to have reached the North Pole the previous year. &nbsp;<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; When he announced his success by wire from the Shetland
+Islands on September 1, 1909, the news caused a worldwide press sensation.
+      <a href="javascript:changeImages('largeview2', 'image5')"><img src="camera.gif" border="0"></a> Since he had not returned at the expected time from his northern trip in 1908, many
+had given him up for dead, but he explained that they were unable to regain
+their outward food caches and were compelled to winter on North Devon Island
+before returning to their base in Greenland in the spring of 1909. <br>
+
+      <table align="right" bgcolor="#e6e6e6" border="0" cellpadding="0" cellspacing="2" hspace="5">
+
+        <tbody>
+          <tr>
+
+    <td rowspan="4" align="center" bgcolor="#fafafa" width="250"><img name="largeview2" src="exped/nyh.gif"><br>
+            <font size="1">&nbsp;</font></td>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview2', 'image5')"><img src="exped/nyh_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview2', 'image6')"><img src="exped/ccrowd_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview2', 'image7')"><img src="exped/pointer_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+          <tr>
+
+    <td bgcolor="#fafafa"><a href="javascript:changeImages('largeview2', 'image8')"><img src="exped/cdias_sm.gif" border="0" height="60" width="60"></a></td>
+
+          </tr>
+
+        </tbody>
+      </table>
+
+&nbsp;&nbsp;&nbsp;&nbsp; Cook reached civilization again at Copenhagen, Denmark,
+touching off a frenzy of adulation, <a href="javascript:changeImages('largeview2', 'image6')"><img src="camera.gif" border="0"></a> which ended with him
+heaped in honors.&nbsp; His first lecture was attended by a huge audience
+including the Danish royal family. <a href="javascript:changeImages('largeview2', 'image7')"><img src="camera.gif" border="0"></a>&nbsp; The drama increased
+when, during the celebrations, word arrived from Labrador that Robert E.
+Peary, after 23 years of intermittent attempts, had reached the North Pole
+on April 6, 1909.&nbsp; A few days later Peary intimated that Cook&rsquo;s story
+should not be taken seriously, and before the week was out declared that
+his rival had simply &ldquo;handed the world a gold brick.&rdquo;&nbsp; Cook felt compelled
+to defend himself at the awarding of a rare doctorate from the University
+of Copenhagen, where he dramatically addressed the audience &ldquo;I show you my
+hands.&nbsp; They are clean.&rdquo;&nbsp; <a href="javascript:changeImages('largeview2', 'image8')"><img src="camera.gif" border="0"></a>&nbsp; He announced that
+he would cancel plans to tour Europe and immediately return to America.<br>
+
+&nbsp;&nbsp;&nbsp; Thus began the greatest geographical dispute of all time
+that has come to be known as The Polar Controversy.&nbsp; It was front-page
+news every day for the better part of four months, and even today, a small
+group of ardent advocates of each man still insists they champion the true
+discoverer.</td>
+
+    </tr>
+
+    <tr>
+
+	<td align="left"><a href="1903.html">&laquo;- 1903-1906  Mount McKinley</a></td>
+
+	
+    </tr>
+
+  </tbody>
+</table>
+
+</body>
+
+<!-- Mirrored from http://polarhist.com/humbug/1907.html by HTTrack Website Copier/3.x [XR&CO], Sun, 22 Nov 2026 23:49:45 GMT -->
+</html>
