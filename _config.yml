@@ -13,9 +13,9 @@ timezone: Europe/London # Timezone for blog posts and alike
 
 collections:
   posts:
-    title: News # Needed for Siteleaf
+    title: Polar History News Section # Needed for Siteleaf
     output: true
-    description: "Polar History News Section"
+    description: ""
 
 defaults:
   -
