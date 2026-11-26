@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "Cook & Peary, twenty-five years on"
 category: General
 ---
 ## Cook & Peary, twenty-five years on
 
 
-![Cook book](../assets/Cook-book-764x1024_OKYx.jpg "Cook book")
+![Cook book](http://babryce.com/cooktest/assets/Cook-book-764x1024_OKYx.jpg "Cook book")
 
 Twenty-five years ago today, February 17, 1997, *Cook & Peary, the Polar Controversy, resolved*, was published.
 

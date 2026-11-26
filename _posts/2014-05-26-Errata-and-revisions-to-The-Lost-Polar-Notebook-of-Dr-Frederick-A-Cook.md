@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Errata and revisions to The Lost Polar Notebook of Dr. Frederick A. Cook"
 category: General
 ---
 ## Errata and revisions to The Lost Polar Notebook of Dr. Frederick A. Cook

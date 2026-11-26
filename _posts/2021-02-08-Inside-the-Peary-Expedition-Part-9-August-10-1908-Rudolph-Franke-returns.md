@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition, Part 9: August 10, 1908: Rudolph Franke returns"
 category: General
 ---
 ## Inside the Peary Expedition, Part 9: August 10, 1908: Rudolph Franke returns
@@ -15,9 +15,9 @@ On August 10, Dr. Goodsell wrote in his diary:
 
 “A letter from Dr. Cook was received on May 7th by Rudolph Franke who was awaiting at Anoratok, Cape Inglefield, where the expedition started from. The letter said they had killed one hundred Musk-oxen, two hundred hare, and six or eight Bear.”
 
-Ross Marvin informed Louis Bement of the latest developments the next day:![August 11 1](../assets/August-11-11-702x1024_8p6-.jpg "August 11 1")
+Ross Marvin informed Louis Bement of the latest developments the next day:![August 11 1](http://babryce.com/cooktest/assets/August-11-11-702x1024_8p6-.jpg "August 11 1")
 
-![August 11 2](../assets/August-11-2-654x1024_8p6-.jpg "August 11 2")
+![August 11 2](http://babryce.com/cooktest/assets/August-11-2-654x1024_8p6-.jpg "August 11 2")
 
 8 – 11 1908  
 Etah, North Greenland.
@@ -70,7 +70,7 @@ Ross G. Marvin
 
 Dr. Goodsell was asked to examine Franke. Afterwards, he wrote his official report to Peary:
 
-![August 12 Goodsell Letter](../assets/August-12-Goodsell-Letter-864x1024_8p6-.jpg "August 12 Goodsell Letter")
+![August 12 Goodsell Letter](http://babryce.com/cooktest/assets/August-12-Goodsell-Letter-864x1024_8p6-.jpg "August 12 Goodsell Letter")
 
 Aug 12 1908  
 Commander R.E. Peary. U.S. N.

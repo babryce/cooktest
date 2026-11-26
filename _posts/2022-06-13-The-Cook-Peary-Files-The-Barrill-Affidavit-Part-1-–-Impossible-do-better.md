@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: The Barrill Affidavit: Part 1 – “Impossible do better.”"
 category: General
 ---
 ## The Cook-Peary Files: The Barrill Affidavit: Part 1 – “Impossible do better.”
@@ -15,11 +15,11 @@ As there were doubts from his first announcement of his polar conquest, there ha
 
 But as the Polar Controversy grew between Cook and Robert Peary over who had been first to the Pole, many saw opportunities developing to exploit their former associations with Frederick Cook in Alaska and get their back pay they were due—or perhaps even more. J. E. Shore, a U.S. Commissioner in Leavenworth, WA, alerted Herbert L. Bridgman, Secretary of the Peary Arctic Club, that Cook’s unpaid debts might provide useful fodder to use against Cook.
 
-![shore](../assets/shore-1024x995_6uWI.jpg "shore")
+![shore](http://babryce.com/cooktest/assets/shore-1024x995_6uWI.jpg "shore")
 
 Bridgman passed on Shore’s letter and enclosures indicating that several of Cook’s former expedition members had complained of Cook still owing them back wages to General Thomas H. Hubbard, the Peary Arctic Club’s president. Hubbard immediately engaged his law correspondent in Tacoma, James M. Ashton, to act on his behalf to obtain affidavits concerning what they knew about Cook’s Alaskan claims. After all, if it could be shown that Cook had not actually reached the summit of Mt. McKinley, that would set a glaring precedent for a dishonest claim to have reached the North Pole. No doubt, however, Hubbard realized that the key figure among those named by Shore in his letter was Barrill, because he alone had been with Cook in the days immediately before and after September 16, 1906, and so he alone knew for sure the truth or falsity of Cook’s claim to “the top of the continent.”
 
-![James M. Ashton](../assets/James-M.-Ashton_6uWI.png "James M. Ashton")
+![James M. Ashton](http://babryce.com/cooktest/assets/James-M.-Ashton_6uWI.png "James M. Ashton")
 
 *James M. Ashton*
 
@@ -27,29 +27,29 @@ Ashton later reported that he had indeed been hired by Hubbard to seek out these
 
 As Ashton met with the various expedition members, he kept up a running report on his progress via telegraph with Hubbard. On September 21 he reported:
 
-![September 21](../assets/September-21-1024x656_6uWI.jpg "September 21")[“Armstrong” was William Armstrong, one who assisted Cook with his 1906 pack train.]
+![September 21](http://babryce.com/cooktest/assets/September-21-1024x656_6uWI.jpg "September 21")[“Armstrong” was William Armstrong, one who assisted Cook with his 1906 pack train.]
 
 September 25:
 
-![September 25](../assets/September-25-1024x643_6uWI.jpg "September 25")
+![September 25](http://babryce.com/cooktest/assets/September-25-1024x643_6uWI.jpg "September 25")
 
 September 27:
 
-![September 27](../assets/September-27-1024x632_6uWI.jpg "September 27")
+![September 27](http://babryce.com/cooktest/assets/September-27-1024x632_6uWI.jpg "September 27")
 
 September 30:
 
-![September 30](../assets/September-30-1024x674_6uWI.jpg "September 30")
+![September 30](http://babryce.com/cooktest/assets/September-30-1024x674_6uWI.jpg "September 30")
 
 [Difficulties account parties increasing claims Make sure protect drafts which will run over amount stated [i.e. $2,000]. Many interferences causing continuance wild demands and indecision of parties.]
 
 October 1:
 
-![October 1](../assets/October-1-1024x687_6uWI.jpg "October 1")
+![October 1](http://babryce.com/cooktest/assets/October-1-1024x687_6uWI.jpg "October 1")
 
 On that day Ashton drew a customer’s draft for $5,000 on the Fidelity Trust Company of Tacoma, charged to the account of Thomas H. Hubbard, 60 Wall St., NY.
 
-![Check](../assets/Check1-1024x475_6uWI.jpg "Check")
+![Check](http://babryce.com/cooktest/assets/Check1-1024x475_6uWI.jpg "Check")
 
 **All the items reproduced here except the portrait of James Ashton are in the Peary Family Papers at National Archives II, College Park, MD.**
 

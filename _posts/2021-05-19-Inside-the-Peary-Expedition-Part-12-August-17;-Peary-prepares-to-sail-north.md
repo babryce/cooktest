@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north"
 category: General
 ---
 ## Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north
@@ -7,13 +7,13 @@ category: General
 
 After a walrus hunt to provide the Inuit with meat lost by his taking some of the best hunters north with him, Peary prepared to sail. He put the Bos’n, John Murphy in charge of Cook’s box house at Annoatok, to live there and guard the supplies Cook had brought against pilfering by the natives. To keep him company and keep the log, as Murphy was perfectly illiterate, he assigned Billy Pritchard, the *Roosevelt*’s cabin boy to stay with him. Peary wrote out a set of detailed instructions for Pritchard to read to Murphy to remind him of how he was to spend his time.
 
-The instructions he left are long and tedious, so no transcription is provided here. Ross Marvin’s handwritten copy of the instructions, signed by Peary, is generally legible, so the interested reader can read them from the original, dated at Etah, August 17, 1908, which is reproduced below and is now at NARA II.![August 17 instructions 1](../assets/August-17-instructions-1-800x1023_OKYx.jpg "August 17 instructions 1")
+The instructions he left are long and tedious, so no transcription is provided here. Ross Marvin’s handwritten copy of the instructions, signed by Peary, is generally legible, so the interested reader can read them from the original, dated at Etah, August 17, 1908, which is reproduced below and is now at NARA II.![August 17 instructions 1](http://babryce.com/cooktest/assets/August-17-instructions-1-800x1023_OKYx.jpg "August 17 instructions 1")
 
-![Instructions 2](../assets/Instructions-6-1024x692_OKYx.jpg "Instructions 6")
+![Instructions 2](http://babryce.com/cooktest/assets/Instructions-6-1024x692_OKYx.jpg "Instructions 6")
 
 Although he declared in the opening paragraph that he was leaving the men “in charge of the station here for the relief of Dr. Cook,” Peary wrote to his wife what his true intentions actually were:
 
-![August 17 Peary to Peary](../assets/August-17-Peary-to-Peary-909x1024_OKYx.jpg "August 17 Peary to Peary")
+![August 17 Peary to Peary](http://babryce.com/cooktest/assets/August-17-Peary-to-Peary-909x1024_OKYx.jpg "August 17 Peary to Peary")
 
 I have Sammy1 on board to  
 prevent Cook from taking him back.
@@ -48,7 +48,7 @@ At last the farewell given, we are away for Cape Sheridan and our winter quarter
 
 And so Peary sailed and would not be heard from by the world at large at all until his message was flashed to the world on September 6, 1909, from Battle Harbour, Labrador: “Stars and Stripes nailed to the North Pole.”
 
-As for Rudolph Franke, he watched as what only could be the skins he and Cook had collected over the winter were loaded aboard the *Erik.*  Franke had signed a receipt given to him by Ross Marvin acknowledging the $50 in gold given him for his expenses in getting back to New York. Later Herbert L. Bridgman, Secretary of the Peary Arctic Club, billed Mrs. Cook for the cost of Franke’s “relief.” This receipt is now in the Peary papers at NARA II.![August 17 Franke receipt](../assets/August-17-Franke-receipt-1024x625_OKYx.jpg "August 17 Franke receipt")
+As for Rudolph Franke, he watched as what only could be the skins he and Cook had collected over the winter were loaded aboard the *Erik.*  Franke had signed a receipt given to him by Ross Marvin acknowledging the $50 in gold given him for his expenses in getting back to New York. Later Herbert L. Bridgman, Secretary of the Peary Arctic Club, billed Mrs. Cook for the cost of Franke’s “relief.” This receipt is now in the Peary papers at NARA II.![August 17 Franke receipt](http://babryce.com/cooktest/assets/August-17-Franke-receipt-1024x625_OKYx.jpg "August 17 Franke receipt")
 
 1. “Sammy” was Peary’s first illegitimate son, whose Inuit name was Anaukaq. Apparently, Peary feared Cook might attempt to take him back to the United States to embarrass him. To prevent this, Peary took him north on the *Roosevelt.*
 

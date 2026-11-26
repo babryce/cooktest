@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States"
 category: General
 ---
 ## Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States
@@ -133,7 +133,7 @@ Rudolph Franke
 
 When Jo Peary ignored Franke’s letters, Osbon made good on his promise of creating a “sensation” in the press by claiming Peary had used Franke’s desperate condition to extort from him supplies and valuable fur and ivory worth more than $5,000.
 
-When it came time to write her letters to be delivered to her husband via the Arctic whalers, Jo warned him of the events that had ensued since he departed on his latest expedition:![Jo letter](../assets/Jo-letter2-830x1024_OKYx.jpg "Jo letter")
+When it came time to write her letters to be delivered to her husband via the Arctic whalers, Jo warned him of the events that had ensued since he departed on his latest expedition:![Jo letter](http://babryce.com/cooktest/assets/Jo-letter2-830x1024_OKYx.jpg "Jo letter")
 
 March 23, 1909
 

@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition, Part 7: A Letter from Rudolph Franke"
 category: General
 ---
 ## Inside the Peary Expedition, Part 7: A Letter from Rudolph Franke
@@ -15,7 +15,7 @@ At Etah, Peary retrieved a letter sent north via a native by Rudolph Franke, who
 
 When Cook had not appeared by the appointed date, Franke set out for North Star Bay. Not finding any whaling ships, he started back for Etah, sending ahead this letter to deliver in case he encountered a ship along the way or one had arrived at Etah during his absence:
 
-![July 13 Franke Letter](../assets/July-13-Franke-Letter-1024x821_8p6-.jpg "July 13 Franke Letter")
+![July 13 Franke Letter](http://babryce.com/cooktest/assets/July-13-Franke-Letter-1024x821_8p6-.jpg "July 13 Franke Letter")
 
 Oomanui, July 13, 1908
 

@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "The Cook-Peary files: July 31, 1914: “Case 2140″"
 category: General
 ---
 ## The Cook-Peary files: July 31, 1914: “Case 2140″
 
 
-*![Burns bill](../assets/Burns-bill1-824x1024_lewA.jpg "Burns bill")*
+*![Burns bill](http://babryce.com/cooktest/assets/Burns-bill1-824x1024_lewA.jpg "Burns bill")*
 
 *This is the fifth in a series examining significant unpublished documents associated with the Polar Controversy.*
 

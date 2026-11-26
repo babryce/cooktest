@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Differing versions of Donald MacMillan’s field diary brought to light"
 category: General
 ---
 ## Differing versions of Donald MacMillan’s field diary brought to light
@@ -50,5 +50,5 @@ After receiving this material from Dr. Welky, I considered whether I should modi
 
 My thanks to Dr. Welky for bringing this important material to my attention.
 
-![Donald MacMillan](../assets/MacMillan2001_3nNc.jpg "Donald MacMillan")
+![Donald MacMillan](http://babryce.com/cooktest/assets/MacMillan2001_3nNc.jpg "Donald MacMillan")
 

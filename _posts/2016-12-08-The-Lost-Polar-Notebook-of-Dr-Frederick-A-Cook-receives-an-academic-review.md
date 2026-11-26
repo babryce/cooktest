@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review."
 category: General
 ---
 ## The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review.
@@ -8,7 +8,7 @@ category: General
 It is almost impossible for a self-published book to receive a professional review in the United States. That’s because many journals still believe that a book that is not subject to the normal publishing process is either a “vanity” book or somehow compromised by not being professionally edited. There is certainly merit in this point of view, because probably well over 90% of self-published works justify these doubts. However, there are works of an academic, though thoroughly legitimate, nature that would be a loss for any for-profit publisher to publish. There’s just no money in them, like most doctoral theses, for instance.  *The Lost Polar Notebook* is such a work.  
 However, in the not-for-profit academic world, once published, each self-published book should be considered on its own merits, and apparently some in the UK take such a broad view. When I asked the *International Journal of Maritime History* to consider doing a review, they did.
 
-![Journal cover](../assets/Journal-cover_lewA.jpg "Journal cover")
+![Journal cover](http://babryce.com/cooktest/assets/Journal-cover_lewA.jpg "Journal cover")
 
 The full review is published in the journal’s May 2016 issue, which is available from Sage Publications online. Here is a few of the things the reviewer said about it.
 

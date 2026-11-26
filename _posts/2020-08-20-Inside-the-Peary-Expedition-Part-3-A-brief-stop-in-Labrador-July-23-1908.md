@@ -1,13 +1,13 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 3: A brief stop in Labrador, July 23, 1908"
 category: General
 ---
 ## Inside the Peary Expedition: Part 3: A brief stop in Labrador, July 23, 1908
 
 
-![Turnavik](../assets/Turnavik_8p6-.jpg "Turnavik")
+![Turnavik](http://babryce.com/cooktest/assets/Turnavik_8p6-.jpg "Turnavik")
 
-![Labrador 1](../assets/Labrador-21-754x1024_8p6-.jpg "Labrador 2")
+![Labrador 1](http://babryce.com/cooktest/assets/Labrador-21-754x1024_8p6-.jpg "Labrador 2")
 
 on board the Roosevelt,  
 off Turnavik, Labrador  

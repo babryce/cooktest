@@ -1,21 +1,21 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 2: The Expedition arrives at Sydney, July 14, 1908"
 category: General
 ---
 ## Inside the Peary Expedition: Part 2: The Expedition arrives at Sydney, July 14, 1908
 
 
-![Sydney](../assets/Sydney_8p6-.jpg "Sydney")
+![Sydney](http://babryce.com/cooktest/assets/Sydney_8p6-.jpg "Sydney")
 
 Sydney was the last calling place of most ships headed into the Arctic. It’s chief attraction was the abundant coal that could be had from the mines at North Sydney, which ran far out under the harbor.  It was also the last place where a wide variety of food and supplies could be obtained. But it also boasted the Sydney Hotel with hot baths and a formal dinning room.
 
-![Sydney hotel](../assets/Sydney-hotel_8p6-.jpg "Sydney hotel")
+![Sydney hotel](http://babryce.com/cooktest/assets/Sydney-hotel_8p6-.jpg "Sydney hotel")
 
 Peary’s chief assistant on the 1908 expedition was Ross Marvin, who taught Civil Engineering at his alma mater, Cornell University, and also at Mercersburg Academy in PA.  Marvin had served in a similar capacity on Peary’s try for the pole in 1905. He wrote a running series of letters home as the opportunity presented itself. In the transcriptions of these letters, all the spelling and grammatical errors they contained have been reproduced.  For a biographical sketch of Marvin, see: https://bloximages.newyork1.vip.townnews.com/nny360.com/content/tncms/assets/v3/editorial/4/41/44143d20-9136-11ea-a45c-c70f891330ea/5eb5695471f6f.pdf.pdf
 
 The letter head is of the Sydney Hotel, C.B., which stands for Cape Breton. Even though part of Nova Scotia since 1820, the island was always referred to this way during Peary’s time, when it had not been joined to the mainland by a causeway.
 
-![July 23 1](../assets/July-23-3-735x1024_8p6-.jpg "July 23 3")
+![July 23 1](http://babryce.com/cooktest/assets/July-23-3-735x1024_8p6-.jpg "July 23 3")
 
 Sunday, July 23, 1908\*
 

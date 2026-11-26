@@ -1,15 +1,15 @@
 ---
-title: tempFix
+title: "Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?"
 category: General
 ---
 ## Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?
 
 
-![Johnson 1](../assets/Johnson-11_hzBa.jpg "Johnson 1")
+![Johnson 1](http://babryce.com/cooktest/assets/Johnson-11_hzBa.jpg "Johnson 1")
 
 Probably the most obscure early study of the Polar Controversy appeared in June, 1915, as a 39-page booklet by William N. Johnson, titled *Did Admiral Peary “Achieve” the North Pole.* It was published in Chicago by the author and printed by the firm of Dvorak & Weiser.
 
-![Johnson](../assets/Johnson-669x1024_hzBa.jpg "Johnson")
+![Johnson](http://babryce.com/cooktest/assets/Johnson-669x1024_hzBa.jpg "Johnson")
 
 It had originally been written in 1911 and was sent by the author to Representative R. B. Macon, of Arkansas, who at that time was leading a campaign to defeat a bill introduced into the US Congress to recognize Robert E. Peary as the Discoverer of the North Pole and retire him with the rank of Rear Admiral in the Engineer Corps. But Johnson’s study arrived too late for Macon to make any use of it before the bill passed.
 

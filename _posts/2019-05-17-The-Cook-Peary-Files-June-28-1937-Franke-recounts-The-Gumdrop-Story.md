@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”"
 category: General
 ---
 ## The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”
 
 
-![bradley](../assets/bradley-233x300_omLw.jpg "bradley")
+![bradley](http://babryce.com/cooktest/assets/bradley-233x300_omLw.jpg "bradley")
 
 *John R. Bradley*
 
@@ -15,9 +15,9 @@ It all began with an interview with John Bradley, Dr. Frederick Cook’s financi
 
 When Andrew Freeman was doing research in the 1930’s for his biography of Cook that only emerged in very truncated form as *The Case for Dr. Cook* in 1961, he sought information from many who were still living then, and who had first-hand knowledge of the events of the Polar Controversy. He was very thorough, even in seeking small details. One of them was Rudolph Franke, who had been Bradley’s chef on his yacht and who stayed with Cook at Annoatok the winter before his attempt to reach the North Pole in 1908.
 
-Freeman asked about the “Gumdrop Story,” and received this reply from Franke. ![Gumdrops](../assets/Gumdrops3-883x1024_omLw.jpg "Gumdrops")
+Freeman asked about the “Gumdrop Story,” and received this reply from Franke. ![Gumdrops](http://babryce.com/cooktest/assets/Gumdrops3-883x1024_omLw.jpg "Gumdrops")
 
-After Cook’s After Cook’s downfall, some recalled the story and used it to ridicule him as “The Gumdrop Explorer.”![gumdrops](../assets/gumdrops-254x300_omLw.jpg "gumdrops")
+After Cook’s After Cook’s downfall, some recalled the story and used it to ridicule him as “The Gumdrop Explorer.”![gumdrops](http://babryce.com/cooktest/assets/gumdrops-254x300_omLw.jpg "gumdrops")
 
 As for Dr. Cook, he denied he had any gumdrops along on the trip.  He said that the only prepackaged sweets he took with him were boxes of Nabisco Wafers, which in those days were a plain shortbread cookie similar to those marketed today under the trade name of Lorna Doone.
 

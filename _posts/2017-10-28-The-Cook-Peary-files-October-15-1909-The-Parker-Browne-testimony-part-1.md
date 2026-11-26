@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1"
 category: General
 ---
 ## The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1
@@ -9,7 +9,7 @@ category: General
 
 Parker began his testimony by recounting his 1906 Alaskan experiences (not reproduced here); the panel then asked him some questions.
 
-![Explorers Club 2](../assets/Explorers-Club-34-758x1024_lewA.jpg "Explorers Club 3")
+![Explorers Club 2](http://babryce.com/cooktest/assets/Explorers-Club-34-758x1024_lewA.jpg "Explorers Club 3")
 
 It should be noted that when Cook sent a telegram announcing his success on McKinley on October 2, 1906, Parker had openly doubted it could be true. After Cook returned to New York in November, and met with Cook personally, however, he dropped his doubts, but still maintained that Cook’s triumph was nothing but an admirable physical feat, he having made no reliable measurements that would be of interest to science. Parker belief eventually went so far as to allow him to stand in for Dr. Cook at several lectures on the conquest in 1907. Browne, for his part, openly praised Cook before the Mazama Club upon their return to Seattle in early November, and in 1907 published an article along the same lines, expressing his admiration for Cook’s feat and saying he and Barrill had proved themselves to “be of the stuff men are made of.”
 

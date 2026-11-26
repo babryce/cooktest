@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "New edition of the lost polar notebook published"
 category: General
 ---
 ## New edition of the lost polar notebook published

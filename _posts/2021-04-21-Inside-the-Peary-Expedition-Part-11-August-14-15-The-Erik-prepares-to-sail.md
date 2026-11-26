@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail"
 category: General
 ---
 ## Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail
@@ -17,7 +17,7 @@ As usual, Dr. Goodsell’s copious diary recorded the latest news on August 14, 
 
 “The disability of Franke compelling his return would leave Dr. Cook’s supplies to be squandered by the Eskimo if not protected by the men from the Roosevelt.”
 
-As the Erik prepared to sail, Ross Marvin penned a final letter to Louis Bement:![August 15 1](../assets/August-15-22-669x1024_8p6-.jpg "August 15 2")
+As the Erik prepared to sail, Ross Marvin penned a final letter to Louis Bement:![August 15 1](http://babryce.com/cooktest/assets/August-15-22-669x1024_8p6-.jpg "August 15 2")
 
 8-15 1908  
 Etah, North Greenland

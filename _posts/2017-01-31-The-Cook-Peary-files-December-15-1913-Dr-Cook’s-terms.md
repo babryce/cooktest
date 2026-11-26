@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary files: December 15, 1913: Dr. Cook’s terms."
 category: General
 ---
 ## The Cook-Peary files: December 15, 1913: Dr. Cook’s terms.
@@ -15,5 +15,5 @@ By 1913, a cheaper, “Press Edition” of *My Attainment of the Pole* had been 
 
 His manager, G. W. Baker,  set out his terms:
 
-![Baker letter](../assets/Baker-letter-787x1024_lewA.jpg "Baker letter")**Baker’s letter is among the Peary Family Collection at the National Archives II in College Park, Md.**
+![Baker letter](http://babryce.com/cooktest/assets/Baker-letter-787x1024_lewA.jpg "Baker letter")**Baker’s letter is among the Peary Family Collection at the National Archives II in College Park, Md.**
 

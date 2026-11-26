@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition, Part 8: Word of Dr. Cook gets out: August 7, 1908"
 category: General
 ---
 ## Inside the Peary Expedition, Part 8: Word of Dr. Cook gets out: August 7, 1908
@@ -7,7 +7,7 @@ category: General
 
 Once Dr. Cook’s March 17 letter was retrieved from Annoatok, apparently, as Peary’s secretary, Marvin was asked to make a copy.  He couldn’t help himself from telling his friend what he learned of Cook’s movements.  A copy of Cook’s letter, with a number of transcription errors, is among Peary’s papers at NARA II.
 
-![August 7, 1](../assets/August-7-21-743x1024_8p6-.jpg "August 7, 2")
+![August 7, 1](http://babryce.com/cooktest/assets/August-7-21-743x1024_8p6-.jpg "August 7, 2")
 
 8 – 7 08  
 Etah, N. Greenland.  

@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 2"
 category: General
 ---
 ## The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 2
@@ -9,7 +9,7 @@ category: General
 
 The lecture Parker refers to took place on December 7, 1906. Cook’s claimed success in Alaska led to his election as the second president of the Explorers Club later that year.  Parker makes much of Cook having a silk flag. This seems trivial, after all, his explanation isn’t implausible, or perhaps he took it along, “just in case.”
 
-![Explorers Club 4](../assets/Explorers-Club-9A-1024x423_lewA.jpg "Explorers Club 9A")
+![Explorers Club 4](http://babryce.com/cooktest/assets/Explorers-Club-9A-1024x423_lewA.jpg "Explorers Club 9A")
 
 Things to note in this section:
 

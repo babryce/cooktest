@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome"
 category: General
 ---
 ## The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome
@@ -15,7 +15,7 @@ Brady broke Matt in with a lecture at Middletown, Connecticut. It was an awkward
 
 There were rumors that Henson had challenged Dr. Cook to a public debate. Peary wanted this to be avoided at all costs and seemed to fear what Henson might inadvertently say. He wrote to Herbert L. Bridgman, Secretary of the Peary Arctic Club:
 
-![Henson letter](../assets/Henson-letter2-876x1024_-4zE.jpg "Henson letter")
+![Henson letter](http://babryce.com/cooktest/assets/Henson-letter2-876x1024_-4zE.jpg "Henson letter")
 
 *(”I have not happened to come across the so called Henson challenge to Cook, though I note references to it in the papers*
 
@@ -25,19 +25,19 @@ There were rumors that Henson had challenged Dr. Cook to a public debate. Peary 
 
 Peary also strenuously objected to Henson showing photographs made on the journey to the North Pole, claiming that Henson by contract was bound to turn over all of the photographs he had taken to him. He was so concerned about the picture of the Pole itself, that he wired, “If Henson, as newspapers say, has picture of NP, or the sledge journey he has lied to me, and these pictures must on no account be shown by him I doubt the papers.” The dispute with Peary was just the publicity Brady dreamed of, and he was now so sure that Henson’s lecture tour would be a success that he booked him at the Hippodrome for the evening of October 17.
 
-![Henson Hippodrome 2](../assets/Henson-Hippodrome-2-1024x519_-4zE.jpg "Henson Hippodrome 2")
+![Henson Hippodrome 2](http://babryce.com/cooktest/assets/Henson-Hippodrome-2-1024x519_-4zE.jpg "Henson Hippodrome 2")
 
 The Hippodrome was billed as the largest theater in the world; certainly it was the largest in the United States. Occupying an entire block on 6th Avenue between 43rd and 44th Streets, it was host to full-fledged three-ring circuses and other monster extravaganzas.
 
-![350px-Hippodrome_NYC_c1905_crop](../assets/350px-Hippodrome_NYC_c1905_crop_-4zE.jpg "350px-Hippodrome_NYC_c1905_crop")
+![350px-Hippodrome_NYC_c1905_crop](http://babryce.com/cooktest/assets/350px-Hippodrome_NYC_c1905_crop_-4zE.jpg "350px-Hippodrome_NYC_c1905_crop")
 
 Henson must have been awed to step onto the stage of this cavernous house, which sat up to 5,300. But the paying audience amounted to only about 500 scattered among a vast sea of empty seats.
 
-![large-2714989364](../assets/large-2714989364_-4zE.gif "large-2714989364")
+![large-2714989364](http://babryce.com/cooktest/assets/large-2714989364_-4zE.gif "large-2714989364")
 
 One of them was occupied by Herbert L. Bridgman, who Peary had dispatched to get a look at Henson’s photographs and generally do damage control if necessary. Bridgman didn’t seem too concerned by Henson’s performance, though he did say some unsettling things, including that Cook’s Eskimos, when they had first come aboard at Etah, had said that Cook had told them they had arrived at the North Pole [see the series “The ‘Eskimo Testimony’” below.]   After this fiasco Brady immediately canceled the two nights he had booked at Carnegie Hall, the turnout at the Hippodrome not justifying any hope for recovering the high overhead of that booking. Instead, he took Henson to Pittsburgh. But there and the farther west Henson went, the receipts continued to dwindle until Brady had to compromise his contract and pay him off.
 
-**![Matt Henson white 2](../assets/Matt-Henson-white-2-714x1024_-4zE.jpg "Matt Henson white 2")**
+**![Matt Henson white 2](http://babryce.com/cooktest/assets/Matt-Henson-white-2-714x1024_-4zE.jpg "Matt Henson white 2")**
 
 **Matt Henson ready for the stage: Henson’s publicity photograph by White Studio, theatrical photographers**
 
@@ -45,7 +45,7 @@ Nevertheless, Henson’s appearances had led to a number of revealing statements
 
 Peary was outraged, and assured General Thomas Hubbard, President of the Peary Arctic Club, that these and other reported statements were “all lies.” He complained to Benjamin Hampton, owner of Hampton’s Magazine, who paid Peary a record per-word fee for the magazine rights to his narrative, that “Henson, after my looking after him for years, after giving him a position in the advance party with me on all of my expeditions, and after permitting him to go with me to the pole this time, has now for the sake of few dollars deliberately and intentionally broken faith with me.” And to Herbert Bridgman Peary was unequivocal about what such “disloyalty” meant: “He has deliberately and premeditatedly deceived me and broken his explicit and thoroughly understood word and promise to me and I am done with him absolutely.”
 
-\**For those interested in the documentary evidence of this statement, see the Introduction to the Cooper Square Press edition of Henson’s book,* A Negro Explorer at the North Pole*, published in 2001.*  ![9780815411253-us-300-1942197860](../assets/9780815411253-us-300-1942197860_-4zE.jpg "9780815411253-us-300-1942197860")
+\**For those interested in the documentary evidence of this statement, see the Introduction to the Cooper Square Press edition of Henson’s book,* A Negro Explorer at the North Pole*, published in 2001.*  ![9780815411253-us-300-1942197860](http://babryce.com/cooktest/assets/9780815411253-us-300-1942197860_-4zE.jpg "9780815411253-us-300-1942197860")
 
 **All of the quoted correspondence, including the one published here for the first time, can be found among the Peary Family Collection, Record group XP, at NARA II.**
 

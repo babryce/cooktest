@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Dr. Cook Artifacts 13: The Polar Controversy in Song"
 category: General
 ---
 ## Dr. Cook Artifacts 13: The Polar Controversy in Song
@@ -7,15 +7,15 @@ category: General
 
 It’s surprising that such a long running news story as the Polar Controversy, which occupied front pages for nearly four months, would not inspire Tin Pan Alley to write many songs about it. But it came before current news became a frequent subject of popular song. From *The Sinking of the Titanic* on, songs about current events, especially disasters (*When the Lusitania went Down, The Santa Barbara Earthquake, The Wreck of the* (airship) *Shenandoah, The Death of Floyd Collins*, etc. etc., not to mention innumerable train wrecks) and culminating in numerous songs about the Lindbergh flight, front-page news often produced a song.
 
-![Stars and stripes](../assets/Stars-and-stripes-1024x995_hzBa.jpg "Stars and stripes")
+![Stars and stripes](http://babryce.com/cooktest/assets/Stars-and-stripes-1024x995_hzBa.jpg "Stars and stripes")
 
 Only one has come to light, titled *The Stars and Stripes are Nailed to the Old North Pole*, music by Arthur A. Penn, words by Josephine M. Raab, published by the Pemberton Publishing House, NY. Curiously, though Peary telegraphed the title announcing his discovery, the explorer depicted on the cover looks more like Frederick Cook! Many AI searches failed to find evidence of a single other contemporary song on the subject of the discovery of the North Pole. Some results claimed there were some, and even named them, but a direct search on the title given resulted in no results, so none could be verified.
 
 There were, however, several piano compositions inspired by it. It was the height of the Ragtime craze, and two different composers produced *North Pole Rags* in 1909.
 
-![North Pole Stokes](../assets/North-Pole-Stokes_hzBa.png "North Pole Stokes")
+![North Pole Stokes](http://babryce.com/cooktest/assets/North-Pole-Stokes_hzBa.png "North Pole Stokes")
 
-![Stark North Pole Rag](../assets/Stark-North-Pole-Rag_hzBa.jpg "Stark North Pole Rag")
+![Stark North Pole Rag](http://babryce.com/cooktest/assets/Stark-North-Pole-Rag_hzBa.jpg "Stark North Pole Rag")
 
 One, sometimes incorrectly attributed to the famous ragtime publisher John Stark, was actually written by S. J. Stokes, published by L. Gurnwald Co., New Orleans, the other, by John Lind, was issued by the composer. You can hear them played by copying the following links, or click on the appropriate link in the Blogroll at the right:
 
@@ -27,19 +27,19 @@ For John Lind:
 
 https://www.youtube.com/watch?v=0sGXCu3s1b8
 
-![Race to the pole](../assets/Race-to-the-pole-984x1024_hzBa.jpg "Race to the pole")
+![Race to the pole](http://babryce.com/cooktest/assets/Race-to-the-pole-984x1024_hzBa.jpg "Race to the pole")
 
 A further “March – Two-step” titled *Dash to the* *Pole* by Elwin L. Shaw was issued as a souvenir to the Brockton, MA fair by the Old Colony Piano Co. Though, judging by the cover, which not only shows explorers in icy conditions, but also a horse race, the title may be a pun on a piece originally written to depict another event altogether.
 
 Another more ambitions piano composition was inspired by Peary’s journey. This was written in England, where Peary’s claim was accepted without question, and has no references to Dr. Cook.
 
-![ezra read](../assets/ezra-read1_hzBa.jpg "ezra read")
+![ezra read](http://babryce.com/cooktest/assets/ezra-read1_hzBa.jpg "ezra read")
 
 **Ezra Read**
 
 It was written by Ezra Read (1862-1922), a band master and composer of many topical piano “fantasias,” that attempted to depict, in tones, concrete events, by dividing them into short descriptive episodes.
 
-![Read covers](../assets/Read-covers_hzBa.jpg "Read covers")
+![Read covers](http://babryce.com/cooktest/assets/Read-covers_hzBa.jpg "Read covers")
 
 It was called *The North Pole, a Descriptive Piece*, published in London by W. Paxton & Co., and is shown above among some of Read’s other compositions.  It’s seven pages long and is structured into several distinct movements. Each movement captures a different aspect of the narrative related to the Arctic expedition. The sections are as follows:
 
@@ -53,7 +53,7 @@ Movement Number Title
 
 These movements collectively depict the journey and experiences of the expedition to the North Pole.
 
-![Railroad-Rag](../assets/Railroad-Rag_hzBa.jpg "Railroad-Rag")
+![Railroad-Rag](http://babryce.com/cooktest/assets/Railroad-Rag_hzBa.jpg "Railroad-Rag")
 
 Although no other specific contemporary songs have turned up, Dr. Cook was given a verse in a totally unlikely place in a 1911 hit called *That Railroad Rag* by Ed Bimberg.
 

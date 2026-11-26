@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: October 15, 1902: A Ziegler-Cook Expedition?"
 category: General
 ---
 ## The Cook-Peary Files: October 15, 1902: A Ziegler-Cook Expedition?
 
 
-*![Mrs. Peary 1902A](../assets/Mrs.-Peary-1902B-273x300_lewA.jpg "Mrs. Peary 1902B")*
+*![Mrs. Peary 1902A](http://babryce.com/cooktest/assets/Mrs.-Peary-1902B-273x300_lewA.jpg "Mrs. Peary 1902B")*
 
 *This is the 10th in a series examining significant unpublished documents related to the Polar Controversy.*
 
@@ -47,7 +47,7 @@ But that Mrs. Peary refers to a “Ziegler-Cook” expedition indicates that in 
 
 The operation Josephine Peary refers to was done on Peary’s feet after his return from his five-year “Siege of the Pole” lasting from 1898-1902. He had lost seven toes to frostbite in January 1899 attempting to reach Fort Conger. His physician, Dr. Dedrick, removed those toes in the Arctic, leaving painful stubs. The Dr. Keen mentioned was William W. Keen (below), one of the elite surgeons of his day, who was called upon to assist in the secret operation on President Grover Cleveland when he was found to have cancer of the palette in 1893. It was he who operated on Peary to remove one remaining good toe, leaving him with only his two smallest toes, and evening up the stubs. He then pulled the skin of the sole of Peary’s foot over them, making a cushion for the shortened digits.
 
-![ww keen](../assets/ww-keen1-223x300_lewA.jpg "ww keen")
+![ww keen](http://babryce.com/cooktest/assets/ww-keen1-223x300_lewA.jpg "ww keen")
 
 Mrs. Peary’s reference to “Mrs. Ded” is a reference to Cora Dedrick, wife of Peary’s expedition doctor. The two of them had a falling out during the winter of 1900 and hardly spoke to one another the rest of the expedition. Dedrick knew of Peary’s infidelity with Inuit women, and Peary was deathly afraid it would get back to Morris K. Jesup, President of the Peary Arctic Club and his chief benefactor. Jesup was a straight-laced founder of the New York YMCA and ally of Anthony Comstock, such information would have been devastating to Peary’s interests and future financing.
 

@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer"
 category: General
 ---
 ## The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer
@@ -13,7 +13,7 @@ On October 6th they offered him $1,000 for this record, enclosing a check and se
 
 Apparently, his telegram in reply to this offer was not clear on the exclusivity of their rights. So they wrote to him again on October 20, clarifying exactly what they wanted and sweetening the deal by adding 10% of the price of each record sold to be added to the $1,000 originally offered.
 
-![Victor 1](../assets/Victor-2-1023x754_omLw.jpg "Victor 2")
+![Victor 1](http://babryce.com/cooktest/assets/Victor-2-1023x754_omLw.jpg "Victor 2")
 
 It should be understood that $1,000 in 1909 had the approximate buying power of $27,000 dollars today. Not bad for 4 minutes and 20 seconds of work!
 

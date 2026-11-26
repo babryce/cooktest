@@ -1,13 +1,13 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 5: The Roosevelt reaches the native settlements, August 3, 1908"
 category: General
 ---
 ## Inside the Peary Expedition: Part 5: The Roosevelt reaches the native settlements, August 3, 1908
 
 
-![August 3  1](../assets/August-3-12-674x1024_8p6-.jpg "August 3  1")
+![August 3  1](http://babryce.com/cooktest/assets/August-3-12-674x1024_8p6-.jpg "August 3  1")
 
-![August 3 2](../assets/August-3-21-670x1024_8p6-.jpg "August 3 2")
+![August 3 2](http://babryce.com/cooktest/assets/August-3-21-670x1024_8p6-.jpg "August 3 2")
 
 8 – 3 1908  
 North Star Bay.1  

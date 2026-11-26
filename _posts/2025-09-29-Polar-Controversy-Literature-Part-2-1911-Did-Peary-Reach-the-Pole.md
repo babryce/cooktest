@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?"
 category: General
 ---
 ## Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?
@@ -7,7 +7,7 @@ category: General
 
 *This is the second in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 
-![Did Peary Reach the Pole](../assets/Did-Peary-Reach-the-Pole_62j0.jpg "Did Peary Reach the Pole")
+![Did Peary Reach the Pole](http://babryce.com/cooktest/assets/Did-Peary-Reach-the-Pole_62j0.jpg "Did Peary Reach the Pole")
 
 It took less than a year before the first book appeared doubting Peary’s claim with the questioning title, *Did Peary Reach the Pole?* It was published in England by W. Henry Lewin, who styled himself merely as “An Englishman in the Street,” but who was something of a professional skeptic on a number of topics in all of his privately published later writings.
 

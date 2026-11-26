@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Looking back on the eve of the centennial of the great Polar Controversy."
 category: General
 ---
 ## Looking back on the eve of the centennial of the great Polar Controversy.
@@ -15,7 +15,7 @@ It will be 100 years ago tomorrow that those fateful words broke upon an unsuspe
 
 The only event marking Cook’s 1908 claim was a gathering of the dwindling faithful of the Frederick A. Cook Society in rented rooms in New York City. That’s not really surprising, since Cook’s claim was discredited just two months after he made it, when the Konsistorium of the University of Copenhagen, the experts that Cook chose to review his “proofs,” rendered it’s judgment: “The Commission is therefore of the opinion that there can not in the material which has been submitted to us for examination, be found any proof whatsoever of Dr Cook having reached the Northpole.” Yet the faithful duly met on May 6, 2008, but the only note made of it by the outside world was a short piece that appeared on March 30 in the local Brooklyn section of the *New York Times* by freelance writer James Vescovi. At that meeting members of the Cook Society and several academics and “polar historians” they regularly feature at these paid-for gatherings, presented papers reciting their mantras on how Cook was cheated of his claim and his fame by a great conspiracy, or on academic topics unrelated to him at all.
 
-[![dycke2.jpg](../assets/dycke2.jpg "dycke2.jpg")
+[![dycke2.jpg](http://babryce.com/cooktest/assets/dycke2.jpg "dycke2.jpg")
 
 ***Cook vs. Dyche?  Cook’s supporters are as confused as usual.***
 
@@ -23,13 +23,13 @@ Yet Peary’s 1909 claim got nearly as little attention. If Tom Avery hadn’t b
 
 In a preface to the *Smithsonian* article Henderson predicted that “there’s going to be a lot of stories about the centennial of the discovery of the North Pole by Robert Peary.” He was wrong on that, as he was about so much else in his book. Not even the National Geographic Society made any note of the 100th anniversary of Peary’s claim to be the discoverer of the North Pole, a title it had helped to create and in the past had often vigorously defended. In so doing, *Smithsonian*’s article stood out as unusually singular, and left it with the egg on it’s face that has usually been reserved in the past for the National Geographic Society, whenever the Polar Controversy raised it’s head. The editors at *Smithsonian* (the magazine relies entirely on free lance writers, not Smithsonian employees, and disclaims that the views it contains are necessarily those of the Smithsonian Institution) were apparently the only ones so ill informed as to allow themselves to appear to endorse Cook’s claim, which is now almost universally recognized as an attempt at the greatest circumstantial scientific fraud of the 20th Century. Actually, the article should have been entitled “Cook vs. Dyche,” as among its numerous gaffs and biased versions of events, the other explorer facing down Cook on the double-page spread that introduced the article is not Peary at all, but L. L. Dyche, a professor at Kansas State University, who went twice to Greenland, once with each of the contentious explorers, to gather biological specimens.
 
-[![img_4859_1_1.JPG](../assets/?attachment_id=17 "img_4859_1_1.JPG")
+[![img_4859_1_1.JPG](http://babryce.com/cooktest/assets/?attachment_id=17 "img_4859_1_1.JPG")
 
 ***Dr. Cook at Bowdoin.***
 
 The only major commemoration of Peary’s centennial took place at Peary’s Alma Mater, Bowdoin College, in Brunswick, Maine. (see Blogroll)  It consisted of an internal symposium and a very well mounted exhibition that brought together many key artifacts of Peary’s 1908-1909 expedition in the rooms of the Peary-MacMillan Arctic Museum under the title “Northward over the Great Ice.” Among them were one of Peary’s sledges and the silk flag Peary carried on all of his journeys after 1897, and from which he cut portions to leave at key points in his travels, including a long diagonal swath he claimed to have buried at the North Pole in 1909. The exhibit also had a number of interesting items related to the other members of Peary’s team, including a newsreel interview with Matthew Henson, Peary’s long-time servant turned assistant.
 
-[![img_4854_2_1.JPG](../assets/?attachment_id=15 "img_4854_2_1.JPG")
+[![img_4854_2_1.JPG](http://babryce.com/cooktest/assets/?attachment_id=15 "img_4854_2_1.JPG")
 
 Cook received more attention than expected at Bowdoin, including equal-sized photographic portraits in one frame with a summary of the controversy mounted beneath, captioned “Heroes or Villains?” An enlargement of Cook’s photo of an igloo that he said he erected at the North Pole was also on display in the hall.
 
@@ -37,7 +37,7 @@ Cook received more attention than expected at Bowdoin, including equal-sized pho
 
 Within the exhibition itself, Cook got a case all to himself containing a map of his reported route, a picture of the remains of the stone igloo at Cape Hardy (notice: it is not a cave) where he spent the winter of 1908-1909 with his two Inuit companions, and several souvenirs of the dispute, including the cover page from a French publication showing Cook and Peary in a fist fight at the North Pole while penguins look on. Of course, there have never been any penguins at the North Pole, but then again Cook and Peary were never there either.
 
-[![img_4855_3_1.JPG](../assets/?attachment_id=16 "img_4855_3_1.JPG")
+[![img_4855_3_1.JPG](http://babryce.com/cooktest/assets/?attachment_id=16 "img_4855_3_1.JPG")
 
 ***Is the Polar Controversy nearing an end?***
 

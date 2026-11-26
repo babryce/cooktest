@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Author plans transcription of Cook’s polar notebook"
 category: General
 ---
 ## Author plans transcription of Cook’s polar notebook

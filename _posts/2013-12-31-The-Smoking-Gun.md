@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Smoking Gun"
 category: General
 ---
 ## The Smoking Gun

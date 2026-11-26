@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "There and Back Again: the Dr. John Goodsell Archives: Volume I"
 category: General
 ---
 ## There and Back Again: the Dr. John Goodsell Archives: Volume I
 
 
-*![Goodsell Archive](../assets/Goodsell-Archive-247x300_omLw.jpg "Goodsell Archive")*
+*![Goodsell Archive](http://babryce.com/cooktest/assets/Goodsell-Archive-247x300_omLw.jpg "Goodsell Archive")*
 
 *This is the second of three posts covering* There and Back Again; The Dr. John Goodsell Archives *issued by the Mercer County Historical Society. For preliminary remarks, see the last published post.*
 

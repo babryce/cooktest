@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: The Barrill Affidavit, Part 4: Who got what?"
 category: General
 ---
 ## The Cook-Peary Files: The Barrill Affidavit, Part 4: Who got what?
@@ -13,17 +13,17 @@ In his chapter “The Mt. McKinley Bribery” in *My Attainment of the Pole*, Co
 
 These statements were based on solid evidence. It came in the form of a long letter from one C. O. Anderson, an attorney in Kennewick, WA, who claimed to have interviewed the witness to the Barrill payoff:
 
-![aftermath 1](../assets/aftermath-1_6uWI.jpg "aftermath 1")
+![aftermath 1](http://babryce.com/cooktest/assets/aftermath-1_6uWI.jpg "aftermath 1")
 
-![aftermath 2](../assets/aftermath-2_6uWI.jpg "aftermath 2")
+![aftermath 2](http://babryce.com/cooktest/assets/aftermath-2_6uWI.jpg "aftermath 2")
 
-![aftermath 3](../assets/aftermath-3_6uWI.jpg "aftermath 3")
+![aftermath 3](http://babryce.com/cooktest/assets/aftermath-3_6uWI.jpg "aftermath 3")
 
 H. Wellington Wack, Cook’s lawyer, followed up by visiting this witness in Indiana. He forwarded a summary of what he had found to assist Cook as he was finishing up the text of his book in early 1911:
 
-![wack 1](../assets/wack-1_6uWI.jpg "wack 1")
+![wack 1](http://babryce.com/cooktest/assets/wack-1_6uWI.jpg "wack 1")
 
-![wack 2](../assets/wack-21_6uWI.jpg "wack 2")
+![wack 2](http://babryce.com/cooktest/assets/wack-21_6uWI.jpg "wack 2")
 
 The affidavits Wack mentions here have as yet not come to light.
 
@@ -31,7 +31,7 @@ Early in October 1909, rumors of plans to bribe Barrill had already induced Cook
 
 When Cook’s serial story of his conquest of the North Pole had begun to appear in the New York *Herald*, Roscoe C. Mitchell, one of the paper’s reporters, had been assigned to accompany Cook as his “confidential agent” to watch over the *Herald*’s interests. Cook now dispatched him, under the direction of his attorney to Missoula, Montana.
 
-![Savoy](../assets/Savoy_6uWI.jpg "Savoy")
+![Savoy](http://babryce.com/cooktest/assets/Savoy_6uWI.jpg "Savoy")
 
 At the new Savoy Hotel there, two local lawyers, Col. Tom Marshall of Missoula, and “General” Elbert D. Weed, of Helena, assisted Mittchell in finding witnesses to counter any potential statements made by Barrill.  The lawyers took affidavits from Barrill’s real estate business partner, C. G. Bridgeford and several others. Fred Printz, who reportedly was doing some dickering himself for as much as $1,000, also was interviewed by Cook’s lawyers at the Savoy.  Mitchell was later joined there by Cook and his private secretary, Walter Lonsdale.
 
@@ -39,13 +39,13 @@ Statements by Bridgeford had been published in the New York *Herald* on October 
 
 These moves did not go unnoticed by Ashton, who had his own agents working the ground in Montana. He wrote to General Hubbard about what he found out and also sought to discredit Bridgeford.
 
-![Cook bribes](../assets/Cook-bribes_6uWI.jpg "Cook bribes")
+![Cook bribes](http://babryce.com/cooktest/assets/Cook-bribes_6uWI.jpg "Cook bribes")
 
 In the copy of *My Attainment of the Pole* that Cook gave to Weed in 1912, the lawyer made a number of annotations in red ink throughout. On page 534 he confirmed Ashton’s statements, but made the Freudian slip of writing “Bridgman” for “Bridgeford” as one of the men from whom Cook’s contingent obtained affidavits.
 
-![Dedication](../assets/Dedication_6uWI.jpg "Dedication")
+![Dedication](http://babryce.com/cooktest/assets/Dedication_6uWI.jpg "Dedication")
 
-![Weed](../assets/Weed_6uWI.jpg "Weed")
+![Weed](http://babryce.com/cooktest/assets/Weed_6uWI.jpg "Weed")
 
 “In October 1909, Col. Tom Marshall and myself, at Missoula, Montana, took the affidavits of a number of men – among others of Printz and Bridgman – fully sustaining Dr. Cook in the matter.  
 (signed) E. D. Weed”
@@ -54,7 +54,7 @@ Some have assumed, based on press reports and the discovery of the $5,000 Hubbar
 
 It’s probably accurate then, based on the witness, that Barrill actually received only $1,500, but still a substantial sum. Cook claimed that Printz eventually got $500, after being promised more, and that both Miller and Beecher “were promised large amounts, but were cheated at the ‘showdown.’” Just exactly what the others got is unknown. Cook also claimed Printz tried to sell Roscoe Mitchell an affidavit supporting him for $1,000, was turned down, and later solicited $350 in a letter dated October 12. The letter, which is quoted in Cook’s book on page 525, was among the holdings of the Frederick Cook Society before they were transferred to Ohio State, and presumably is there now.
 
-![Printz](../assets/Printz_6uWI.jpg "Printz")
+![Printz](http://babryce.com/cooktest/assets/Printz_6uWI.jpg "Printz")
 
 However, it’s curious that it says it is a “copy” and is on the stationary of the Chittendon Hotel in Columbus, OH, when it is said to have been written at the Savoy in Missoula. For Printz’s part, he denied ever having written such a letter. Because he ended up signing an affidavit for Ashton, we can assume he got nothing from Cook’s side.
 

@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II"
 category: General
 ---
 ## Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II
@@ -7,7 +7,7 @@ category: General
 
 But *Has the North Pole Been Discovered?* was not Hall’s last word on the subject. In 1920 he published a paperbound supplement to the book which he styled as “Volume II,” which attempted to account for developments since his book’s publication. In it he devoted 52 of its 62 pages to subjects related to the “Eskimo Testimony.”
 
-![HNPBD II 2](../assets/HNPBD-II-2_hzBa.jpg "HNPBD II 2")
+![HNPBD II 2](http://babryce.com/cooktest/assets/HNPBD-II-2_hzBa.jpg "HNPBD II 2")
 
 Despite its slightness, which he described on its title page as “a review of allegations of facts, which have come to light since Volume I was printed,” Hall claimed “these interesting allegations supply the links, which complete the chain of evidence, regarding the alleged testimony of Cook’s Eskimos.” The new book consisted of two chapters and an epilogue. The first was devoted to MacMillan’s article published in the February 1918 number of *The Geographical Review*.
 
@@ -15,7 +15,7 @@ Hall noted all of the discrepancies between MacMillan’s article and the statem
 
 The second chapter was concerned with an article entitled “Solving the Problem of the Arctic,” published by the arctic explorer Vilhjalmur Stefansson in the October 1919 issue of *Harper’s Magazine*. Although he never stated it outright as his intent, the “problem” Stefansson meant to solve was whether or not Frederick Cook actually went to the North Pole in 1908.
 
-On a map showing graphically the falsity of the claims about Cook made by Stefansson, Hall also drew in a route for Cook that he felt corresponded to MacMillan’s 1918 article, but was completely different from the one that appeared on the map allegedly drawn by the same two Inuit in 1909. Instead of traveling out to, and then down the western coast of Meighen Island, as they had shown there, MacMillan’s letter seemed to indicate that they had continued directly down the western coast of Axel Heiberg Island to Cape Levvel before crossing over to the east coast of Amund Ringnes Island.![HNPBD map](../assets/HNPBD-map-659x1024_hzBa.jpg "HNPBD map")
+On a map showing graphically the falsity of the claims about Cook made by Stefansson, Hall also drew in a route for Cook that he felt corresponded to MacMillan’s 1918 article, but was completely different from the one that appeared on the map allegedly drawn by the same two Inuit in 1909. Instead of traveling out to, and then down the western coast of Meighen Island, as they had shown there, MacMillan’s letter seemed to indicate that they had continued directly down the western coast of Axel Heiberg Island to Cape Levvel before crossing over to the east coast of Amund Ringnes Island.![HNPBD map](http://babryce.com/cooktest/assets/HNPBD-map-659x1024_hzBa.jpg "HNPBD map")
 
 Off what appears to be Cape Levvel on Hall’s map, he places the “very low island” described in MacMillan’s 1918 text as lying at the 79th parallel. No such islands are shown on modern maps. However, Hall’s map is very sketchy and lacking in detail, being based on Sverdrup’s field maps.
 

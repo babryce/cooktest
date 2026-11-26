@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "In the wake of the Gold Brick: Polar partisans said to be victims of “motivational reasoning”; blog commentaries prove point."
 category: General
 ---
 ## In the wake of the Gold Brick: Polar partisans said to be victims of “motivational reasoning”; blog commentaries prove point.
@@ -23,11 +23,11 @@ But it was on this day a hundred years ago that Peary sent this famous message:
 
 The *New York Herald* didn’t want to wait and instead asked for the “proof” immediately.  After all, it had paid $3,000 to Cook for his exclusive account and had devoted it’s entire front page to Cook’s discovery only eight days before.
 
-![bigscoop](../assets/bigscoop1-221x300_4AlG.jpg "bigscoop")
+![bigscoop](http://babryce.com/cooktest/assets/bigscoop1-221x300_4AlG.jpg "bigscoop")
 
 The *Herald* had given Peary similar coverage on September 7:
 
-![Peary returns](../assets/Peary-returns5-212x300_4AlG.jpg "Peary returns")
+![Peary returns](http://babryce.com/cooktest/assets/Peary-returns5-212x300_4AlG.jpg "Peary returns")
 
 When “proof” was not forthcoming, Peary pleading that he had only seen “fragmentary” and “contradictory” reports of Cook’s claims, the Herald editorialized:  “If the information he possess is too fragmentary and contradictory to permit of his controverting Dr. Cook’s story, it would have been, to say the least, more dignified to wait until he obtained the correct story before launching his charges.”
 

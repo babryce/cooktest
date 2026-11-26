@@ -1,15 +1,15 @@
 ---
-title: tempFix
+title: "Inside the Peary Expedition: Part 4: At Sea, July 30. 1908"
 category: General
 ---
 ## Inside the Peary Expedition: Part 4: At Sea, July 30. 1908
 
 
-![Ross Marvin](../assets/Ross-Marvin2-163x300_8p6-.jpg "Ross Marvin")
+![Ross Marvin](http://babryce.com/cooktest/assets/Ross-Marvin2-163x300_8p6-.jpg "Ross Marvin")
 
 *Ross Marvin*
 
-![July 30 1](../assets/July-30-3-671x1024_8p6-.jpg "July 30 3")
+![July 30 1](http://babryce.com/cooktest/assets/July-30-3-671x1024_8p6-.jpg "July 30 3")
 
 7 – 30 1908  
 at sea off the Greenland Coast  

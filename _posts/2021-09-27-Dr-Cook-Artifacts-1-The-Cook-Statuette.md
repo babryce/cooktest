@@ -1,17 +1,17 @@
 ---
-title: tempFix
+title: "Dr. Cook Artifacts 1: The Cook Statuette"
 category: General
 ---
 ## Dr. Cook Artifacts 1: The Cook Statuette
 
 
-![IMG_0550](../assets/IMG_0550-681x1024_OKYx.jpg "IMG_0550")
+![IMG_0550](http://babryce.com/cooktest/assets/IMG_0550-681x1024_OKYx.jpg "IMG_0550")
 
 The Polar Controversy spawned an avalanche of items designed to take advantage of the intense public interest in the dispute between September and December 1909. Most of these were ephemeral items, but they were so numerous that many of them have survived. One such item was a statuette of each of the two explorers that was designed to be sold at newsstands in New York City. They are made of chalkware and cast on a metal armature that runs up through the figures’ legs. They were copyrighted by the Franklin Lithograph Co. of New York, which was located at E. 87th Street.
 
-![IMG_0549](../assets/IMG_0549-681x1024_OKYx.jpg "IMG_0549")
+![IMG_0549](http://babryce.com/cooktest/assets/IMG_0549-681x1024_OKYx.jpg "IMG_0549")
 
-The sculpts are signed “Geo. Magnani” on the reverse. The statuettes are very similar in pose, but not identical, the main difference being the details of the face so as to distinguish between the two explorers. Each has alliterative attributed characteristics of the explorer encompassed by the first letter of his last name on the globe beneath his feet, and a slogan on the base. Perhaps a bias toward Cook is conveyed by the chosen slogans. Cook’s reads “The Man Who Compelled Belief!”; Peary’s “I have nailed the Stars and Stripes to the North Pole. What Have You Nailed?”![Peary statue 3](../assets/Peary-statue-3-768x1024_OKYx.jpg "Peary statue 3")
+The sculpts are signed “Geo. Magnani” on the reverse. The statuettes are very similar in pose, but not identical, the main difference being the details of the face so as to distinguish between the two explorers. Each has alliterative attributed characteristics of the explorer encompassed by the first letter of his last name on the globe beneath his feet, and a slogan on the base. Perhaps a bias toward Cook is conveyed by the chosen slogans. Cook’s reads “The Man Who Compelled Belief!”; Peary’s “I have nailed the Stars and Stripes to the North Pole. What Have You Nailed?”![Peary statue 3](http://babryce.com/cooktest/assets/Peary-statue-3-768x1024_OKYx.jpg "Peary statue 3")
 
 These statuettes are scarce today because of the cheap materials they were constructed of and are very seldom found intact. The relative number of them that have survived seems to indicate that they were put on sale early in the controversy and sold in relatively equal numbers.
 

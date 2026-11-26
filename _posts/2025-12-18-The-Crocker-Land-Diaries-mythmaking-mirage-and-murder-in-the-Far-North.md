@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "The Crocker Land Diaries: mythmaking, mirage and murder in the Far North"
 category: General
 ---
 ## The Crocker Land Diaries: mythmaking, mirage and murder in the Far North
 
 
-![Cover Crocker Land](../assets/Cover-Crocker-Land-683x1023_62j0.jpg "Cover Crocker Land")
+![Cover Crocker Land](http://babryce.com/cooktest/assets/Cover-Crocker-Land-683x1023_62j0.jpg "Cover Crocker Land")
 
 The author has recently published a new study drawing on original sources. It is now available on Amazon.com.
 

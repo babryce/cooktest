@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Cook and Peary, up to date"
 category: General
 ---
 ## Cook and Peary, up to date
@@ -10,9 +10,9 @@ p. 145 at note 35: the leader of the Belgian Antarctic Expedition’s name is pr
 p. 146 line 37: Cook refers to Amundsen throughout TFAN as First Mate. Actually, Amundsen’s official rank was 2nd Mate. Captain Lecointe was officially First Mate, ranking after Commandant de Gerlache. He is referred to throughout, as Cook referred to him, as 2nd Mate. Melaerts was 3rd Mate.  
 p. 172 Here are the two finalists for “The Most Beautiful Woman in the World”.
 
-![Cleo de Merode](../assets/Cleo-de-Merode2-191x300_3nNc.jpg "Cleo de Merode")
+![Cleo de Merode](http://babryce.com/cooktest/assets/Cleo-de-Merode2-191x300_3nNc.jpg "Cleo de Merode")
 
-![Clara Ward, Princess de Chimay](../assets/Clara-Ward-Princess-de-Chimay1-225x300_3nNc.jpg "Clara Ward, Princess de Chimay")
+![Clara Ward, Princess de Chimay](http://babryce.com/cooktest/assets/Clara-Ward-Princess-de-Chimay1-225x300_3nNc.jpg "Clara Ward, Princess de Chimay")
 
 p. 177, quotation at note 3: de Gerlache’s book appeared in English for the first time in 1998 as Fifteen Months in the Antarctic, in a translation by Maurice Raraty, published by Erskine Press, UK. For an alternate translation of this passage, see page 137.  
 p. 181, for an alternate translation of the passage at note 12, see p. 145 of the above.  
@@ -30,7 +30,7 @@ p. 349, line 15: More details about the telegrams Cook sent can be found in the 
 p. 349, line 27: There was no American consulate in Lerwick. For details see the referenced Polar Record article above. See the news section of the author’s website at www.polarhist.com.  
 p. 364, line 3: Dannebrog was misspelled in the American newspapers; the medal takes its title from the popular name for the Danish flag. Here is the medal Cook might have received had King Christian IX not decided to withhold it.
 
-![Dannebrog](../assets/Dannebrog1_3nNc.jpg "Dannebrog")
+![Dannebrog](http://babryce.com/cooktest/assets/Dannebrog1_3nNc.jpg "Dannebrog")
 
 p. 570, the passage ending at note 80 is not in MacMillan’s notebook now at the American Museum of Natural History in New York. This appears to be the original, and the one used in this chapter, now at Bowdoin College, appears to be an expanded copy. See the news section of the author’s website at www.polarhist.com. The mileages also differ somewhat between the AMNH and Bowdoin notebooks.  
 p. 583, paragraph 6: Cook’s statement about the Emden could not be true, since the raider had been sunk the previous fall near the Cocos Islands. This may be another example of Cook’s tendency to embellish his stories.  
@@ -57,7 +57,7 @@ p. 833, picture at bottom: Notice that Browne’s caption on the drawing, “N.E
 p. 834, line 3: the caption might also be read “Mck. from Top. view from N.” This would make sense if Cook’s sketch is equivalent to Browne’s on p. 833, i.e. that it was made from the top of Fake Peak.  
 p. 834, line 29: The right to reproduce the drawing in question was subsequently released to the author by the rights holder. Here it is:
 
-![Missing drawing](../assets/Missing-drawing3-300x80_3nNc.jpg "Missing drawing")
+![Missing drawing](http://babryce.com/cooktest/assets/Missing-drawing3-300x80_3nNc.jpg "Missing drawing")
 
 A number of other pictures from Barrill’s diary are reproduced in DIO, vol. 7, no. 2 by permission of his daughter, Marjorie Mt. McKinley Barrill.  
 p. 849, line 4. Cook referred to his experimental sledges in MAP 101, but this was published more than two years after Bradley’s statements.  

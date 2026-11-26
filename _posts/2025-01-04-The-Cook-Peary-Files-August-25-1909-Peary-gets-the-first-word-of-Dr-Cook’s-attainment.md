@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment"
 category: General
 ---
 ## The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment
@@ -17,7 +17,7 @@ The long series on “The Eskimo Testimony” below gives a full account of what
 
 As far as I know, however, Captain Adams letter has never been published. Here is a typed copy of it from the Peary papers held at the National Archives II:
 
-![Adams letter](../assets/Adams-letter-563x1024_-4zE.jpg "Adams letter")
+![Adams letter](http://babryce.com/cooktest/assets/Adams-letter-563x1024_-4zE.jpg "Adams letter")
 
 Notice that Captain Adams says Cook said he reached the North Pole on April 22, 1908. There are several early documents, and some notes in Cook’s original diaries that cite his attainment to have taken place on this same date, whereas when he sent his telegrams announcing it to the world from Shetland Islands on September 1, 1909, he claimed he reached the Pole on April 21, not the 22nd.
 

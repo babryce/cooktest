@@ -1,17 +1,17 @@
 ---
-title: tempFix
+title: "Arctic Rumors: What the Inughuit said about Dagtikorssuaq’s journey to the Big Navel"
 category: General
 ---
 ## Arctic Rumors: What the Inughuit said about Dagtikorssuaq’s journey to the Big Navel
 
 
-![Rumors 1](../assets/Rumors-1-683x1023_hzBa.jpg "Rumors 1")
+![Rumors 1](http://babryce.com/cooktest/assets/Rumors-1-683x1023_hzBa.jpg "Rumors 1")
 
 Readers of this blog may remember a long series on the so-called “Eskimo Testimony” that ran in 2023 and 2024 in nineteen installments. Those posts have now all been withdrawn.
 
 The author thought of revising them based on considerable new or additional information, but after reviewing them decided instead to issue them in book form. The result is a volume of 183 pages, which incorporates this new information and numerous additional illustrations, all completely documented by 193 scholarly notes, making it the most exhaustive examination of the subject ever published. The book is now available on Amazon.com, where you can look at a sample of the contents, and also at a discount on eBay.
 
-![Rumors 2](../assets/Rumors-21_hzBa.jpg "Rumors 2")
+![Rumors 2](http://babryce.com/cooktest/assets/Rumors-21_hzBa.jpg "Rumors 2")
 
 The most sensational news story of 1909 centered on one cold, yet burning, question: “Who discovered the North Pole?” when in September, two veteran explorers emerged from the Arctic almost simultaneously, each claiming to have seized the long-sought “Arctic Grail” of exploration.
 

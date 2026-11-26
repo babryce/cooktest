@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper."
 category: General
 ---
 ## The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper.
@@ -17,7 +17,7 @@ I was invited to be a presenter because the Cook Society had convinced itself th
 
 If the society had known my conclusions in advance, I would not have been invited, but the invitation had been extended before the book’s publication and could not be withdrawn. Although the society published the proceedings of the earlier 1993 symposium, none of the papers from the 1997 symposium were ever published, possibly because it would have had to include my paper. So now, on the 125th Anniversary, I take this opportunity to publish that unpublished paper for the first time anywhere.
 
-![1997-1](../assets/1997-11_6uWI.jpg "1997-1")
+![1997-1](http://babryce.com/cooktest/assets/1997-11_6uWI.jpg "1997-1")
 
-![1997-2](../assets/1997-9_6uWI.jpg "1997-9")
+![1997-2](http://babryce.com/cooktest/assets/1997-9_6uWI.jpg "1997-9")
 

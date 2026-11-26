@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "New edition of The Lost Notebook of Dr. Frederick A. Cook published"
 category: General
 ---
 ## New edition of The Lost Notebook of Dr. Frederick A. Cook published
 
 
-![cover](../assets/cover_6uWI.jpeg "cover")
+![cover](http://babryce.com/cooktest/assets/cover_6uWI.jpeg "cover")
 
 July saw the publication of the third edition of *The Lost Notebook of Dr. Frederick A. Cook.* Originally published in 2013, it had one previous major revision done to it in 2018. The new edition has been a year in preparation.
 
@@ -15,5 +15,5 @@ The book contains a transcription of every word in a photographic copy of a now 
 
 Cambridge University’s prestigious journal, *The Polar Record*, published pre-publication extracts from this book in 2013, and *The International Journal of Maritime History* had this to say of it the finished book: “The meticulous transcription of Cook’s often virtually unreadable handwriting, and the careful analysis of the order of the various layers of text included in the notebook are achievements in themselves, and serve to make this invaluable source readily available to the researcher for the first time.”
 
-The book, which is 425 pages long and contains 200 illustrations, including images of all of the notebook’s pages, is a must for all serious students of the Polar Controversy. It is available on Amazon.com, but the least expensive way to obtain a copy is on eBay. Recently, the cost of printing the book, like everything else, increased, causing the price of the copies available on eBay to go up in response. A copy can be obtained there for $44.95 postpaid. ![Backcover](../assets/Backcover_6uWI.jpeg "Backcover")
+The book, which is 425 pages long and contains 200 illustrations, including images of all of the notebook’s pages, is a must for all serious students of the Polar Controversy. It is available on Amazon.com, but the least expensive way to obtain a copy is on eBay. Recently, the cost of printing the book, like everything else, increased, causing the price of the copies available on eBay to go up in response. A copy can be obtained there for $44.95 postpaid. ![Backcover](http://babryce.com/cooktest/assets/Backcover_6uWI.jpeg "Backcover")
 

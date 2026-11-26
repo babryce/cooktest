@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "Enter Dunkle and Loose."
 category: General
 ---
 ## Enter Dunkle and Loose.
 
 
-![dunkle-and-loose](../assets/dunkle-and-loose_4AlG.jpg "dunkle-and-loose")
+![dunkle-and-loose](http://babryce.com/cooktest/assets/dunkle-and-loose_4AlG.jpg "dunkle-and-loose")
 
 ***The paper that does things***
 

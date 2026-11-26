@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation"
 category: General
 ---
 ## The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
@@ -23,7 +23,7 @@ After Peary’s return to Philadelphia in 1892, Matty Verhoeff angrily confronte
 
 Cook knew of Verhoeff’s $2,000 payment to Peary and of his sister’s belief that her brother might still be alive somewhere in Greenland. On March 20, 1894, he sent this letter to her on the letter paper of his proposed “American Antarctic Expedition”:
 
-![verhoff](../assets/verhoff2-300x256_omLw.jpg "verhoff")
+![verhoff](http://babryce.com/cooktest/assets/verhoff2-300x256_omLw.jpg "verhoff")
 
 My Dear Miss Verhoeff,
 

@@ -1,22 +1,22 @@
 ---
-title: tempFix
+title: "Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett"
 category: General
 ---
 ## Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett
 
 
-![Peary's grave](../assets/Pearys-grave_hzBa.jpg "Peary's grave")
+![Peary's grave](http://babryce.com/cooktest/assets/Pearys-grave_hzBa.jpg "Peary's grave")
 
 When Peary died in 1920, shortly before Captain Hall published his “Volume II,” there was an outpouring of effusive obituaries, and memorial tributes from his friends were held at Bowdoin College and the Explorers Club. He was laid to rest with full military honors in Arlington National Cemetery, attended by many high officials of the US Government, including the Vice President and Chief Justice.  
 An imposing monument was soon erected over his grave, courtesy of the National Geographic Society.
 
 After Peary’s death, Herbert Bridgman toyed with the idea of writing a biography of Peary, but was cut short by his own death in 1924. Instead, the Peary family authorized it to be written by Commander Fitzhugh Green.
 
-![Fitzhugh Green](../assets/Fitzhugh-Green_hzBa.jpg "Fitzhugh Green")
+![Fitzhugh Green](http://babryce.com/cooktest/assets/Fitzhugh-Green_hzBa.jpg "Fitzhugh Green")
 
 Green had been on Donald MacMillan’s Crocker Land Expedition of 1913-1917. That expedition’s main goal was to explore that land which Peary had seen far at sea from the heights of Axel Heiberg Island in 1906. Green had accompanied MacMillan on the initial trek across the polar pack to locate Crocker Land’s exact position in 1914, but instead proved that Crocker Land had no position, because, in fact, it did not exist. They excused Peary’s “mistake” in reporting its sighting by saying he had been deceived by a Fata Morgana, a mirage of the sea ice. (see the author’s book, The Crocker Land Diaries, available on Amazon.com.  See the post for December 18, 2025).
 
-![Peary the man who refused to fail](../assets/Peary-the-man-who-refused-to-fail_hzBa.avif "Peary the man who refused to fail")
+![Peary the man who refused to fail](http://babryce.com/cooktest/assets/Peary-the-man-who-refused-to-fail_hzBa.avif "Peary the man who refused to fail")
 
 Green’s biography appeared in 1925, titled *Peary: The Man who refused to fail.* Although its proofs and galleys were all checked by the Peary family, it proved to be a maudlin affair that one reviewer called “a hodgepodge of sentimental slush.” For instance, its readers learned of Peary’s origins and birth: “It is as though that group of good people were laid like an egg of Destiny in the womb of a clean nature for the single purpose of bringing forth a finer specimen of the race than the commonplace mechanics of gestation could achieve.”
 
@@ -26,7 +26,7 @@ As to the Polar Controversy, Green added little to what had already been discuss
 
 Meanwhile the copies of Captain Hall’s book that he had deposited in those many libraries in 1917, began to have their effect. Magazine articles questioning Peary’s claim, most prominently those written by William Shea and Henshaw Ward for the *Independent*, and both contemplated books of their own elaborating what they found in Captain Hall’s, but neither of them was ever published.
 
-![The Log of Bob Bartlett](../assets/The-Log-of-Bob-Bartlett1-767x1024_hzBa.jpg "The Log of Bob Bartlett")
+![The Log of Bob Bartlett](http://babryce.com/cooktest/assets/The-Log-of-Bob-Bartlett1-767x1024_hzBa.jpg "The Log of Bob Bartlett")
 
 In 1928, Bob Bartlett, captain of Peary’s ship Roosevelt, who had accompanied Peary over the ice on his last polar attempt 1909, but was turned back by Peary at what he claimed to be a point 133 nmi. from the North Pole, published his autobiography under the title *The Log of Bob Bartlett.* Through faults of memory of events now 20 years in the past, or deliberate distortion, Bartlett’s book falls far short of documented events in more than a few places. Perhaps the best assessment Bartlett’s book was written by The Reverend J. Gordon Hayes as a postscript to his book on Peary that came out in Great Britain a year later in 1929:
 

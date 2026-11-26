@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "The Doctor’s Danish Denouement."
 category: General
 ---
 ## The Doctor’s Danish Denouement.
 
 
-![Discovered!](../assets/Discovered2-195x300_4AlG.jpg "Discovered!")
+![Discovered!](http://babryce.com/cooktest/assets/Discovered2-195x300_4AlG.jpg "Discovered!")
 
 ***The Copenhagen Decision***
 
@@ -33,11 +33,11 @@ In the wake of the Copenhagen Decision, a shower of abuse descended on the docto
 
 Editorial cartoonists had a field day at Cook’s expense.  Here are a few examples of the many hundreds that were published:
 
-![Cook fell into the soup](../assets/Cook-fell-into-the-soup-292x300_4AlG.jpg "Cook fell into the soup")
+![Cook fell into the soup](http://babryce.com/cooktest/assets/Cook-fell-into-the-soup-292x300_4AlG.jpg "Cook fell into the soup")
 
-![Too much for the Baron](../assets/Too-much-for-the-Baron-249x300_4AlG.jpg "Too much for the Baron")
+![Too much for the Baron](http://babryce.com/cooktest/assets/Too-much-for-the-Baron-249x300_4AlG.jpg "Too much for the Baron")
 
-![Well that's over](../assets/Finis-188x300_4AlG.jpg "Finis")
+![Well that's over](http://babryce.com/cooktest/assets/Finis-188x300_4AlG.jpg "Finis")
 
 In all of the outcry, only Cook’s voice was not heard.  He had vanished completely, and no one seemed to know his whereabouts, or would for nearly another whole year.
 

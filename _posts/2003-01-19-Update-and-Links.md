@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Update and Links"
 category: General
 ---
 ## Update and Links

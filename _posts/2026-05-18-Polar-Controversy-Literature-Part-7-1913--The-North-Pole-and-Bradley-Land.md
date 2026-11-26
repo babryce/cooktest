@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land"
 category: General
 ---
 ## Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land
@@ -7,13 +7,13 @@ category: General
 
 The first book advocating Dr. Cook as the true discoverer of the North Pole was published in April 1913. It was the work of Edwin Swift Balch.
 
-![Edwin Swift Balch](../assets/Edwin-Swift-Balch_hzBa.jpg "Edwin Swift Balch")
+![Edwin Swift Balch](http://babryce.com/cooktest/assets/Edwin-Swift-Balch_hzBa.jpg "Edwin Swift Balch")
 
 Balch was by no means a person of no standing.
 
 Born in 1857, he was the son of a famous Philadelphia lawyer, and a lawyer himself, though he did not practice. Instead he devoted his life to scholarly scientific pursuits and to the arts. A Harvard graduate, he was a member of many learned societies including The Association for the Advancement of Science, The Franklin Institute, the American Philosophical Society, as well as both the American and Royal Geographical Societies. Although he climbed several mountains in Europe during his youth, reports on the internet that say he was himself an Arctic explorer are incorrect. He never visited either polar zone, although he followed polar exploits avidly.
 
-![North Pole and Bradley Land](../assets/North-Pole-and-Bradley-Land-732x1024_hzBa.jpg "North Pole and Bradley Land")
+![North Pole and Bradley Land](http://babryce.com/cooktest/assets/North-Pole-and-Bradley-Land-732x1024_hzBa.jpg "North Pole and Bradley Land")
 
 By the time *The North Pole and Bradley Land* was published, he had already authored and published at his own expense books on mountain climbing, glaciers, and ice caverns. He also published one on Antarctica in 1902, which was thought well enough of that he had the honor of having a mountain on the Antarctic Peninsula named for him by the French Antarctic explorer, Jean Charcot. With such a record, many were puzzled by his easy acceptance of Cook’s claim.
 
@@ -21,7 +21,7 @@ An article about his north pole book appeared in the *NY Tribune* shortly after 
 
 In his 82-page book’s examination of Cook’s claim, he all but summarily dismissed Cook’s lack of proof in the form of adequate astronomical observations, the arguments over whether or not he falsely claimed to have been the first to reach the summit of Mount McKinley in 1906, and his polar claim’s rejection by the Konsitorium of the University of Copenhagen of the evidence Cook sent in support of it as having no proof whatever of his having been at the North Pole on April 21, 1908, saying that none of these proved he had not been there.
 
-![Balch map](../assets/Balch-map_hzBa.jpg "Balch map")
+![Balch map](http://babryce.com/cooktest/assets/Balch-map_hzBa.jpg "Balch map")
 
 Instead he summed up his basis of belief that Cook’s claim was genuine by way of a comparison of the narratives of first, Cook, and, coming after him, Peary: “To solve such a problem as that of who discovered the North Pole, this comparative method seems to the writer the only on available,” Balch wrote. “It is not a matter of belief, it is a matter of comparison and reasoning. It is not the evidence which Cook produces which in itself alone could prove Cook’s claims. It is the geographical evidence offered by both Cook and Peary which, when carefully compared, affords, in the writer’s judgment, the only means of arriving at a conclusion. It is Peary’s statements and observations which prove, as far as can be proved at present, Cook’s statements.”
 

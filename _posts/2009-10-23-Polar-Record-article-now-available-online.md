@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Polar Record article now available online."
 category: General
 ---
 ## Polar Record article now available online.

@@ -1,5 +1,5 @@
 ---
-title: tempFix
+title: "Following the Polar Controversy 100 years on."
 category: General
 ---
 ## Following the Polar Controversy 100 years on.
@@ -9,7 +9,7 @@ In September 1909, the name of Frederick Albert Cook was on the lips of the enti
 
 “Whatever the truth is, the situation is as wonderful as the Pole,” exclaimed muck-raking editor Lincoln Steffens. “And whatever they found there, those explorers, they have left there a story as great as a continent.”
 
-![Dr. Cook lands in Copenhagen](../assets/cookincopenhagen1-300x188_Ka_V.jpg "cookincopenhagen")
+![Dr. Cook lands in Copenhagen](http://babryce.com/cooktest/assets/cookincopenhagen1-300x188_Ka_V.jpg "cookincopenhagen")
 
 ***Dr. Cook lands at Copenhagen.***
 

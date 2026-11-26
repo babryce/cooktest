@@ -1,11 +1,11 @@
 ---
-title: tempFix
+title: "Frederick Cook arrives in Denmark"
 category: General
 ---
 ## Frederick Cook arrives in Denmark
 
 
-![Cook arrives](../assets/Cook-arrives2-300x200_lewA.jpg "Cook arrives")
+![Cook arrives](http://babryce.com/cooktest/assets/Cook-arrives2-300x200_lewA.jpg "Cook arrives")
 
 On September 4, 1909, Frederick Cook arrived at Copenhagen aboard the Danish ship Hans Egede. His telegrams sent from Lerwick in the Shetland Islands on September 1 claiming he had reached the North Pole on April 21 of the previous year electrified the world. Every press organization within range sent representatives to the Danish capital to cover his arrival. The event was even captured on film.
 
