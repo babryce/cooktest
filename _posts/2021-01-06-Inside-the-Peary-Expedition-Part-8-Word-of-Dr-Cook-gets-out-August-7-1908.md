@@ -69,4 +69,3 @@ Notes:
 
 3 Annoatok, as Cook spelled it, was a seasonal hunting settlement located about 20 miles northeast of Etah.
 
-]

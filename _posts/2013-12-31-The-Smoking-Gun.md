@@ -20,4 +20,3 @@ The entire affair was an acute embarrassment to Denmark, where Cook had received
 In 1993, while doing research for his monumental study, Cook & Peary, the Polar Controversy, Resolved, published in 1997, the author recovered the photographic copy of Cook’s notebook, the original of which is now lost, from where it had lain unnoticed for more than 80 years.  
 That notebook is the subject of this study. It provides the “smoking gun” that proves Cook did not reach the North Pole in 1908 in the form of a complete transcription of Cook’s original diary. Its accompanying annotations clearly show why it contains convincing proof that Cook’s claim was a premeditated hoax and that the verdict rendered in Copenhagen in 1909 was correct and fully justified.
 
-]

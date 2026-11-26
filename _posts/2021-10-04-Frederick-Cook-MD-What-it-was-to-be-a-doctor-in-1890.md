@@ -51,4 +51,3 @@ This survey of the state of medicine in Cook’s time is largely based on the ar
 
 The quotation from Cook’s medical instructions to Peary can be found among the records of Peary’s first Greenland Expedition of 1891-92, which are part of the Peary Family Collection housed at the National Archives and Records Administration II, College Park, MD.
 
-]

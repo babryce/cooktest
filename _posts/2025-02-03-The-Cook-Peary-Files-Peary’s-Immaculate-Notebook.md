@@ -43,4 +43,3 @@ Congress also failed to award him the gold medal proposed in the original bill t
 
 **Anthony’s analysis of Peary’s notebook was published in:  *Journal of Forensic Sciences*, vol. 36 [1991] 1614-24**
 
-]

@@ -27,4 +27,3 @@ Johnson illustrated this with a table which compared the total nautical miles co
 
 In closing, Johnson expressed his regrets that “It is extremely unfortunate for Commander Peary’s own reputation, that his own accounts of his ‘dash for the Pole’ are not more accurate and convincing. Every American citizen who rejoices in the glory of his own county, would be glad to *know* that Peary had reached the North Pole, but there are some, as least, who cannot accept the Commander’s unconfirmed testimony, filled as it is with contractions, as conclusively establishing his claim.”
 
-]

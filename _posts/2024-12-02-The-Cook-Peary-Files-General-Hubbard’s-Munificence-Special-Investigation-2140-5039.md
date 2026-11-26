@@ -43,4 +43,3 @@ Cook embarked on an expedition aimed at climbing Mt. Everest at about this time,
 
 **The Burns Agency documents are samples of scores of them that are among Peary’s papers, record group XP, at NARA II.**
 
-]

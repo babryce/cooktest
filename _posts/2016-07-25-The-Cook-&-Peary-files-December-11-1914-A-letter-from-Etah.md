@@ -43,4 +43,3 @@ When Hubbard checked Peary’s feelings on the matter, he emphatically vetoed th
 
 **The original of this letter is among the Peary Family Collection at the National Archives II in College Park, Md.**
 
-]

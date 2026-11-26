@@ -72,4 +72,3 @@ This change of view came with more evidence.  But a change of view based on add
 
 Yet, as Mr. Tierney quotes, “There will be a Cook [and Peary, and Henson] party till the end of time.”  Anything is believable if you suffer from “motivational reasoning” or unreasonable motivations.
 
-]

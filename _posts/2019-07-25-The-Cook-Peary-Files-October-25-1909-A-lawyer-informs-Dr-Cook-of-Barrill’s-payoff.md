@@ -25,4 +25,3 @@ If not $5,000, what did Barrill himself actually receive? The answer may be foun
 
 The document was in an envelope marked “Mount McKinley Material,” forwarded to Cook by his lawyer, H. Wellington Wack. At the time the author saw it, it was in the possession of the Frederick A. Cook Society at the Sullivan County Historical Society in Hurleyville, NY. Presumably, the original of the letter is now among the papers of Frederick A. Cook now held at the Ohio State University Archives.
 
-]

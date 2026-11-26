@@ -19,4 +19,3 @@ An interesting feature of Adams’s letter is the fact that he gives the date Co
 
 *This typed copy of Adams’s letter is among the Peary Family Papers, RG 401, at National Archives II in College Park, MD. The shadowy printing visible here and there on the copy is from a carbon copy of one of the letters Cook left at his winter base before his journey toward the pole, and is unrelated to the text of the Captain’s letter.*
 
-]

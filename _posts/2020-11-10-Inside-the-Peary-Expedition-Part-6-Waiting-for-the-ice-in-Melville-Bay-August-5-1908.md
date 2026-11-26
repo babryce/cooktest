@@ -33,4 +33,3 @@ worry too much.
 sincerely yours,  
 Ross Marvin
 
-]

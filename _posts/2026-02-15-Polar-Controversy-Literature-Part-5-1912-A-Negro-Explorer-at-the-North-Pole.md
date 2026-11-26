@@ -32,4 +32,3 @@ Henson’s book, was, as Stokes predicted, a commercial flop in 1912, but with t
 
 The reprint issued by Cooper Square Press in 2001 has a detailed new introduction by this author which addresses Henson’s biography in general and gives details on the background of how A Negro Explorer at the North Pole came into being.
 
-]

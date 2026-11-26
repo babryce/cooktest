@@ -58,4 +58,3 @@ Ross Marvin
 
 \* No such letter was included among the copies given to the author by Silas H. Ayer III.
 
-]

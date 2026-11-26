@@ -11,4 +11,3 @@ Frederick Albert Cook was born on this day 160 years ago in the hamlet of Horton
 
 – *from the unpublished memoirs of Frederick A. Cook*
 
-]

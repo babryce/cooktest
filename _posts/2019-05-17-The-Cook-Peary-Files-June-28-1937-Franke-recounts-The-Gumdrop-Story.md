@@ -21,4 +21,3 @@ After Cook’s After Cook’s downfall, some recalled the story and used it to r
 
 As for Dr. Cook, he denied he had any gumdrops along on the trip.  He said that the only prepackaged sweets he took with him were boxes of Nabisco Wafers, which in those days were a plain shortbread cookie similar to those marketed today under the trade name of Lorna Doone.
 
-]

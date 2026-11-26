@@ -81,4 +81,3 @@ On the return, the fog held fast, but we were able to get a glimpse of Fort Gorg
 
 Since our excursion a small museum was opened in 2012, and the site was designated a National Historic Site in 2014.
 
-]

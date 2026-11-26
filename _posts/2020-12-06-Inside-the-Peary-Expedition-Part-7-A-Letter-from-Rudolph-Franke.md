@@ -34,4 +34,3 @@ I am now going up with boat along the shore. Please look good out. Perhaps you a
 
 The typed transcript of the letter is in the Peary Family Papers at National Archives II, College Park, MD
 
-]

@@ -55,4 +55,3 @@ Peary’s strategy against Dedrick was to portray him as “practically insane,�
 
 *Mrs. Peary’s letter is now in the Peary Family Papers at the National Archives II.*
 
-]

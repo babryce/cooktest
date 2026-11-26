@@ -33,4 +33,3 @@ By the breezy narrative contained in *A Tenderfoot with Peary*, Borup became the
 
 Borup’s book also exists in a “souvenir edition” prepared by Stokes for the 11th annual dinner of the American Bookseller’s Association held at the hotel Astor on May 11, 1911.
 
-]

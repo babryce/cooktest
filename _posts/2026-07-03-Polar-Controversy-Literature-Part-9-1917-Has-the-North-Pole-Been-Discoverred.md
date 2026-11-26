@@ -19,4 +19,3 @@ The analysis of Hall’s book, which I published in *Cook & Peary, the Polar Con
 
 ![hnpbd 3](../assets/hnpbd-31-694x1024_hzBa.jpg "hnpbd 3")
 
-]

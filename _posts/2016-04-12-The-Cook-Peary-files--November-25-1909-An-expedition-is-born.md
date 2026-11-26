@@ -62,4 +62,3 @@ Peary, it turned out, didn’t think much of the idea. Although he didn’t obje
 
 **A typed copy of this letter is in the Peary Family Collection at National Archives II in College Park, Md.**
 
-]

@@ -25,4 +25,3 @@ As a result, Hall justly dismissed the various statements made by Cook’s Inugh
 
 In the Epilogue to Volume II, Hall declared it would be the last he would write on polar subjects, but he was not quite true to his word. In 1935 an essay dealing with the murder of Ross Marvin was included in W. Henry Lewin’s book, *The Great North Pole Fraud*, but it has no bearing on the present discussion. Hall used his epilogue to sum up his conclusions on the matter: “I have shown in this work that the stories of Peary and of others about Cook are apparently impositions and forgeries, and I leave the evidence I have produced in proof of it, to be refuted, if anyone can do it. . . . Eliminating the alleged eskimo testimony eliminates the only charge ever made against Cook and leaves his claim undisputed.”
 
-]

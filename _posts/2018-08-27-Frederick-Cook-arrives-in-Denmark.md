@@ -37,4 +37,3 @@ Here is a guide to the footage as posted. It is broken down by scenes; the start
 5:05 These two men are Danish Inuits from Greenland, perhaps part of the Hans Egede’s crew. The film camera was so new, the two don’t seem to know what to do.  
 5:43 This gentleman is C. M. Norman-Hansen, a Danish optometrist and poet, who was also returning from Greenland aboard the ship. Likewise, he seems camera shy. He was at first a staunch defender of Cook’s controversial claims, but turned on him in 1911 and publicly denounced him at his lecture at the Palais Concert Hall in Copenhagen in 1911. After Norman-Hansen disappears, the rest of the footage is a repeat of earlier scenes.
 
-]

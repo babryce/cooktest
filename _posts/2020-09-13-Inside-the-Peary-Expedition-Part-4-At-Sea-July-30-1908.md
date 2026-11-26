@@ -95,4 +95,3 @@ Ross Marvin
 
 1 Disco is a large island just off the coast and was the site of Upernavik.
 
-]

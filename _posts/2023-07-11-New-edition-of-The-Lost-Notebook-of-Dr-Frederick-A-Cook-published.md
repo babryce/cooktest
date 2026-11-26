@@ -17,4 +17,3 @@ Cambridge University’s prestigious journal, *The Polar Record*, published pre-
 
 The book, which is 425 pages long and contains 200 illustrations, including images of all of the notebook’s pages, is a must for all serious students of the Polar Controversy. It is available on Amazon.com, but the least expensive way to obtain a copy is on eBay. Recently, the cost of printing the book, like everything else, increased, causing the price of the copies available on eBay to go up in response. A copy can be obtained there for $44.95 postpaid. ![Backcover](../assets/Backcover_6uWI.jpeg "Backcover")
 
-]

@@ -61,4 +61,3 @@ Another showing Cook’s former home on Bushwick Ave. taken from the El viaduct 
 
 While Cook was off on his polar expedition, Cook’s wife was forced to sell their  three-storey red brick house when her considerable personal funds were lost in the collapse of the Knickerbocker Trust Co. during the Panic of 1907. However, it still stands today on Bushwick Ave., where it is divided into several apartments. Shortly after the parade, it was announced that on the small triangular plot across from it, a monument to the Discoverer of the North Pole would be placed, but due to Cook’s downfall, it was never built. Instead, a monument to the fallen of World War I now occupies that space.![Welcome 16](../assets/Welcome-16-819x1024_OKYx.jpg "Welcome 16")
 
-]

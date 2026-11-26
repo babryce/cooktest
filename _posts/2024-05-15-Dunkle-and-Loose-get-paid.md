@@ -51,4 +51,3 @@ All along, Dunkle and Loose might have intended to play both sides of the street
 
 **The documents shown here can be found at the New York Public Library in the New York Times Company Records / Adolph S. Ochs Papers, Box 77, Folder 3. Darrell Hartman’s book, *Battle of Ink and Ice*, is published by Viking.**
 
-]

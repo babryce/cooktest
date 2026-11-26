@@ -34,4 +34,3 @@ Page 337 line 6: “1910” should read “1909”
 Page 344 Last paragraph, line 3: “southwest” should read “southeast”  
 Page 359 line 5: “he hand gone” should read “he had gone”
 
-]

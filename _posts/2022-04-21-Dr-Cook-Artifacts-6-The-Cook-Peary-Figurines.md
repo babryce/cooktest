@@ -53,4 +53,3 @@ The faces are less true to the explorers actual features than the previous piece
 
 Again, Cook looks confident, while Peary looks dismayed. Although born in New York, Cook was a pure German, the son of two recent immigrants, so naturally he would be favored in Germany over Peary.
 
-]

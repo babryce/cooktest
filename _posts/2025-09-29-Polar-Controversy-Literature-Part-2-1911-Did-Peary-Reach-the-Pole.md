@@ -35,4 +35,3 @@ In any case, in his introduction he stated that his motivation in writing the bo
 
 Whether or not he actually felt Peary was guiltless in 1911, twenty-five years later Lewin would write another book on the same subject, and in the interim had found cause to eat every word of this earlier evaluation of Peary’s character.
 
-]

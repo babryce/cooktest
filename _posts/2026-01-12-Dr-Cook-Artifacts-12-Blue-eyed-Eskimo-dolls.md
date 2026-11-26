@@ -19,4 +19,3 @@ The one labeled “Cook” incongruously has a ceramic jug strapped around his w
 
 No doubt they were manufactured in Germany, as porcelain headed dolls and other porcelain wares were a major export of that country in the early Twentieth Century. Germany had already contributed several porcelain items relevant to the rivalry between the two explorers, which can be seen in previous posts in this series.
 
-]

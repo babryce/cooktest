@@ -21,4 +21,3 @@ If the society had known my conclusions in advance, I would not have been invite
 
 ![1997-2](../assets/1997-9_6uWI.jpg "1997-9")
 
-]

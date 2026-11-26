@@ -22,4 +22,3 @@ The prospector who accompanied Cook and Barrill part way up the Ruth Glacier was
 * Although he said he would not consider “for an instant the possibility of approaching the mountain from the South” on any future attempt, that is exactly what he and Belmore Browne did in 1910, on an expedition funded by General Thomas Hubbard. The main purpose of this expedition was not to climb Mt. McKinley, however, but to prove Cook hadn’t.
 * Although it was “perfectly understood” between himself and Cook that all further attempts “were abandoned for that season,” he was less certain of this later in his testimony.
 
-]

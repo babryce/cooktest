@@ -9,4 +9,3 @@ In 2005, Denali State Park erected a prominent 3×4 foot sign about Dr. Cook as 
 
 [![Denali State Park Sign](../assets/cooksignj.jpg "Denali State Park Sign")
 
-]

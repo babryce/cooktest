@@ -53,4 +53,3 @@ On that day Ashton drew a customer’s draft for $5,000 on the Fidelity Trust Co
 
 **All the items reproduced here except the portrait of James Ashton are in the Peary Family Papers at National Archives II, College Park, MD.**
 
-]

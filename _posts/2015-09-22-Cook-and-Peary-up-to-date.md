@@ -94,4 +94,3 @@ p.1112, note 111: Of course the winter at Cape Sparbo was nothing close to 6 mon
 p. 1119-20, note 72: Keith Pickering points out that Peary must have meant James Cook; if the mileage quoted for his position is converted to statute miles, it is almost exactly correct.  
 p. 1121, note 98: there is only one quote; the other was removed during editing.
 
-]

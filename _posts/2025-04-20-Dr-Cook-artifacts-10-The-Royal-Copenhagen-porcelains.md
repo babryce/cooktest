@@ -40,4 +40,3 @@ It was given by the will of Dr. Cook’s granddaughter, Janet Vetter. It is not 
 
 **The photo of the Dr. Cook’s polar bear vase is courtesy of the late Bette Hutchinson; the photo of the musk ox is courtesy of Carol Smith.**
 
-]

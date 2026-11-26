@@ -24,4 +24,3 @@ The letters referred to and Peary’s sworn statement, along with many others it
 
 This is the last article in this series: “Inside the Peary Expedition.”
 
-]

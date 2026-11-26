@@ -53,4 +53,3 @@ Richard Thiel.”
 
 A typed copy of the deposition is among Peary’s papers at NARA II.
 
-]

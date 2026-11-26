@@ -41,4 +41,3 @@ Editorial cartoonists had a field day at Cook’s expense.  Here are a few exam
 
 In all of the outcry, only Cook’s voice was not heard.  He had vanished completely, and no one seemed to know his whereabouts, or would for nearly another whole year.
 
-]

@@ -27,4 +27,3 @@ Peary despised Greely, and came to believe he was supplying anti-Peary material 
 
 **The Stokes letter is among the Peary papers in Record Group XP, at NARA II**.
 
-]

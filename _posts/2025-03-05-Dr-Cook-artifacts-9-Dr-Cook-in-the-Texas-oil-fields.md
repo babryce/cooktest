@@ -35,4 +35,3 @@ Cooks aggressive promotions of this company resulted in his arrest in April 1923
 
 These colorful stock certificates serve as souvenirs of Dr. Cook’s disastrous dip into the Texas Oil Boom.
 
-]

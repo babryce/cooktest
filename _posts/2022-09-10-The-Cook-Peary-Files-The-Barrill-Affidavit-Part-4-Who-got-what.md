@@ -60,4 +60,3 @@ However, it’s curious that it says it is a “copy” and is on the stationary
 
 **The Anderson and Wack letters were in the collection of the Frederick A. Cook Society, presumably now at Ohio State. The undated letter from Cook to Barrill enclosing $200 and the Ashton letter are at NARA II. Weed’s copy of My Attainment of the Pole is the possession of the author.**
 
-]

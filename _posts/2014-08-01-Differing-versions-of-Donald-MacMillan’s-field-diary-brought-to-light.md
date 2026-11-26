@@ -52,4 +52,3 @@ My thanks to Dr. Welky for bringing this important material to my attention.
 
 ![Donald MacMillan](../assets/MacMillan2001_3nNc.jpg "Donald MacMillan")
 
-]

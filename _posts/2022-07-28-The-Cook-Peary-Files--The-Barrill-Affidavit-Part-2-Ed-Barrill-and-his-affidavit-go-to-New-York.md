@@ -43,4 +43,3 @@ Many of the *Globe’*s readers and other neutral parties remained unconvinced t
 
 *Ashton’s misdated letter and telegram are in the National Archives II, College Park, MD*
 
-]

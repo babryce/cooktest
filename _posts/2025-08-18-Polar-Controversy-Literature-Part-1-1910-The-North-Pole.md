@@ -43,4 +43,3 @@ The book was translated in to several languages, French, German, Italian, Swedis
 
 For a more detailed account of how the book was written, see the new introduction to the Cooper Square Press facsimile edition, 2001.
 
-]

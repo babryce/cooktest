@@ -115,4 +115,3 @@ Lists of the supplies turned over by Franke is also in Peary’s papers.  These
 
 The letter and the lists are in the Peary Papers at NARA II.
 
-]

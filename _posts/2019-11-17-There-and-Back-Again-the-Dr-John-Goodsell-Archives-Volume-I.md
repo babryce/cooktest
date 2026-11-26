@@ -43,4 +43,3 @@ The volume concludes with an index, which at first glance looks like the best th
 
 The next post will review the second volume and sum up the work’s overall value.
 
-]

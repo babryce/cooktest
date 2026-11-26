@@ -25,4 +25,3 @@ Time would soon tell, however, which speculations were correct, because Cook’s
 
 All those who had followed the Polar Controversy for more than three months, now awaited for the Danish decision.
 
-]

@@ -29,4 +29,3 @@ It also examines the events that give background and context to the publication 
 
 Finally, any other available evidence, documentary, physical or circumstantial, is considered to come to some conclusion about where Dr. Cook, who the Inuhugit called Dagtikorssuaq (”the Great Doctor”), went and did during the year he was alone in the Arctic but for his two Inughuit companions, Etukishuk and Ahwelah.
 
-]

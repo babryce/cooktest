@@ -35,4 +35,3 @@ On the way home, a tour of the Royal Naval Museum at Greenwich disclosed a numbe
 
 ![Franklin relics](../assets/Franklin-relics1-300x225_3nNc.jpg "Franklin relics")
 
-]

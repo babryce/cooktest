@@ -34,4 +34,3 @@ In 1928, Bob Bartlett, captain of Peary’s ship Roosevelt, who had accompanied 
 
 The Reverend Hayes was a keen student of Polar subjects, and the book in which this critique appeared was about to become a potent factor in raising doubts, and convincing many in Europe, that Peary’s claim to the North Pole was simply invalid.
 
-]

@@ -54,4 +54,3 @@ The biggest disappointment, in a myriad of disappointments in this work, is that
 
 Sad to say, for all the evident time and good intentions spent on this project, *The Dr. John Goodsell Archives* is largely worthless. Most of what it contains is available elsewhere. Confidence in the accuracy of the transcriptions it contains is compromised by the blatant mistakes, lacunae, inaccuracies, and the nearly complete lack of competent professional editing the original materials have received. Any serious polar scholar could only quote from it with cautionary notes to his reader. Despite its existence, anyone seriously interested in an accurate reading of Goodsell’s materials will still have to journey to Mercer County to access the originals in person.
 
-]

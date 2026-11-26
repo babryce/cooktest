@@ -54,4 +54,3 @@ As for Rudolph Franke, he watched as what only could be the skins he and Cook ha
 
 2. These were all paying “guests” aboard the *Roosevelt.* Each had paid Peary $500 ($12,500 in today’s buying power) for the privilege of accompanying him to Greenland. All returned with the *Erik* except for Harry Whitney, who spent the winter at Dr. Cook’s box house at Annoatok and witnessed his return there in April of 1909.
 
-]

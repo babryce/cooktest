@@ -106,4 +106,3 @@ Ross Marvin
 
 *Copies of Marvin’s handwritten letters were given to the author by Silas H. Ayer III, who was the grandson of Louis Bement. They have never before been reproduced in whole. The copy of this letter is cut off on the right margin. The incomplete or missing words have been supplied by the author.*
 
-]

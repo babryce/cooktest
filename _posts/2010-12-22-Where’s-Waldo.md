@@ -23,4 +23,3 @@ But that was decidedly not the case. He had in mind already what he stated to th
 
 Yes, Dr. Cook was now back, and his plan was soon set in motion.
 
-]

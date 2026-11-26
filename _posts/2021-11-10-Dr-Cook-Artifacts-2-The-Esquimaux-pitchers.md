@@ -33,4 +33,3 @@ On the way out on that ill-fated voyage, Cook stopped again at Rigolet to return
 
 Today, these sturdy  stoneware pitchers remain as lasting reminders of this little known early phase of Dr. Cook’s eventful career.
 
-]

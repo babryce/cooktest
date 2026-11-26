@@ -15,4 +15,3 @@ The sculpts are signed “Geo. Magnani” on the reverse. The statuettes are ver
 
 These statuettes are scarce today because of the cheap materials they were constructed of and are very seldom found intact. The relative number of them that have survived seems to indicate that they were put on sale early in the controversy and sold in relatively equal numbers.
 
-]

@@ -29,4 +29,3 @@ There is a similar portrait mug of William Howard Taft. Whether it is directly r
 
 Although probably unrelated to the Cook and Peary mugs, the Taft makes a fine show standing as a buffer between the two rival explorers.  Considering the relative frequency the Peary comes onto the market compared to the Cook indicates that the Cook mug is far, far more scarce.
 
-]

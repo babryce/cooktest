@@ -31,4 +31,3 @@ Finally, here is a letter that appeared on September 11 in that same newspaper, 
 
 ![Shetland5](../assets/Shetland5-297x1024_-4zE.jpg "Shetland5")
 
-]

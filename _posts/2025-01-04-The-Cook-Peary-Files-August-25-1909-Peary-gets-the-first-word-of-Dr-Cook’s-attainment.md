@@ -35,4 +35,3 @@ The Henson interview is cited by Andrew Freeman in *The Case for Doctor Cook*, 
 
 **The copy of Adams’ letter is among the Peary Family Papers, Record Group XP, at NARA II, College Park, MD.**
 
-]

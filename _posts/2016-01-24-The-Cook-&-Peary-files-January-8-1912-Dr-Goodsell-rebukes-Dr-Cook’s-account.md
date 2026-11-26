@@ -54,4 +54,3 @@ Goodsell later asked Dr. Cook’s aid in getting a position on some future Arcti
 
 **This item is part of the Peary Family Collection housed at the National Archives II in College Park, Md.**
 
-]

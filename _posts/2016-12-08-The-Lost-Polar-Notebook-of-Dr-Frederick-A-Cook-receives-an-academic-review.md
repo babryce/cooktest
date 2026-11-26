@@ -20,4 +20,3 @@ Certainly, the book was designed for that purpose exactly, though the reviewer d
 
 The entire review can be viewed at: http://journals.sagepub.com/doi/full/10.1177/0843871416630274g
 
-]

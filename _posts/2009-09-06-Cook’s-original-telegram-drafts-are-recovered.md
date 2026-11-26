@@ -19,4 +19,3 @@ Those few pieces of torn paper might be said to embody the entire Polar Controve
 
 This is the second draft of Cook’s telegram he sent to the *New York Herald*, written on a standard UK telegram blank in the telegraph office in Lerwick on September 1, 1909.
 
-]

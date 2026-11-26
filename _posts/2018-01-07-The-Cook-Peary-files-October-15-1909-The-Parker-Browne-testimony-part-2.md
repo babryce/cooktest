@@ -23,4 +23,3 @@ Things to note in this section:
 
 At the end of his testimony, Belmore Browne makes an opening statement. This will be the subject of the next post.
 
-]

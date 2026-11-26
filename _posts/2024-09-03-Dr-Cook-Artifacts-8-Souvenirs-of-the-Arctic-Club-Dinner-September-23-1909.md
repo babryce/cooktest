@@ -78,4 +78,3 @@ The reverse bears the inscription: “APPROVED BY / THE / ARCTIC CLUB / OF / AME
 
 **The photos of the medal are courtesy of the Missouri Historical Society of St. Louis, MO.**
 
-]

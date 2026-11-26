@@ -73,4 +73,3 @@ In the eleventh installment Dr. Cook told of the final struggle and the discover
 
 In the twelfth installment Dr. Cook told of his journey back to land, his overwintering on Devon Island and his journey back to Annoatok, where he met Harry Whitney and then went on to the Danish settlements in the south.
 
-]

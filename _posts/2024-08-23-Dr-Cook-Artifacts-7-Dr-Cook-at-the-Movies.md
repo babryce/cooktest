@@ -37,4 +37,3 @@ As can be seen from this letter to Cook from John W. Ruskin, a then popular lect
 
 **The letter is in the Papers of Frederick A. Cook held in the manuscript division of the Library of Congress.**
 
-]

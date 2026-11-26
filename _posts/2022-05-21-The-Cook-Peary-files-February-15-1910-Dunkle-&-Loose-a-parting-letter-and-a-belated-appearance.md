@@ -33,4 +33,3 @@ The origins of the picture can be surmised from the back of the photo, which bea
 
 *The Loose letter is in the Peary Family Papers at NARA II, College Park, Md.  The photo of Dunkle and Loose is the possession of the author.*
 
-]

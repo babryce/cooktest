@@ -23,4 +23,3 @@ An example of the tent the two designed together is also on display, one of whic
 
 The museum also has an excellent bookstore. Cook and Peary, the Polar Controversy, Resolved can still be purchased there.
 
-]

@@ -27,4 +27,3 @@ Today, Dr. Cook’s table runner is on display in Amundsen’s house, Uranienbor
 
 The snapshots are courtesy of Carol Smith. These items are currently not on display.
 
-]

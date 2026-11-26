@@ -73,4 +73,3 @@ After reading this letter, in a letter dated November 20, Ashton told Hubbard th
 
 **The affidavits and Cook’s letter are in NARA II, College Park, MD.**
 
-]

@@ -95,4 +95,3 @@ Surgeon
 
 A typed copy of Goodsell’s diary and his official report are at NARA II.
 
-]

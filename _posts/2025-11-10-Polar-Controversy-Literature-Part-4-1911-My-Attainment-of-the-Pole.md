@@ -39,4 +39,3 @@ Unlike Peary’s book, which was translated into at least a half-dozen languages
 
 In addition to the full translation, in 1928 an abridged version under the title *Zum Mittelpunkt der Arktis. Reiseberichte ohne die Pol-Kontroverse.* (To the Center of the Arctic. The travelogues without reference to the polar controversy), edited by Erwin Volckmann, was issued by Westermann, Verlag. As indicated by the subtitle, the abridgment removed all references to Cook’s dispute with Peary, but retained the core narrative of his expedition.
 
-]

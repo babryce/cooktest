@@ -21,4 +21,3 @@ Barrill’s absence left the committee with only two witnesses, Parker, and Belm
 
 *A transcript of the Parker-Browne testimony, which will be published in the next few posts is among the Robert E. Peary Family Papers at National Archives II in College Park, MD.*
 
-]

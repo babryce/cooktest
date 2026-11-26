@@ -93,4 +93,3 @@ You can hear the song by copying in this link, or click on the appropriate link 
 
 https://music.metafilter.com/6396/Cook-Peary-and-Byrd
 
-]

@@ -30,4 +30,3 @@ As the alderman handed the scroll to Cook, the flash powder in one of the camera
 **The photograph of the scroll is courtesy of Darrell Hartman.  
 The other illustrations are from the author’s collection.**
 
-]

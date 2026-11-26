@@ -25,4 +25,3 @@ The record was not on sale for long, less than two months. Dr. Cook’s failure 
 
 *The letter can be found among the papers of Frederick A. Cook now held at the Library of Congress.*
 
-]

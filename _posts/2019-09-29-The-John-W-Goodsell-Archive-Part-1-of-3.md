@@ -37,4 +37,3 @@ As for the first, on one of the preliminary pages was an advertisement offering 
 
 In my next two blog posts I will give an analysis of what this publication contains, the good, the bad and the ugly, but—spoiler alert—for those with $140 to spare, I’d say save your money.
 
-]

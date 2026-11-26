@@ -49,4 +49,3 @@ Peary was outraged, and assured General Thomas Hubbard, President of the Peary A
 
 **All of the quoted correspondence, including the one published here for the first time, can be found among the Peary Family Collection, Record group XP, at NARA II.**
 
-]

@@ -129,4 +129,3 @@ Card 46 is based on a photo taken on Cook’s 1903 expedition to Alaska. Card 48
 
 Card 49 is based on an illustration that appeared on the cover of the French magazine *Le petit Journal.*
 
-]

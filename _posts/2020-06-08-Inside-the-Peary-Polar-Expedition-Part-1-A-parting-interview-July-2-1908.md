@@ -23,4 +23,3 @@ $500 in 1908 would be equivalent to the buying power in today’s dollars to $10
 
 *The original memorandum that bears Bridgman’s signature is among the Peary Family Papers, RG 101, at National Archives II in College Park, MD. The note at the bottom: “\*recall my words in Washington in re gold in C—s possession” is written in Peary’s hand.*
 
-]

@@ -41,4 +41,3 @@ Throughout it all, the object of all this adulation, as the *New York World* rep
 
 “Not even when the melodramatic features of the welcome that was prepared for him gripped the nerves of spectators and brought unbidden tears to manly eyes did Dr. Cook appear to be touched. The crowds roared and stamped, whistles blew and horns honked, and several times the doctor was almost swept off his feet, but he showed no sign of great joy or pride. Behind his dancing blue eyes of shallow depth there lies either wonder power of self-control or an innate insensibility to the ordinary emotions.”
 
-]

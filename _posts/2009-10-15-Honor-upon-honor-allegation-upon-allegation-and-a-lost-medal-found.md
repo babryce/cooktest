@@ -39,4 +39,3 @@ The whereabouts of the medal was unknown until it was uncovered in the collectio
 
 This photograph of the medal appears on the website of the Frederick A. Cook Society, where it can be viewed for an [enlargement of its details](http://www.cookpolar.org/arcticclubmedal-enlargement.htm).
 
-]

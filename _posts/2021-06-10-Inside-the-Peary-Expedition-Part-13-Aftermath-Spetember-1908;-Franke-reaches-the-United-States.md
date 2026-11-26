@@ -174,4 +174,3 @@ to be commanded by Dillon Wallace3.
 
 A typed copy of Franke’s letter and Jo’s letter is at NARA II.
 
-]

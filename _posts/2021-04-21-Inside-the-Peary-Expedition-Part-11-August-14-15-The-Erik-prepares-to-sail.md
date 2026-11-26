@@ -64,4 +64,3 @@ we are very apt to do.
 [sincerely yours  
 Ross G. Marvin]
 
-]

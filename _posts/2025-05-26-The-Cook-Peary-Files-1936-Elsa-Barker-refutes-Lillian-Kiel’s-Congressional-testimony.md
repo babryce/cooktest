@@ -37,4 +37,3 @@ In 1936, Elsa Barker wrote up her recollections of her dealings with Peary in re
 
 **Kiel’s long article is now in the Frederick Cook Papers at the Library of Congress.**
 
-]

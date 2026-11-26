@@ -31,4 +31,3 @@ You can see the entire film Cook showed that evening at the Manhattan Opera Hous
 
 http://archive.org/details/TruthAbo1912
 
-]

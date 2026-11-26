@@ -43,4 +43,3 @@ Bradley Land does not exist.
 
 All of Balch’s books were published at his own expense and distributed by him to numerous libraries. Although, as has been noted, he was well respected, neither of his books touching on the Polar Controversy ever had much influence on other authors’ arguments concerning it. But in 1913 a privately published book that would was even then already in preparation, though it would not appear for four more years. It, too, would be donated to many libraries, but unlike Blach’s own, it would become  a large factor in putting finish to Balch’s assurance that “It is only a question of time till Dr. Cook is recognized as the discover of the North Pole.”
 
-]

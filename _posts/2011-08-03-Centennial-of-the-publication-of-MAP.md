@@ -57,4 +57,3 @@ When the various versions of his polar journey contained in his various notebook
 
 Cook was a remarkable man in many ways, with many real accomplishments to his credit, but he was never satisfied with his real experiences, remarkable as they were. He always wanted more and knew how to embellish even remarkable experiences to make them extraordinary, and to do so in a way that would convince his audience that they were completely plausible. There are ample examples in *My Attainment of the Pole.*
 
-]

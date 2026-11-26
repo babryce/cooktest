@@ -48,4 +48,3 @@ For details of this expedition and the convoluted reasons why John Verhoeff met 
 
 *The original Cook letter is among the Verhoeff papers held at the Filson Club, in Louisville, KY.*
 
-]

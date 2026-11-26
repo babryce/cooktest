@@ -28,4 +28,3 @@ It was most unlikely indeed that Bridgman would have any interest in planning ce
 
 *The letter is among Peary’s papers now at the National Archives II in College Park, MD.*
 
-]
