@@ -1,5 +1,5 @@
 ---
-title:Polar Controversy Literature Part 9: 1917: Has the North Pole Been Discoverred?
+title: Polar Controversy Literature Part 9: 1917: Has the North Pole Been Discoverred?
 category: General
 ---
 ## Polar Controversy Literature Part 9: 1917: Has the North Pole Been Discoverred?

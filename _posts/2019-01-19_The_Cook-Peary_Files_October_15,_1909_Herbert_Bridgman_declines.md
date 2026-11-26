@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines
+title: The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines
 category: General
 ---
 ## The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines

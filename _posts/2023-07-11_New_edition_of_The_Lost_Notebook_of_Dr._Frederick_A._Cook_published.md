@@ -1,5 +1,5 @@
 ---
-title:New edition of The Lost Notebook of Dr. Frederick A. Cook published
+title: New edition of The Lost Notebook of Dr. Frederick A. Cook published
 category: General
 ---
 ## New edition of The Lost Notebook of Dr. Frederick A. Cook published

@@ -1,5 +1,5 @@
 ---
-title:Following the Polar Controversy 100 years on.
+title: Following the Polar Controversy 100 years on.
 category: General
 ---
 ## Following the Polar Controversy 100 years on.

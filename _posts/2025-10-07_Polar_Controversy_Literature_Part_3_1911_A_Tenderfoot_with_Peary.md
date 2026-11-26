@@ -1,5 +1,5 @@
 ---
-title:Polar Controversy Literature Part 3: 1911: A Tenderfoot with Peary
+title: Polar Controversy Literature Part 3: 1911: A Tenderfoot with Peary
 category: General
 ---
 ## Polar Controversy Literature Part 3: 1911: A Tenderfoot with Peary

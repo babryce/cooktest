@@ -1,5 +1,5 @@
 ---
-title:The Truth about the North Pole
+title: The Truth about the North Pole
 category: General
 ---
 ## The Truth about the North Pole

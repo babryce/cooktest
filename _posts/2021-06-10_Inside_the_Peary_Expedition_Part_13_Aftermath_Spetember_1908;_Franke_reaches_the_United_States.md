@@ -1,5 +1,5 @@
 ---
-title:Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States
+title: Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States
 category: General
 ---
 ## Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States

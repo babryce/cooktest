@@ -1,5 +1,5 @@
 ---
-title:Where’s Waldo?
+title: Where’s Waldo?
 category: General
 ---
 ## Where’s Waldo?

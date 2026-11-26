@@ -1,5 +1,5 @@
 ---
-title:Cook & Peary, twenty-five years on
+title: Cook & Peary, twenty-five years on
 category: General
 ---
 ## Cook & Peary, twenty-five years on

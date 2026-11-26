@@ -1,5 +1,5 @@
 ---
-title:The Smoking Gun
+title: The Smoking Gun
 category: General
 ---
 ## The Smoking Gun

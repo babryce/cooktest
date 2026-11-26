@@ -1,5 +1,5 @@
 ---
-title:A moveable feast
+title: A moveable feast
 category: General
 ---
 ## A moveable feast

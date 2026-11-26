@@ -1,5 +1,5 @@
 ---
-title:Looking back on the eve of the centennial of the great Polar Controversy.
+title: Looking back on the eve of the centennial of the great Polar Controversy.
 category: General
 ---
 ## Looking back on the eve of the centennial of the great Polar Controversy.
@@ -9,8 +9,6 @@ September 1, 2009
 It all began with these words sent in a telegram from Lerwick, Shetland Islands, on the morning of September 1, 1909:
 
 **REACHED NORTH POLE APRIL 21, 1908. DISCOVERED LAND FAR NORTH. RETURN TO COPENHAGEN BY STEAMER HANS EGEDE. FREDERICK COOK.**
-
-<!-- more -->
 
 It will be 100 years ago tomorrow that those fateful words broke upon an unsuspecting world. For the next four months the world, and especially the United States, was obsessed with the controversy that they began over the question of who was the discoverer of the North Pole, Frederick A. Cook, who sent the telegram, or Robert E. Peary, who cabled five days later: **STARS AND STRIPES NAILED TO POLE,** and who three days after that accused Cook in making his prior claim, of simply handing the world a “Gold Brick.” But will the world now take any note of the centennial of the greatest scientific dispute of all time? To judge by the attention garnered by the hundredth anniversaries of the two explorer’s actual claims, probably it won’t. Apparently this shows the current state of the debate: both claims are now generally discredited, absolutely so for those who have studied the complicated details; the mystery is gone, and with it the fascination. Little is left to argue over except by the partisans. Those partisans on both sides still exist, mind you, and as long as they do, they still want everyone to believe their man is the true discoverer.
 

@@ -1,5 +1,5 @@
 ---
-title:Frederick A. Cook website relocates to a new domain
+title: Frederick A. Cook website relocates to a new domain
 category: General
 ---
 ## Frederick A. Cook website relocates to a new domain

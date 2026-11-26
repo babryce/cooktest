@@ -1,5 +1,5 @@
 ---
-title:Update and Links
+title: Update and Links
 category: General
 ---
 ## Update and Links

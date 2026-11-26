@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”
+title: The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”
 category: General
 ---
 ## The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”

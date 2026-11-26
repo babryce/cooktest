@@ -1,5 +1,5 @@
 ---
-title:Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?
+title: Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?
 category: General
 ---
 ## Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?

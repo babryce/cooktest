@@ -1,5 +1,5 @@
 ---
-title:Polar Record to publish article based on transcription of Cook’s “Lost Notebook”
+title: Polar Record to publish article based on transcription of Cook’s “Lost Notebook”
 category: General
 ---
 ## Polar Record to publish article based on transcription of Cook’s “Lost Notebook”

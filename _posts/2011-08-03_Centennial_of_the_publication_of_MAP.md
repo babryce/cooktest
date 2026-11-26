@@ -1,5 +1,5 @@
 ---
-title:Centennial of the publication of MAP
+title: Centennial of the publication of MAP
 category: General
 ---
 ## Centennial of the publication of MAP

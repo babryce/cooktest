@@ -1,5 +1,5 @@
 ---
-title:Denali State Park posts sign on Cook Mount McKinley Hoax
+title: Denali State Park posts sign on Cook Mount McKinley Hoax
 category: General
 ---
 ## Denali State Park posts sign on Cook Mount McKinley Hoax

@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
+title: The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
 category: General
 ---
 ## The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation

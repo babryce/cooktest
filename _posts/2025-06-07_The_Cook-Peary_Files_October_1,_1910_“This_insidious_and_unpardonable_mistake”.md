@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary Files: October 1, 1910: “This insidious and unpardonable mistake”
+title: The Cook-Peary Files: October 1, 1910: “This insidious and unpardonable mistake”
 category: General
 ---
 ## The Cook-Peary Files: October 1, 1910: “This insidious and unpardonable mistake”

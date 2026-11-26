@@ -1,5 +1,5 @@
 ---
-title:The Doctor’s Danish Denouement.
+title: The Doctor’s Danish Denouement.
 category: General
 ---
 ## The Doctor’s Danish Denouement.

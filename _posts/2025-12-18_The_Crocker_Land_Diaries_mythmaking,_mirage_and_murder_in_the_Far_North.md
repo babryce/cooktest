@@ -1,5 +1,5 @@
 ---
-title:The Crocker Land Diaries: mythmaking, mirage and murder in the Far North
+title: The Crocker Land Diaries: mythmaking, mirage and murder in the Far North
 category: General
 ---
 ## The Crocker Land Diaries: mythmaking, mirage and murder in the Far North

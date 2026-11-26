@@ -1,5 +1,5 @@
 ---
-title:Running into Dr. Cook
+title: Running into Dr. Cook
 category: General
 ---
 ## Running into Dr. Cook

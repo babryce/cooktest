@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary Files: Peary’s Immaculate Notebook
+title: The Cook-Peary Files: Peary’s Immaculate Notebook
 category: General
 ---
 ## The Cook-Peary Files: Peary’s Immaculate Notebook

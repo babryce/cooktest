@@ -1,5 +1,5 @@
 ---
-title:Polar Record article now available online.
+title: Polar Record article now available online.
 category: General
 ---
 ## Polar Record article now available online.

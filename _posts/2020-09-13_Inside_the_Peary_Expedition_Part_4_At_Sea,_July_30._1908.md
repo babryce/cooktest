@@ -1,5 +1,5 @@
 ---
-title:Inside the Peary Expedition: Part 4: At Sea, July 30. 1908
+title: Inside the Peary Expedition: Part 4: At Sea, July 30. 1908
 category: General
 ---
 ## Inside the Peary Expedition: Part 4: At Sea, July 30. 1908

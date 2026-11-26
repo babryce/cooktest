@@ -1,5 +1,5 @@
 ---
-title:Polar Controversy Literature Part 4: 1911: My Attainment of the Pole
+title: Polar Controversy Literature Part 4: 1911: My Attainment of the Pole
 category: General
 ---
 ## Polar Controversy Literature Part 4: 1911: My Attainment of the Pole

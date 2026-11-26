@@ -1,5 +1,5 @@
 ---
-title:Enter Dunkle and Loose.
+title: Enter Dunkle and Loose.
 category: General
 ---
 ## Enter Dunkle and Loose.

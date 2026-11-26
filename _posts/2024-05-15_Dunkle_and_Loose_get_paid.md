@@ -1,5 +1,5 @@
 ---
-title:Dunkle and Loose get paid
+title: Dunkle and Loose get paid
 category: General
 ---
 ## Dunkle and Loose get paid

@@ -1,5 +1,5 @@
 ---
-title:How the Conquering Hero came
+title: How the Conquering Hero came
 category: General
 ---
 ## How the Conquering Hero came

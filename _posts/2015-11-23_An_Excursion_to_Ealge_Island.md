@@ -1,5 +1,5 @@
 ---
-title:An Excursion to Ealge Island
+title: An Excursion to Ealge Island
 category: General
 ---
 ## An Excursion to Ealge Island

@@ -1,5 +1,5 @@
 ---
-title:Frederick Cook arrives in Denmark
+title: Frederick Cook arrives in Denmark
 category: General
 ---
 ## Frederick Cook arrives in Denmark

@@ -1,5 +1,5 @@
 ---
-title:The Cook-Peary files:  November 25, 1909: An expedition is born.
+title: The Cook-Peary files:  November 25, 1909: An expedition is born.
 category: General
 ---
 ## The Cook-Peary files:  November 25, 1909: An expedition is born.

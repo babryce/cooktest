@@ -1,5 +1,5 @@
 ---
-title:Honor upon honor, allegation upon allegation, and a lost medal found.
+title: Honor upon honor, allegation upon allegation, and a lost medal found.
 category: General
 ---
 ## Honor upon honor, allegation upon allegation, and a lost medal found.

@@ -1,5 +1,5 @@
 ---
-title:The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper.
+title: The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper.
 category: General
 ---
 ## The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper.

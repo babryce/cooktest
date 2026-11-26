@@ -1,5 +1,5 @@
 ---
-title:The Centennial of Dr. Cook’s “confession.”
+title: The Centennial of Dr. Cook’s “confession.”
 category: General
 ---
 ## The Centennial of Dr. Cook’s “confession.”

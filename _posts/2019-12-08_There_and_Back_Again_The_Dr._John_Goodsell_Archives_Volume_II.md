@@ -1,5 +1,5 @@
 ---
-title:There and Back Again: The Dr. John Goodsell Archives Volume II
+title: There and Back Again: The Dr. John Goodsell Archives Volume II
 category: General
 ---
 ## There and Back Again: The Dr. John Goodsell Archives Volume II
