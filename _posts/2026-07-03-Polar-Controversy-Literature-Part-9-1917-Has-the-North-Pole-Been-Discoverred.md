@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 9: 1917: Has the North Pole Been Discoverred?"
-category: General
----
-## Polar Controversy Literature Part 9: 1917: Has the North Pole Been Discoverred?
-
 
 ![Has the North Pole been discovered](http://babryce.com/cooktest/assets/Has-the-North-Pole-been-discovered_hzBa.jpg "Has the North Pole been discovered")
 

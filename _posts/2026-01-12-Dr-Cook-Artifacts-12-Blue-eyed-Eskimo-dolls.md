@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 12: Blue-eyed Eskimo dolls"
-category: General
----
-## Dr. Cook Artifacts 12: Blue-eyed Eskimo dolls
-
 
 ![Dolls 7](http://babryce.com/cooktest/assets/Dolls-7-767x1024_62j0.jpg "Dolls 7")
 

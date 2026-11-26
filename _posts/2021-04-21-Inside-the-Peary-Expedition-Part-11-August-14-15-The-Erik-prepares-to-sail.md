@@ -1,9 +1,3 @@
----
-title: "Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail"
-category: General
----
-## Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail
-
 
 As usual, Dr. Goodsell’s copious diary recorded the latest news on August 14, 1908:
 

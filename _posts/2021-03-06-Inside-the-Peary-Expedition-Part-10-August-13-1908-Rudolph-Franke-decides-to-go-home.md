@@ -1,9 +1,3 @@
----
-title: "Inside the Peary Expedition, Part 10: August 13, 1908: Rudolph Franke decides to go home"
-category: General
----
-## Inside the Peary Expedition, Part 10: August 13, 1908: Rudolph Franke decides to go home
-
 
 This following letter was addressed to Peary by Rudolph Franke. Franke later said that he wrote the letter under duress, that Peary made it the condition of his return that he turn over to him all of Dr. Cook’s stores at Annoatok, as well as the blue fox furs and narwhal horns he and Cook had collected since their arrival in 1907. Franke said that Peary told him that he was short of furs and needed them to outfit his expedition, and that none would be sent back to the United States. Later, however, Franke saw bundles of furs being loaded aboard the Erik. He knew Peary could not possibly have collected that many furs in the short time since his arrival in Greenland, and was certain they were the same ones that had belonged to Dr. Cook.
 

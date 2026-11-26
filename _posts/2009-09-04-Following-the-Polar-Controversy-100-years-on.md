@@ -1,9 +1,3 @@
----
-title: "Following the Polar Controversy 100 years on."
-category: General
----
-## Following the Polar Controversy 100 years on.
-
 
 In September 1909, the name of Frederick Albert Cook was on the lips of the entire civilized world. Some said he was the greatest of heroes; others said he was the greatest of scoundrels. To this day Cook remains the most controversial figure in the history of exploration, and his claim to have been the first to the North Pole, besting Robert E. Peary by nearly a year, started the great Polar Controversy. The story made headlines for nearly four months and the dispute over which or either reached the Pole is now in its 100th year.   It was to become, quite literally, the story of the century.
 

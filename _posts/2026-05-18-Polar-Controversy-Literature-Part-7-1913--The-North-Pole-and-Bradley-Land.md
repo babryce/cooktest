@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land"
-category: General
----
-## Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land
-
 
 The first book advocating Dr. Cook as the true discoverer of the North Pole was published in April 1913. It was the work of Edwin Swift Balch.
 

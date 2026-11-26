@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II"
-category: General
----
-## Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II
-
 
 But *Has the North Pole Been Discovered?* was not Hall’s last word on the subject. In 1920 he published a paperbound supplement to the book which he styled as “Volume II,” which attempted to account for developments since his book’s publication. In it he devoted 52 of its 62 pages to subjects related to the “Eskimo Testimony.”
 

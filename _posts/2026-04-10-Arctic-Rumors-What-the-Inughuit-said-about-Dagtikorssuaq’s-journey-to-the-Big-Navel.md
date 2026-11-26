@@ -1,9 +1,3 @@
----
-title: "Arctic Rumors: What the Inughuit said about Dagtikorssuaq’s journey to the Big Navel"
-category: General
----
-## Arctic Rumors: What the Inughuit said about Dagtikorssuaq’s journey to the Big Navel
-
 
 ![Rumors 1](http://babryce.com/cooktest/assets/Rumors-1-683x1023_hzBa.jpg "Rumors 1")
 

@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: October 25, 1909: A lawyer informs Dr. Cook of Barrill’s payoff"
-category: General
----
-## The Cook-Peary Files: October 25, 1909: A lawyer informs Dr. Cook of Barrill’s payoff
-
 
 ![Ed Barrill](http://babryce.com/cooktest/assets/Ed-Barrill1-204x300_omLw.jpg "Ed Barrill")
 

@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation"
-category: General
----
-## The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
-
 
 *This is the 15th in a series examining significant unpublished documents related to the Polar Controversy.*
 

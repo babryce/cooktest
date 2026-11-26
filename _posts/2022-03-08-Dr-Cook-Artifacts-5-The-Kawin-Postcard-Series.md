@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 5: The Kawin Postcard Series"
-category: General
----
-## Dr. Cook Artifacts 5: The Kawin Postcard Series
-
 
 ![Series set and box](http://babryce.com/cooktest/assets/Series-set-and-box_6uWI.jpg "Series set and box")
 

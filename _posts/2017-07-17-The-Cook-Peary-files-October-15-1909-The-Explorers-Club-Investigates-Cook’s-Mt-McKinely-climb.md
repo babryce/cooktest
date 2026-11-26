@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary files: October 15, 1909: The Explorers Club Investigates Cook’s Mt. McKinely climb"
-category: General
----
-## The Cook-Peary files: October 15, 1909: The Explorers Club Investigates Cook’s Mt. McKinely climb
-
 
 *This is the sixth in a series *examining significant unpublished documents associated with the Polar Controversy.**
 

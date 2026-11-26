@@ -1,9 +1,3 @@
----
-title: "Dunkle and Loose get paid"
-category: General
----
-## Dunkle and Loose get paid
-
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 

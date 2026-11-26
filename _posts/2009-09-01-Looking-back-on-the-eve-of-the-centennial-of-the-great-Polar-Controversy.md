@@ -1,9 +1,3 @@
----
-title: "Looking back on the eve of the centennial of the great Polar Controversy."
-category: General
----
-## Looking back on the eve of the centennial of the great Polar Controversy.
-
 
 It all began with these words sent in a telegram from Lerwick, Shetland Islands, on the morning of September 1, 1909:
 

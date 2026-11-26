@@ -1,9 +1,3 @@
----
-title: "Running into Dr. Cook"
-category: General
----
-## Running into Dr. Cook
-
 
 While in Europe this past spring, there were chances to visit several places connected with Dr. Cook. The first was a drive past the Phoenix Hotel, where Cook stayed as guest upon his return from Greenland on September 4, 1909. Unfortunately, plans to visit this and other sites associated with the “Cook Days” in Copenhagen had to be scrapped because of a change in arrival times in Denmark.
 

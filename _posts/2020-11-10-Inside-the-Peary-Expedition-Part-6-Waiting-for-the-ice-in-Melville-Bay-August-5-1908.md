@@ -1,9 +1,3 @@
----
-title: "Inside the Peary Expedition, Part 6: Waiting for the ice in Melville Bay, August 5, 1908"
-category: General
----
-## Inside the Peary Expedition, Part 6: Waiting for the ice in Melville Bay, August 5, 1908
-
 
 The *Roosevelt* was delayed at North Star Bay while waiting for the ice to loosen in Melville Bay before heading farther north. Melville Bay was notorious for hazardous ice jams, but beyond was generally clear in August. While he waited, Marvin added a few details about the expedition’s outfit. The “Huskies” referred to here are the Inuit men Peary took on board at North Star, along with their families. The women worked all winter aboard the ice-bound ship preparing skins and sewing fur garments.
 

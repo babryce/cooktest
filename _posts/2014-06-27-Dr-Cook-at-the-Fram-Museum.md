@@ -1,9 +1,3 @@
----
-title: "Dr. Cook at the Fram Museum"
-category: General
----
-## Dr. Cook at the Fram Museum
-
 
 ![Fram musem](http://babryce.com/cooktest/assets/IMG_01292-300x225_3nNc.jpg "Fram musem")
 

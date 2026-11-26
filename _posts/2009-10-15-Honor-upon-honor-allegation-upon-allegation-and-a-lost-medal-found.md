@@ -1,9 +1,3 @@
----
-title: "Honor upon honor, allegation upon allegation, and a lost medal found."
-category: General
----
-## Honor upon honor, allegation upon allegation, and a lost medal found.
-
 
 **![Frederick Cook in NY](http://babryce.com/cooktest/assets/Frederick-Cook-in-NY-150x150_4AlG.jpg "Frederick Cook in NY")*A Busy Week***
 

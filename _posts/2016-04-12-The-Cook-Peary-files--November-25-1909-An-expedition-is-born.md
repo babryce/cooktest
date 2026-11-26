@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary files:  November 25, 1909: An expedition is born."
-category: General
----
-## The Cook-Peary files:  November 25, 1909: An expedition is born.
-
 
 ![Mac letter Nov 25 1909](http://babryce.com/cooktest/assets/Mac-letter-Nov-25-1909-242x300_3nNc.jpg "Mac letter Nov 25 1909")
 

@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer"
-category: General
----
-## The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer
-
 
 *This is the 12th in a series examining significant unpublished documents related to the Polar Controversy.*
 

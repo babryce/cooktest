@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: The Barrill Affidavit, Part 4: Who got what?"
-category: General
----
-## The Cook-Peary Files: The Barrill Affidavit, Part 4: Who got what?
-
 
 *This is the 21st in a series examining significant unpublished documents related to the Polar Controversy.*
 

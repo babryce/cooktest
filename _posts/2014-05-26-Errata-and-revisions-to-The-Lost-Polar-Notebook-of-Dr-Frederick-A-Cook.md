@@ -1,9 +1,3 @@
----
-title: "Errata and revisions to The Lost Polar Notebook of Dr. Frederick A. Cook"
-category: General
----
-## Errata and revisions to The Lost Polar Notebook of Dr. Frederick A. Cook
-
 
 A distinct advantage to digital publishing is the ability to correct or update an existing text and incorporate those changes into the latest available printed copies of a book. Since The Lost Polar Notebook of Dr. Frederick A. Cook was published in December 2013, several changes have been made to the original file, and no doubt more may be necessary as readers submit feedback to the author. The author welcomes these, and will acknowledge anyone who corrects errors or provides additional information relevant to the book’s text that is published in this post, but so far, the changes listed here have all resulted from a critical reading of the published text by the author himself.
 

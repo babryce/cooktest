@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”"
-category: General
----
-## The Cook-Peary Files: June 28, 1937: Franke recounts “The Gumdrop Story”
-
 
 ![bradley](http://babryce.com/cooktest/assets/bradley-233x300_omLw.jpg "bradley")
 

@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 9: The Freedom of the City of New York, October 15, 1909"
-category: General
----
-## Dr. Cook Artifacts 9: The Freedom of the City of New York, October 15, 1909
-
 
 Exactly 115 years ago today, as mentioned in the last post, Frederick Cook was the first American to be offered the Freedom of the City of New York. Only the Prince of Prussia and Charles Dickens before him had been accorded this honor, and it was protested by the pro-Peary interests. General Thomas Hubbard wrote a personal letter to the President of the Board of Aldermen asking that the ceremony be postponed, as did the Explorers Club, in light of its ongoing investigation into Dr. Cook’s claim to have climbed Mt. McKinley in 1906 (see the posts for October, November 2017 and January 2018 below).
 

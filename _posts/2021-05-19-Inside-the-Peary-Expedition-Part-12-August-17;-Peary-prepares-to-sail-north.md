@@ -1,9 +1,3 @@
----
-title: "Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north"
-category: General
----
-## Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north
-
 
 After a walrus hunt to provide the Inuit with meat lost by his taking some of the best hunters north with him, Peary prepared to sail. He put the Bos’n, John Murphy in charge of Cook’s box house at Annoatok, to live there and guard the supplies Cook had brought against pilfering by the natives. To keep him company and keep the log, as Murphy was perfectly illiterate, he assigned Billy Pritchard, the *Roosevelt*’s cabin boy to stay with him. Peary wrote out a set of detailed instructions for Pritchard to read to Murphy to remind him of how he was to spend his time.
 

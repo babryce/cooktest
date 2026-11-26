@@ -1,9 +1,3 @@
----
-title: "Corrections: round 2"
-category: General
----
-## Corrections: round 2
-
 
 Anyone who purchased a copy of *The Lost Polar Notebook of Dr. Frederick A. Cook* between May 22, 2014 and March 1, 2015 should make note of these changes to the text. This is envisioned as the last major revision of the text. Any future corrections will accumulate on an errata sheet and not be made to the text unless some major error comes to light.
 

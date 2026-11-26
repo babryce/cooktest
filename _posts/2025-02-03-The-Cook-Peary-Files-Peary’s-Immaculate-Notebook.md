@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: Peary’s Immaculate Notebook"
-category: General
----
-## The Cook-Peary Files: Peary’s Immaculate Notebook
-
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 

@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett"
-category: General
----
-## Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett
-
 
 ![Peary's grave](http://babryce.com/cooktest/assets/Pearys-grave_hzBa.jpg "Peary's grave")
 

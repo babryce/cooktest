@@ -1,9 +1,3 @@
----
-title: "The Smoking Gun"
-category: General
----
-## The Smoking Gun
-
 
 At last the “smoking gun” is found for Cook’s North Pole hoax.
 

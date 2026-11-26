@@ -1,9 +1,3 @@
----
-title: "“A Hack job”: An Editorial Review of True North."
-category: General
----
-## “A Hack job”: An Editorial Review of True North.
-
 
 **How the mighty have fallen**
 

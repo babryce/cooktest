@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 3: 1911: A Tenderfoot with Peary"
-category: General
----
-## Polar Controversy Literature Part 3: 1911: A Tenderfoot with Peary
-
 
 *This is the third in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 

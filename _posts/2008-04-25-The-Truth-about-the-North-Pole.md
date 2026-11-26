@@ -1,9 +1,3 @@
----
-title: "The Truth about the North Pole"
-category: General
----
-## The Truth about the North Pole
-
 
 When Dr. Cook returned to the United States in late December 1910 after a year of self-imposed exile following the rejection of his “proofs” to have discovered the North Pole by the University of Copenhagen, he said he had no intention to give lectures or otherwise try to reestablish his claim. But in January 1911, Cook was reported in Chicago, then the movie capital of the country, to establish something called the North Pole Moving Picture Company.
 

@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: September 4, 1909: How Cook’s visit to Lerwick was reported in the local papers"
-category: General
----
-## The Cook-Peary Files: September 4, 1909: How Cook’s visit to Lerwick was reported in the local papers
-
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 

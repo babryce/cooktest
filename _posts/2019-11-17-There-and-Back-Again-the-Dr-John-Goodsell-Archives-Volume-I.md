@@ -1,9 +1,3 @@
----
-title: "There and Back Again: the Dr. John Goodsell Archives: Volume I"
-category: General
----
-## There and Back Again: the Dr. John Goodsell Archives: Volume I
-
 
 *![Goodsell Archive](http://babryce.com/cooktest/assets/Goodsell-Archive-247x300_omLw.jpg "Goodsell Archive")*
 

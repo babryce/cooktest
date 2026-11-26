@@ -1,9 +1,3 @@
----
-title: "Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States"
-category: General
----
-## Inside the Peary Expedition: Part 13: Aftermath: Spetember 1908; Franke reaches the United States
-
 
 On August 18th Franke, still brooding over his dealings with Peary, watched the *Roosevelt* steam slowly north and vanish from sight among the ice of Smith Sound. Peary had forbidden him to take anything aboard the *Erik* besides his personal effects; he was not even allowed a pair of dogs he wanted to donate to the Catholic relief mission ship *St. Bernard.* The Roosevelt was hardly out of sight when Franke began to hear grumblings among the crew of the *Erik* about Peary’s unfair treatment of them, though while the commander had been present they had seemed totally subservient.
 

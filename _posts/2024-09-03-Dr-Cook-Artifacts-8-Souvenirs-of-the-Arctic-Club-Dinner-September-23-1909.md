@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 8: Souvenirs of the Arctic Club Dinner, September 23, 1909."
-category: General
----
-## Dr. Cook Artifacts 8: Souvenirs of the Arctic Club Dinner, September 23, 1909.
-
 
 In the wake of his triumphal return to New York, and despite Peary’s charges that Cook’s prior claim to the North Pole was a “gold brick,” the Arctic Club of America decided on a gala dinner in his honor to be held on September 23 at the Waldorf-Astoria. A grand assembly of 1,185 guests in formal dress who had paid anywhere from $5-$30 for the privilege, thronged the vast banquet hall of the hotel, festooned with intertwined flags of the United States and Denmark. Cook, escorted by the club’s sitting president, retired Admiral Winfield Scott Schley, shook hands with more than 600 of them at the preliminary reception in the Astor Gallery before sitting down to dinner.
 

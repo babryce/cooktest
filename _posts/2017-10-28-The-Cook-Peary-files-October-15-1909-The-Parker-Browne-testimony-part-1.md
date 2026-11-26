@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1"
-category: General
----
-## The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1
-
 
 *This is the seventh in a series examining significant unpublished documents related to the Polar Controversy.*
 

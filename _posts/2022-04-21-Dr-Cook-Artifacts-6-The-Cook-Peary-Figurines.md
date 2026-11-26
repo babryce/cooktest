@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 6: The Cook-Peary Figurines"
-category: General
----
-## Dr. Cook Artifacts 6: The Cook-Peary Figurines
-
 
 Happy 113th Anniversary of Dr. Cook’s non-arrival at the North Pole.
 

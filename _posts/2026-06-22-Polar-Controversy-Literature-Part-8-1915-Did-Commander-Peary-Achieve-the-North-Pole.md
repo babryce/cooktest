@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?"
-category: General
----
-## Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?
-
 
 ![Johnson 1](http://babryce.com/cooktest/assets/Johnson-11_hzBa.jpg "Johnson 1")
 

@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome"
-category: General
----
-## The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome
-
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 

@@ -1,9 +1,3 @@
----
-title: "Dr. Cook Artifacts 11: Dr. Cook’s Embroidery"
-category: General
----
-## Dr. Cook Artifacts 11: Dr. Cook’s Embroidery
-
 
 ![In jail](http://babryce.com/cooktest/assets/In-jail_62j0.jpg "In jail")
 

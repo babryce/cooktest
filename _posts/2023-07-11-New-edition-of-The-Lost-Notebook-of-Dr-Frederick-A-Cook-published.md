@@ -1,9 +1,3 @@
----
-title: "New edition of The Lost Notebook of Dr. Frederick A. Cook published"
-category: General
----
-## New edition of The Lost Notebook of Dr. Frederick A. Cook published
-
 
 ![cover](http://babryce.com/cooktest/assets/cover_6uWI.jpeg "cover")
 

@@ -1,9 +1,3 @@
----
-title: "Polar Controversy Literature Part 1: 1910: The North Pole"
-category: General
----
-## Polar Controversy Literature Part 1: 1910: The North Pole
-
 
 *This is the first in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published. The first is Peary’s personal narrative of his alleged “discovery of the North Pole,” a claim now almost entirely discounted as a fraud.*
 

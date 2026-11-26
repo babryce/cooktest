@@ -1,9 +1,3 @@
----
-title: "Polar Record to publish article based on transcription of Cook’s “Lost Notebook”"
-category: General
----
-## Polar Record to publish article based on transcription of Cook’s “Lost Notebook”
-
 
 Readers of this blog will have noted the last post in 2012 reporting the author of this website’s plan to transcribe one of the notebooks Cook kept on his 1908 polar expedition. As that plan nears completion, The Polar Record, published by Cambridge University Press, has agreed to publish a major article summarizing the author’s findings resulting from his transcription. The article was peer-reviewed and accepted for publication in October and will appear in a future number of the prestigious journal. Interested readers should watch the journal’s website, which is part of www.journals.cambridge.org for the publication of the article. The book itself is projected to be published before the end of 2013 and will be available through Amazon.com.
 

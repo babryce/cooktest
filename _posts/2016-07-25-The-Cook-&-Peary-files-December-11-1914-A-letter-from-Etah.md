@@ -1,9 +1,3 @@
----
-title: "The Cook & Peary files: December 11, 1914: A letter from Etah."
-category: General
----
-## The Cook & Peary files: December 11, 1914: A letter from Etah.
-
 
 *This is the third in a series examining significant unpublished documents associated with the Polar Controversy.* ![Crocker Land Expedition letterhead](http://babryce.com/cooktest/assets/Crocker-Land-letter-287x300_3nNc.jpg "Crocker Land letter")
 

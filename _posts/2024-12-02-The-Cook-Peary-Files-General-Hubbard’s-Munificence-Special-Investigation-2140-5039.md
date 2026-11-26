@@ -1,9 +1,3 @@
----
-title: "The Cook-Peary Files: General Hubbard’s Munificence: Special Investigation #2140/#5039"
-category: General
----
-## The Cook-Peary Files: General Hubbard’s Munificence: Special Investigation #2140/#5039
-
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 
