@@ -6,11 +6,11 @@ category: General
 
 September 13, 2020
 
-![Ross Marvin](assets/Ross-Marvin2-163x300_8p6-.jpg "Ross Marvin")
+![Ross Marvin](../assets/Ross-Marvin2-163x300_8p6-.jpg "Ross Marvin")
 
 *Ross Marvin*
 
-![July 30 1](assets/July-30-3-671x1024_8p6-.jpg "July 30 3")
+![July 30 1](../assets/July-30-3-671x1024_8p6-.jpg "July 30 3")
 
 7 – 30 1908  
 at sea off the Greenland Coast  
@@ -96,3 +96,4 @@ Ross Marvin
 
 1 Disco is a large island just off the coast and was the site of Upernavik.
 
+]

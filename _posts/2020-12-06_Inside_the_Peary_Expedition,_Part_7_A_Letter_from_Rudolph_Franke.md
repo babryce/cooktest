@@ -16,7 +16,7 @@ At Etah, Peary retrieved a letter sent north via a native by Rudolph Franke, who
 
 When Cook had not appeared by the appointed date, Franke set out for North Star Bay. Not finding any whaling ships, he started back for Etah, sending ahead this letter to deliver in case he encountered a ship along the way or one had arrived at Etah during his absence:
 
-![July 13 Franke Letter](assets/July-13-Franke-Letter-1024x821_8p6-.jpg "July 13 Franke Letter")
+![July 13 Franke Letter](../assets/July-13-Franke-Letter-1024x821_8p6-.jpg "July 13 Franke Letter")
 
 Oomanui, July 13, 1908
 
@@ -35,3 +35,4 @@ I am now going up with boat along the shore. Please look good out. Perhaps you a
 
 The typed transcript of the letter is in the Peary Family Papers at National Archives II, College Park, MD
 
+]

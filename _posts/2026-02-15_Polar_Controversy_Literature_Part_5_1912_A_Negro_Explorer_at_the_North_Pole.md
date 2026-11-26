@@ -6,11 +6,11 @@ category: General
 
 February 15, 2026
 
-![NENP](assets/NENP-694x1024_hzBa.jpg "NENP")
+![NENP](../assets/NENP-694x1024_hzBa.jpg "NENP")
 
 Peary had a falling out with Matt Henson after the return of his attempt to reach the North Pole in 1909 over his attempt to prevent him from going on the lecture platform. Peary was especially disturbed to learn that Henson planned to exhibit some of his own photographs, including one he claimed was taken at the North Pole. Peary apparently was apprehensive that Henson’s photographs, which by contract were all supposed to be turned over to Peary after the expedition, might show something that would prove Peary had not actually reached the North Pole, for instance, measurable shadows on the ground, which would be a certain length on the days Peary claimed to have been there. He also was not comfortable with some of Henson’s statements he had made in newspaper interviews, either, regarding the trip to the Pole, some of  which varied considerably from his own reports. For instance, Henson said that Peary rode the sledges the whole way because of his mostly toeless feet did not allow him to walk over the irregular ice, and Peary felt he might reveal other details that conflicted with his already published version of events. Henson was even rumored to be proposing that he debate Dr. Cook, which horrified Peary at the thought.
 
-To discourage Henson, Peary refused to provide lantern slides or maps to use in his lectures and did what he could to keep Henson off the lecture circuit entirely. But Henson went on a lecture tour  anyway, (see the post for June 17, 2024) which led Peary to say that “for a few dollars” Henson had been disloyal and that he “was through with him absolutely.” When Henson appeared at the Hippodrome, he sent Herbert Bridgman in person to get a look at Henson’s “North Pole” picture. He had nothing to fear. Although it was obviously taken at “Camp Morris K. Jesup,” as Peary called his polar camp, it was blurry and showed nothing definitely incriminating.![Henson NP](assets/Henson-NP-840x1024_hzBa.jpg "Henson NP")
+To discourage Henson, Peary refused to provide lantern slides or maps to use in his lectures and did what he could to keep Henson off the lecture circuit entirely. But Henson went on a lecture tour  anyway, (see the post for June 17, 2024) which led Peary to say that “for a few dollars” Henson had been disloyal and that he “was through with him absolutely.” When Henson appeared at the Hippodrome, he sent Herbert Bridgman in person to get a look at Henson’s “North Pole” picture. He had nothing to fear. Although it was obviously taken at “Camp Morris K. Jesup,” as Peary called his polar camp, it was blurry and showed nothing definitely incriminating.![Henson NP](../assets/Henson-NP-840x1024_hzBa.jpg "Henson NP")
 
 True to his word, Peary had nothing to do with Henson the rest of his life, with one exception. When Henson proposed to publish a book of his own on his Arctic experiences, Peary got interested in him again briefly. Peary had faced a lot of criticism in the Press for the content of a series of articles he had published in *Hampton’s Magazine* in 1910, for their lack of any “proof” that he had been to the Pole, and got more of the same after his own book, *The North Pole*, was published later that year (see the post for August 18, 2025), which had already resulted in a book questioning the legitimacy of his polar claim (see the post for September 29, 2025). Peary wanted no more conflicting statements from Henson to raise further suspicions.
 
@@ -29,7 +29,8 @@ In his book Henson says at one point he quotes from his diary, but the so-called
 
 Henson’s book, was, as Stokes predicted, a commercial flop in 1912, but with the rising interest in black history during the Civil Rights Movement, it was reprinted several times and did very well.
 
-![cooper square](assets/cooper-square_hzBa.jpg "cooper square")
+![cooper square](../assets/cooper-square_hzBa.jpg "cooper square")
 
 The reprint issued by Cooper Square Press in 2001 has a detailed new introduction by this author which addresses Henson’s biography in general and gives details on the background of how A Negro Explorer at the North Pole came into being.
 
+]

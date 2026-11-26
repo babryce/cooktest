@@ -8,7 +8,7 @@ September 29, 2025
 
 *This is the second in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 
-![Did Peary Reach the Pole](assets/Did-Peary-Reach-the-Pole_62j0.jpg "Did Peary Reach the Pole")
+![Did Peary Reach the Pole](../assets/Did-Peary-Reach-the-Pole_62j0.jpg "Did Peary Reach the Pole")
 
 It took less than a year before the first book appeared doubting Peary’s claim with the questioning title, *Did Peary Reach the Pole?* It was published in England by W. Henry Lewin, who styled himself merely as “An Englishman in the Street,” but who was something of a professional skeptic on a number of topics in all of his privately published later writings.
 
@@ -36,3 +36,4 @@ In any case, in his introduction he stated that his motivation in writing the bo
 
 Whether or not he actually felt Peary was guiltless in 1911, twenty-five years later Lewin would write another book on the same subject, and in the interim had found cause to eat every word of this earlier evaluation of Peary’s character.
 
+]

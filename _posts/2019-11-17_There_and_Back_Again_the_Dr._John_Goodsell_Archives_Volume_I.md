@@ -6,7 +6,7 @@ category: General
 
 November 17, 2019
 
-*![Goodsell Archive](assets/Goodsell-Archive-247x300_omLw.jpg "Goodsell Archive")*
+*![Goodsell Archive](../assets/Goodsell-Archive-247x300_omLw.jpg "Goodsell Archive")*
 
 *This is the second of three posts covering* There and Back Again; The Dr. John Goodsell Archives *issued by the Mercer County Historical Society. For preliminary remarks, see the last published post.*
 
@@ -44,3 +44,4 @@ The volume concludes with an index, which at first glance looks like the best th
 
 The next post will review the second volume and sum up the work’s overall value.
 
+]

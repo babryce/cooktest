@@ -8,11 +8,11 @@ November 10, 2025
 
 *This is the fourth in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 
-The quintessential book of the Polar Controversy is *My Attainment of the Pole*, Dr. Cook’s narrative of his 1908-09 expedition, and his comments upon his controversy with Peary. It appeared in August 1911. It has already been treated to a detailed analysis elsewhere on this site (see under the “Artifacts” section), but deserves a few more comments here.![My attainment 1911](assets/My-attainment-1911_62j0.jpg "My attainment 1911")
+The quintessential book of the Polar Controversy is *My Attainment of the Pole*, Dr. Cook’s narrative of his 1908-09 expedition, and his comments upon his controversy with Peary. It appeared in August 1911. It has already been treated to a detailed analysis elsewhere on this site (see under the “Artifacts” section), but deserves a few more comments here.![My attainment 1911](../assets/My-attainment-1911_62j0.jpg "My attainment 1911")
 
 It went through three editions, the first published by Cook’s own Polar Publishing Co., the last two published by Mitchell Kennerley, amounting to more than 60,000 copies. Between the years 1912-1916, as Cook toured as a Lyceum and Chautauqua lecturer, he sold the book at cost at all his appearances and gave many other copies away for many years after that. The book won innumerable friends for Cook, who through its pages were convinced Cook had reached the Pole and had been cheated of his glory by a moneyed conspiracy.
 
-![My attainment in German](assets/My-attainment-in-German_62j0.jpg "My attainment in German")
+![My attainment in German](../assets/My-attainment-in-German_62j0.jpg "My attainment in German")
 
 Many who read the book felt as reviewers had in Germany when the book was issued there in translation as *Meine Eroberung des Nordpols* by Alfred Janssen in 1913:
 
@@ -36,7 +36,8 @@ Therefore, his description of Harré’s original contributions as limited to �
 
 Unlike Peary’s book, which was translated into at least a half-dozen languages, Cook’s was only translated into German. This was because, he, although born in America, was a pure German by birth, and his story raised a certain amount of national pride that one of German blood had been the one to discover the North Pole, and therefore it found a sympathetic ear within his ancestral homeland.
 
-![Zum](assets/Zum_62j0.jpg "Zum")
+![Zum](../assets/Zum_62j0.jpg "Zum")
 
 In addition to the full translation, in 1928 an abridged version under the title *Zum Mittelpunkt der Arktis. Reiseberichte ohne die Pol-Kontroverse.* (To the Center of the Arctic. The travelogues without reference to the polar controversy), edited by Erwin Volckmann, was issued by Westermann, Verlag. As indicated by the subtitle, the abridgment removed all references to Cook’s dispute with Peary, but retained the core narrative of his expedition.
 
+]

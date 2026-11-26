@@ -18,7 +18,8 @@ That the mysterious disappearance of Barrill, the only eyewitness to Cook’s ac
 
 Barrill’s absence left the committee with only two witnesses, Parker, and Belmore Browne, both of whom had been on Cook’s 1906 expedition. In this series, their testimony before the Explorers Club is published for the first time. The meeting began with a preliminary statement concerning the absence of Edward Barrill, after which Parker was called. Parker, unlike eyewitness Barrill, had already left Alaska before Dr. Cook made his attempt with Barrill to reach the mountain’s summit.
 
-![Explorers Club 1](assets/Explorers-Club-11-772x1024_lewA.jpg "Explorers Club 1")
+![Explorers Club 1](../assets/Explorers-Club-11-772x1024_lewA.jpg "Explorers Club 1")
 
 *A transcript of the Parker-Browne testimony, which will be published in the next few posts is among the Robert E. Peary Family Papers at National Archives II in College Park, MD.*
 
+]

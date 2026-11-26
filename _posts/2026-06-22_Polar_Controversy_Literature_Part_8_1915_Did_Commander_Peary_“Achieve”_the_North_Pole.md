@@ -6,11 +6,11 @@ category: General
 
 June 22, 2026
 
-![Johnson 1](assets/Johnson-11_hzBa.jpg "Johnson 1")
+![Johnson 1](../assets/Johnson-11_hzBa.jpg "Johnson 1")
 
 Probably the most obscure early study of the Polar Controversy appeared in June, 1915, as a 39-page booklet by William N. Johnson, titled *Did Admiral Peary “Achieve” the North Pole.* It was published in Chicago by the author and printed by the firm of Dvorak & Weiser.
 
-![Johnson](assets/Johnson-669x1024_hzBa.jpg "Johnson")
+![Johnson](../assets/Johnson-669x1024_hzBa.jpg "Johnson")
 
 It had originally been written in 1911 and was sent by the author to Representative R. B. Macon, of Arkansas, who at that time was leading a campaign to defeat a bill introduced into the US Congress to recognize Robert E. Peary as the Discoverer of the North Pole and retire him with the rank of Rear Admiral in the Engineer Corps. But Johnson’s study arrived too late for Macon to make any use of it before the bill passed.
 
@@ -28,3 +28,4 @@ Johnson illustrated this with a table which compared the total nautical miles co
 
 In closing, Johnson expressed his regrets that “It is extremely unfortunate for Commander Peary’s own reputation, that his own accounts of his ‘dash for the Pole’ are not more accurate and convincing. Every American citizen who rejoices in the glory of his own county, would be glad to *know* that Peary had reached the North Pole, but there are some, as least, who cannot accept the Commander’s unconfirmed testimony, filled as it is with contractions, as conclusively establishing his claim.”
 
+]

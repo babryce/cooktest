@@ -6,7 +6,7 @@ category: General
 
 August 27, 2018
 
-![Cook arrives](assets/Cook-arrives2-300x200_lewA.jpg "Cook arrives")
+![Cook arrives](../assets/Cook-arrives2-300x200_lewA.jpg "Cook arrives")
 
 On September 4, 1909, Frederick Cook arrived at Copenhagen aboard the Danish ship Hans Egede. His telegrams sent from Lerwick in the Shetland Islands on September 1 claiming he had reached the North Pole on April 21 of the previous year electrified the world. Every press organization within range sent representatives to the Danish capital to cover his arrival. The event was even captured on film.
 
@@ -38,3 +38,4 @@ Here is a guide to the footage as posted. It is broken down by scenes; the start
 5:05 These two men are Danish Inuits from Greenland, perhaps part of the Hans Egede’s crew. The film camera was so new, the two don’t seem to know what to do.  
 5:43 This gentleman is C. M. Norman-Hansen, a Danish optometrist and poet, who was also returning from Greenland aboard the ship. Likewise, he seems camera shy. He was at first a staunch defender of Cook’s controversial claims, but turned on him in 1911 and publicly denounced him at his lecture at the Palais Concert Hall in Copenhagen in 1911. After Norman-Hansen disappears, the rest of the footage is a repeat of earlier scenes.
 
+]

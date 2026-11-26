@@ -18,7 +18,7 @@ The most important section for historians comes next. It is a transcript of Good
 
 An ominous editorial note at the head of this section states: “Some slides are the best guesses of the MCHS, staff, interns, and volunteers.” As it turns out, most turn out to be just that, and it appears that among the described guessers, often times they really had no clue. Some do appear to be correct, however.
 
-![Erik](assets/Erik1-295x300_omLw.jpg "Erik")
+![Erik](../assets/Erik1-295x300_omLw.jpg "Erik")
 
 For instance, “Slide 46” is adjacent to the text: “Nearing the Labrador Coast, the *Erik* smashed head first against an iceberg and Captain Sam Bartlett secured the split bow with coils of anchor chain.” The slide does indeed show the bow of the *Erik* smashed, with Sam Bartlett sitting in the foreground. This sort of pose would be ideal for stereo reproduction, having a subject posed as a distinct foreground. Others show people or scenes at least related to the text, but many others have absolutely no relationship to the text whatsoever. Here are some examples, but to list all of them would be prohibitive as to space.
 
@@ -55,3 +55,4 @@ The biggest disappointment, in a myriad of disappointments in this work, is that
 
 Sad to say, for all the evident time and good intentions spent on this project, *The Dr. John Goodsell Archives* is largely worthless. Most of what it contains is available elsewhere. Confidence in the accuracy of the transcriptions it contains is compromised by the blatant mistakes, lacunae, inaccuracies, and the nearly complete lack of competent professional editing the original materials have received. Any serious polar scholar could only quote from it with cautionary notes to his reader. Despite its existence, anyone seriously interested in an accurate reading of Goodsell’s materials will still have to journey to Mercer County to access the originals in person.
 
+]

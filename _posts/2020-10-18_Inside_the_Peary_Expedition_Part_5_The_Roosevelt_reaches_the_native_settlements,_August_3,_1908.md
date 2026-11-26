@@ -6,9 +6,9 @@ category: General
 
 October 18, 2020
 
-![August 3  1](assets/August-3-12-674x1024_8p6-.jpg "August 3  1")
+![August 3  1](../assets/August-3-12-674x1024_8p6-.jpg "August 3  1")
 
-![August 3 2](assets/August-3-21-670x1024_8p6-.jpg "August 3 2")
+![August 3 2](../assets/August-3-21-670x1024_8p6-.jpg "August 3 2")
 
 8 – 3 1908  
 North Star Bay.1  
@@ -98,3 +98,4 @@ Ross Marvin
 
 7   John Murphy.
 
+]

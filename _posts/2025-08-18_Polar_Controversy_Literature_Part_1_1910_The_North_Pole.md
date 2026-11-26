@@ -8,7 +8,7 @@ August 18, 2025
 
 *This is the first in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published. The first is Peary’s personal narrative of his alleged “discovery of the North Pole,” a claim now almost entirely discounted as a fraud.*
 
-![north pole ordinary](assets/north-pole-ordinary-623x1024_62j0.jpg "north pole ordinary")
+![north pole ordinary](../assets/north-pole-ordinary-623x1024_62j0.jpg "north pole ordinary")
 
 The book Peary published should have been the prime document stating his case and resolving all questions surrounding his claims, yet, *The North Pole* has been instead the primary document used to argue against his alleged discovery. How could it be that the book that claims to be the record of Peary’s ultimate success in the goal of a lifetime has come to be the sourcebook of those who brand it a fraud? Beyond the real questionable aspects of Peary’s claimed feat, the answer lies in the strange history of this book, which indicates that Peary had relatively little to do with the finished narrative that appears on its pages. In fact, Peary actually “wrote” none of it.
 
@@ -22,25 +22,26 @@ When published in September 1910, the book received largely good reviews, but Pe
 
 The book was reprinted once in 1910, but never again by Stokes. The book is rather common, but its plain dust jacket is very scarce.
 
-![dust jacket north pole](assets/dust-jacket-north-pole_62j0.jpg "dust jacket north pole")
+![dust jacket north pole](../assets/dust-jacket-north-pole_62j0.jpg "dust jacket north pole")
 
-![Hubbard edition signature](assets/Hubbard-edition-signature-701x1024_62j0.jpg "Hubbard edition signature")
+![Hubbard edition signature](../assets/Hubbard-edition-signature-701x1024_62j0.jpg "Hubbard edition signature")
 
 Stokes also brought out a limited, signed edition of 500 copies, partially leather bound, dubbed the “Thomas H. Hubbard Edition,” after the President of the Peary Arctic Club.
 
-![General Hubbard edition](assets/General-Hubbard-edition1_62j0.jpg "General Hubbard edition")
+![General Hubbard edition](../assets/General-Hubbard-edition1_62j0.jpg "General Hubbard edition")
 
 There were two editions in England as well, the ordinary edition, which could be had in a slipcase, and another limited edition of 500 put out in white vellum binding, both showing a facsimile of the gold medal presented Peary by the Royal Geographical Society in 1910. The limited edition was signed not only by Peary but by Robert Bartlett as well, who, as a Newfoundlander, was a British subject.
 
-![North Pole UK with box](assets/North-Pole-UK-with-box_62j0.jpg "North Pole UK with box")
+![North Pole UK with box](../assets/North-Pole-UK-with-box_62j0.jpg "North Pole UK with box")
 
-![North Pole UK deluxe](assets/North-Pole-UK-deluxe-703x1024_62j0.jpg "North Pole UK deluxe")
+![North Pole UK deluxe](../assets/North-Pole-UK-deluxe-703x1024_62j0.jpg "North Pole UK deluxe")
 
-The book was translated in to several languages, French, German, Italian, Swedish, Flemish, and Czech among them.![8755](assets/Czech-peary-2-624x1024_62j0.jpg "Czech peary 2")
+The book was translated in to several languages, French, German, Italian, Swedish, Flemish, and Czech among them.![8755](../assets/Czech-peary-2-624x1024_62j0.jpg "Czech peary 2")
 
-![German north pole](assets/Peary-swedish-1024x700_62j0.jpg "Peary swedish")
+![German north pole](../assets/Peary-swedish-1024x700_62j0.jpg "Peary swedish")
 
-![North Pole Cooper Square](assets/North-Pole-Cooper-Square_62j0.jpg "North Pole Cooper Square")
+![North Pole Cooper Square](../assets/North-Pole-Cooper-Square_62j0.jpg "North Pole Cooper Square")
 
 For a more detailed account of how the book was written, see the new introduction to the Cooper Square Press facsimile edition, 2001.
 
+]

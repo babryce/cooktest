@@ -24,3 +24,4 @@ page 338: A new page was substituted here featuring the first publication of one
 page 363: the errata sheet entry for “p. 287” should read p. 207  
 page 345: last paragraph, line 4: “C.E. Rost” should read E.C. Rost
 
+]

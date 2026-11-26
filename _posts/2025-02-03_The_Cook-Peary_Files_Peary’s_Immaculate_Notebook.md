@@ -16,19 +16,19 @@ Therefore, Peary had no choice, so he personally appeared before the Committee i
 
 As I described them in my book, *Cook & Peary, the Polar Controversy Resolved*:
 
-![Roberts](assets/Roberts1-1024x799_-4zE.jpg "Roberts")
+![Roberts](../assets/Roberts1-1024x799_-4zE.jpg "Roberts")
 
 Once out of committee, the Bates Bill was bitterly opposed by Representative Robert B. Macon of Arkansas, who said in a speech from the floor during the bill’s debate that he had devoted many hours of study to the matter and believed Peary’s claim to be “a fake pure and simple.” One of the factors that convinced him of this was the immaculate condition of Peary’s alleged original notebook:
 
-![Macon](assets/Macon-1024x329_-4zE.jpg "Macon")
+![Macon](../assets/Macon-1024x329_-4zE.jpg "Macon")
 
 Many imminent explorers who had experience with keeping records under polar conditions would have agreed with Macon. As I explained in *Cook & Peary*:
 
-![dirty diaries](assets/dirty-diaries-1024x827_-4zE.jpg "dirty diaries")
+![dirty diaries](../assets/dirty-diaries-1024x827_-4zE.jpg "dirty diaries")
 
 Peary was prone to keep personal memoranda of any criticisms made of him. The questions concerning his notebook’s condition were no exceptions. In response to the doubts raised, he wrote a statement that sought to justify why it was undeserving of the doubts of Macon and Roberts. I came across this memorandum while doing hundreds of hours of research in Peary’s papers preserved at the National Archives in the 1990s. I noted it in my book, where I described it as “not very convincing.” Here it is in full, published for the first time anywhere:
 
-![Peary memo](assets/Peary-memo-869x1024_-4zE.jpg "Peary memo")
+![Peary memo](../assets/Peary-memo-869x1024_-4zE.jpg "Peary memo")
 
 In 1989, Arthur T. Anthony, a expert document examiner with the Division of Forensic Sciences, Georgia Bureau of Investigation, made a limited examination of Peary’s notebook in May 1989. He concluded that the notebook could not have been written under the conditions described by Peary and was “not a chronicling of events that were happening when the journal was written.” The most interesting thing Anthony noted was that the two loose sheets inserted in the diary, one containing Peary’s famous entry on his arrival at the pole, “The Pole at Last!”, were consecutive pages out of single signature because the halves of the single watermark on the two sheets matched perfectly, yet they were placed in two different signatures in the bound notebook, leading him to conclude that they were not original entries, but were placed there after the fact.
 
@@ -36,7 +36,7 @@ Furthermore, Peary, who was right-handed, was in the draftsman’s habit of hold
 
 After bitter remarks by Representative Macon from the floor of the House, the Bates Bill passed, and Peary was retired with the rank of Rear Admiral in the Engineer Corps. He also received the Thanks of Congress, but curiously, it was given for “Arctic Explorations resulting in reaching the North Pole,” not for discovering it.
 
-![Thanks](assets/Thanks2-1024x749_-4zE.jpg "Thanks")
+![Thanks](../assets/Thanks2-1024x749_-4zE.jpg "Thanks")
 
 Congress also failed to award him the gold medal proposed in the original bill that passed the Senate in 1910. This may have been due to the many doubts raised by Peary’s own testimony and the peculiarities of the notebook he said proved that he had. Indeed, his testimony in 1911 was the beginning of the increasing doubts about his claim that have today denied him the unequivocal title, Discoverer of the North Pole.
 
@@ -44,3 +44,4 @@ Congress also failed to award him the gold medal proposed in the original bill t
 
 **Anthony’s analysis of Peary’s notebook was published in:  *Journal of Forensic Sciences*, vol. 36 [1991] 1614-24**
 
+]

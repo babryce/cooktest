@@ -6,7 +6,7 @@ category: General
 
 July 25, 2019
 
-![Ed Barrill](assets/Ed-Barrill1-204x300_omLw.jpg "Ed Barrill")
+![Ed Barrill](../assets/Ed-Barrill1-204x300_omLw.jpg "Ed Barrill")
 
 *Edward N. Barrill*
 
@@ -20,9 +20,10 @@ On October 14, 1909, Barrill’s affidavit was published in Hubbard’s *New Yor
 
 But Hubbard had indeed paid $5,000 to cover the “expenses” of his agent obtaining Barrill’s and other sworn statements. A check drawn on Hubbard’s account for that amount is among Peary’s papers now preserved at the National Archives II.
 
-If not $5,000, what did Barrill himself actually receive? The answer may be found in a letter mailed from Kennewick, WA, on October 25, 1909, by O.C. Anderson, a lawyer residing there:![Anderson 1](assets/Anderson-1-810x1024_omLw.jpg "Anderson 1")
+If not $5,000, what did Barrill himself actually receive? The answer may be found in a letter mailed from Kennewick, WA, on October 25, 1909, by O.C. Anderson, a lawyer residing there:![Anderson 1](../assets/Anderson-1-810x1024_omLw.jpg "Anderson 1")
 
-![Anderson 2](assets/Anderson-3-796x1024_omLw.jpg "Anderson 3")
+![Anderson 2](../assets/Anderson-3-796x1024_omLw.jpg "Anderson 3")
 
 The document was in an envelope marked “Mount McKinley Material,” forwarded to Cook by his lawyer, H. Wellington Wack. At the time the author saw it, it was in the possession of the Frederick A. Cook Society at the Sullivan County Historical Society in Hurleyville, NY. Presumably, the original of the letter is now among the papers of Frederick A. Cook now held at the Ohio State University Archives.
 
+]

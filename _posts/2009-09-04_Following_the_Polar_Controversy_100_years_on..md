@@ -10,7 +10,7 @@ In September 1909, the name of Frederick Albert Cook was on the lips of the enti
 
 “Whatever the truth is, the situation is as wonderful as the Pole,” exclaimed muck-raking editor Lincoln Steffens. “And whatever they found there, those explorers, they have left there a story as great as a continent.”
 
-![Dr. Cook lands in Copenhagen](assets/cookincopenhagen1-300x188_Ka_V.jpg "cookincopenhagen")
+![Dr. Cook lands in Copenhagen](../assets/cookincopenhagen1-300x188_Ka_V.jpg "cookincopenhagen")
 
 ***Dr. Cook lands at Copenhagen.***
 
@@ -22,3 +22,4 @@ It is difficult today to imagine the sensation the dispute between Cook and Pear
 
 You can follow the events that were front page news every day between those two points in time in the feature of the *New York Times* called **[TimesTraveler](http://timestraveler.blogs.nytimes.com/2009/09/04/admiral-challenges-pole-claim-as-cooked-up/).** There you can see the actual stories that ran in that paper a century ago. But you should keep this in mind, so as not to loose your perspective: the coverage in the *Times* was at first largely doubtful to Cook, since the *Times* had paid Peary in advance the equivalent of $80,000 for the story of his attempt to reach the Pole, and wanted its investment to be worth something, when and if Peary returned. Also, William Reich, one of the editors at the paper, had a personal score to settle and badly wanted to get even with the owner of the *New York Herald*, James Gordon Bennett, to whose paper Cook sent his first telegram offering it the exclusive story of his polar attainment. And when Peary did return assuring the world that Cook’s story was a fake, Reich worked directly with Peary to undermine Cook’s credibility.  So there was more to it than an interest in “Whatever the truth is,” as Steffens noted.
 
+]

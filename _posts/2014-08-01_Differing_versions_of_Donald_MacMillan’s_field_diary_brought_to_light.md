@@ -51,5 +51,6 @@ After receiving this material from Dr. Welky, I considered whether I should modi
 
 My thanks to Dr. Welky for bringing this important material to my attention.
 
-![Donald MacMillan](assets/MacMillan2001_3nNc.jpg "Donald MacMillan")
+![Donald MacMillan](../assets/MacMillan2001_3nNc.jpg "Donald MacMillan")
 
+]

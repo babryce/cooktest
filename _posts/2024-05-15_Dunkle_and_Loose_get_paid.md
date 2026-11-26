@@ -8,7 +8,7 @@ May 15, 2024
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 
-![Battle of Ink and Ice](assets/Battle-of-Ink-and-Ice_6uWI.jpg "Battle of Ink and Ice")
+![Battle of Ink and Ice](../assets/Battle-of-Ink-and-Ice_6uWI.jpg "Battle of Ink and Ice")
 
 In the latest book on the Polar Controversy, author Darrell Hartman focuses on the Press’ role in making the 1909 dispute between Cook and Peary a national obsession. He agrees with me that the resultant recognition of Robert E. Peary as the true discoverer of the North Pole, and the demise of Frederick Cook’s prior claim, was a watershed event in the history of New York newspaper publishing. Peary was backed by the *New York Times*, Cook by the then much more influential *New York Herald*. As I put it in my book, “the downfall of Dr. Cook marked the beginning of the rise of the *Times* to the powerful institution it was to become, and the decline of the once preeminent *Herald* into oblivion.”
 
@@ -24,9 +24,9 @@ That Cook had dealings with Dunkle and Loose there can be no question. Several c
 
 I first learned of these documents during consultations Darrell Hartman had with me while in the final stages of preparing his book for publication.
 
-The first document is a letter from George W. Dunkle to William C. Reick. Here is that letter, published for the first time with the permission of the New York Public Library:![Dunkle_WCR_Letter_Receipt](assets/Dunkle_WCR_Letter_Receipt-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt")
+The first document is a letter from George W. Dunkle to William C. Reick. Here is that letter, published for the first time with the permission of the New York Public Library:![Dunkle_WCR_Letter_Receipt](../assets/Dunkle_WCR_Letter_Receipt-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt")
 
-![Dunkle_WCR_Letter_Receipt 2](assets/Dunkle_WCR_Letter_Receipt-2-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt 2")Although unsigned, the handwriting is Dunkle’s. The content also confirms he is the author. In it he states “My business has been absolutely paralyzed and I am unable to move until this business is settled.” Dunkle was an insurance agent who lost his job due to the publicity surrounding his sensational affidavit.
+![Dunkle_WCR_Letter_Receipt 2](../assets/Dunkle_WCR_Letter_Receipt-2-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt 2")Although unsigned, the handwriting is Dunkle’s. The content also confirms he is the author. In it he states “My business has been absolutely paralyzed and I am unable to move until this business is settled.” Dunkle was an insurance agent who lost his job due to the publicity surrounding his sensational affidavit.
 
 According to his affidavit that appeared in full in the *New York Times* on December 9, 1909, Cook entered into an arrangement with Dunkle to pay him $2,500 for a set of fake celestial observations, to be provided by an indigent Norwegian sea captain named August Loose, “proving” that Cook had been at the North Pole on April 21, 1908, as he had claimed. Another $1,500 was to go to the pair if Loose’s calculations convinced the board of scientists of the University of Copenhagen, to which Cook had promised his data, and which was about to sit in judgment of his “proofs,” that his claim was authenticated by the evidence provided them.
 
@@ -42,7 +42,7 @@ Hubbard had similarly “grilled” Edward Barrill, Cook’s sole witness to his
 
 The letter to Reick, although it bears no date, can be approximately dated from its content. Two weeks after the publication would have been December 23, and it is clear from the letter’s content that the Danes had already made their decision by the time it was written, which was announced on December 21. The letter must therefore have been written after December 23, but before they were paid.
 
-Although the letter still leaves some details hanging, the second document supplies others. It’s a receipt and legal release, dated December 31, 1909, here published for the first time:![Dunkle_WCR_Letter_Receipt 3](assets/Dunkle_WCR_Letter_Receipt-3-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt 3")
+Although the letter still leaves some details hanging, the second document supplies others. It’s a receipt and legal release, dated December 31, 1909, here published for the first time:![Dunkle_WCR_Letter_Receipt 3](../assets/Dunkle_WCR_Letter_Receipt-3-768x1024_6uWI.jpg "Dunkle_WCR_Letter_Receipt 3")
 
 **(Note: Brown Brothers & Co. was a private investment bank in NYC. It merged in 1931 to form Brown Brothers Harriman & Co.)**
 
@@ -52,3 +52,4 @@ All along, Dunkle and Loose might have intended to play both sides of the street
 
 **The documents shown here can be found at the New York Public Library in the New York Times Company Records / Adolph S. Ochs Papers, Box 77, Folder 3. Darrell Hartman’s book, *Battle of Ink and Ice*, is published by Viking.**
 
+]

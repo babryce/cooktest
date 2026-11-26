@@ -6,7 +6,7 @@ category: General
 
 July 25, 2016
 
-*This is the third in a series examining significant unpublished documents associated with the Polar Controversy.* ![Crocker Land Expedition letterhead](assets/Crocker-Land-letter-287x300_3nNc.jpg "Crocker Land letter")
+*This is the third in a series examining significant unpublished documents associated with the Polar Controversy.* ![Crocker Land Expedition letterhead](../assets/Crocker-Land-letter-287x300_3nNc.jpg "Crocker Land letter")
 
 Etah, North Greenland, December 11th, 1914.
 
@@ -44,3 +44,4 @@ When Hubbard checked Peary’s feelings on the matter, he emphatically vetoed th
 
 **The original of this letter is among the Peary Family Collection at the National Archives II in College Park, Md.**
 
+]

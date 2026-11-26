@@ -6,7 +6,7 @@ category: General
 
 December 18, 2025
 
-![Cover Crocker Land](assets/Cover-Crocker-Land-683x1023_62j0.jpg "Cover Crocker Land")
+![Cover Crocker Land](../assets/Cover-Crocker-Land-683x1023_62j0.jpg "Cover Crocker Land")
 
 The author has recently published a new study drawing on original sources. It is now available on Amazon.com.
 
@@ -18,3 +18,4 @@ As to the first claim of discovering Crocker Land, an expedition led by Peary’
 
 In this first detailed comparison of the original field diaries kept by MacMillan and his companion, Fitzhugh Green, the author examines this claim that Peary was deceived rather than a deceiver, and considers whether MacMillan in claiming Peary had been deceived may have practiced deception himself.  **The Crocker Land Diaries** also examines the questions surrounding the tragic aftermath of MacMillan’s attempt to reach Peary’s mythical land, which resulted in the death of one of his Inuit guides at the hands of Fitzhugh Green. Green claimed he was compelled to kill the Inuit to save his own life. **The Crocker Land Diaries** examines the circumstances surrounding this tragic incident, and based on the original sources, suggests other possible motives for the killing.
 
+]

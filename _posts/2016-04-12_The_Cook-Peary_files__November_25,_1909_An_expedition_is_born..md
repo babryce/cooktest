@@ -6,7 +6,7 @@ category: General
 
 April 12, 2016
 
-![Mac letter Nov 25 1909](assets/Mac-letter-Nov-25-1909-242x300_3nNc.jpg "Mac letter Nov 25 1909")
+![Mac letter Nov 25 1909](../assets/Mac-letter-Nov-25-1909-242x300_3nNc.jpg "Mac letter Nov 25 1909")
 
 *This is the second in a series examining significant unpublished documents associated with the Polar Controversy.*
 
@@ -63,3 +63,4 @@ Peary, it turned out, didn’t think much of the idea. Although he didn’t obje
 
 **A typed copy of this letter is in the Peary Family Collection at National Archives II in College Park, Md.**
 
+]

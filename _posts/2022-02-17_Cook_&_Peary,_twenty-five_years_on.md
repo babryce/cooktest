@@ -6,7 +6,7 @@ category: General
 
 February 17, 2022
 
-![Cook book](assets/Cook-book-764x1024_OKYx.jpg "Cook book")
+![Cook book](../assets/Cook-book-764x1024_OKYx.jpg "Cook book")
 
 Twenty-five years ago today, February 17, 1997, *Cook & Peary, the Polar Controversy, resolved*, was published.
 
@@ -36,3 +36,4 @@ Even the publication of what was, in effect, a feeble rewrite of Andrew Freeman�
 
 However, my subsequent publication of *The Lost Notebook of Dr. Frederick A. Cook* in 2013, which closely analyzed a notebook whose existence had been unknown to scholars before the publication of *Cook & Peary*, finally provided the “Smoking Gun” that skeptics doubted would ever be produced, proving Cook could not possibly have reached the North Pole in 1908. Between the two books, the greatest geographic controversy in history, The Polar Controversy, had finally and truly been resolved.
 
+]

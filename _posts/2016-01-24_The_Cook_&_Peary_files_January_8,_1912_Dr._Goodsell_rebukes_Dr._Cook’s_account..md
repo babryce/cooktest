@@ -8,7 +8,7 @@ January 24, 2016
 
 Over the 40 years your editor has researched the Polar Controversy, he has accumulated thousands of pages of documentation from the many archives, institutions and private individuals that hold significant material dealing with Cook and Peary. This is the first in an ongoing series featuring some of those documents.
 
-![Goodsell letter](assets/Goodsell-letter2-300x191_3nNc.jpg "Goodsell letter")
+![Goodsell letter](../assets/Goodsell-letter2-300x191_3nNc.jpg "Goodsell letter")
 
 Dr. John W. Goodsell was surgeon to the Peary Arctic Club’s North Pole Expedition of 1908, the one on which Robert Peary claimed to have reached his goal of a lifetime. In the dispute that followed, Dr. Goodsell mostly stayed silent. But when Dr. Cook came to his home town of New Kensington, PA to give a lecture on January 5, 1912, Goodsell felt he had to refute Cook’s account of how his companion, Rudolph Franke had been treated when Peary’s ship arrived at Etah in July 1908.
 
@@ -55,3 +55,4 @@ Goodsell later asked Dr. Cook’s aid in getting a position on some future Arcti
 
 **This item is part of the Peary Family Collection housed at the National Archives II in College Park, Md.**
 
+]

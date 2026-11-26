@@ -6,7 +6,7 @@ category: General
 
 October 4, 2021
 
-![Cook_nel_1909](assets/Cook_nel_1909_OKYx.jpg "Cook_nel_1909")
+![Cook_nel_1909](../assets/Cook_nel_1909_OKYx.jpg "Cook_nel_1909")
 
 In too many instances modern interpretations of history ignore the true context of events. Individuals’ attitudes and actions are today often criticized or condemned because they do not conform to current thinking on social or moral norms. But to treat the past as if it were the present, completely distorts history and thwarts an understanding of the past as it was actually lived. Even the simple fact that Frederick Cook was a medical doctor must be put in the perspective of his own times without the intervention of current attitudes and expectations. Otherwise, without any historical context, many might ascribe attributes of social status or character now associated with being a medical doctor to him that would not have applied in Cook’s time.
 
@@ -30,7 +30,7 @@ The effective medicines the doctor prescribed were limited as well, and as alrea
 
 In Cook’s day, as did the ancients, physicians still considered environmental factors to play a large role in the onset and progress of diseases and sought to control them, for example, advising TB patients to move to a dry climate. The use of diet, tonics, and wines as “blood stimulants” were also considered part of good practice.
 
-A glimpse into Cook’s use of the medicines at his disposal in the context of the knowledge and practice of his time can be gotten from the medical advice he wrote out for Peary just before his separation from him on Peary’s attempt to cross Greenland’s icecap in 1892:![Cook quote](assets/Cook-quote-836x1024_OKYx.jpg "Cook quote")
+A glimpse into Cook’s use of the medicines at his disposal in the context of the knowledge and practice of his time can be gotten from the medical advice he wrote out for Peary just before his separation from him on Peary’s attempt to cross Greenland’s icecap in 1892:![Cook quote](../assets/Cook-quote-836x1024_OKYx.jpg "Cook quote")
 
 The invention of anesthesia using ether, chloroform or nitrous oxide, had made pain-free surgery possible, but major operations, which were usually performed outside of hospitals, remained rare due to the ongoing obstacle of post-operative infection until it was controlled through antiseptic technique. So the term “surgeon” by which Cook was known on the arctic expedition with Peary and with de Gerlache’s Belgian Antarctic Expedition, should not be equated with the common understanding of the term today. Cook was not trained or qualified to handle more than would be considered “minor” surgery today.
 
@@ -52,3 +52,4 @@ This survey of the state of medicine in Cook’s time is largely based on the ar
 
 The quotation from Cook’s medical instructions to Peary can be found among the records of Peary’s first Greenland Expedition of 1891-92, which are part of the Peary Family Collection housed at the National Archives and Records Administration II, College Park, MD.
 
+]

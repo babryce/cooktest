@@ -10,7 +10,7 @@ This following letter was addressed to Peary by Rudolph Franke. Franke later sai
 
 The letter is in the hand of Ross Marvin, not Franke. It is evidently a copy of Franke’s original, which is not among Peary’s papers. Whether the mistakes it contains in spelling and form are Franke’s or Marvin’s is unknown, because Marvin’s own letters to Louis Bement are prone to such errors as appear here.
 
-![August 13 Franke Letter 1](assets/August-13-Franke-Letter-1-838x1024_8p6-.jpg "August 13 Franke Letter 1")
+![August 13 Franke Letter 1](../assets/August-13-Franke-Letter-1-838x1024_8p6-.jpg "August 13 Franke Letter 1")
 
 Etha, August 13th 1908 No. 3 I
 
@@ -35,7 +35,7 @@ except one horn, the heaviest top broken off.
 This belongs to me and I beg you to take that  
 from me, as a present, received for your
 
-![August 13 Franke Letter](assets/August-13-Franke-Letter-718x1024_8p6-.jpg "August 13 Franke Letter")
+![August 13 Franke Letter](../assets/August-13-Franke-Letter-718x1024_8p6-.jpg "August 13 Franke Letter")
 
 II  
 your kindness and hospitality. I  
@@ -60,7 +60,7 @@ Shannon and Pendulum Island.
 of Greenland, he will find assistance at  
 Anoatook, I cant stand there, because
 
-![August 13 3 Rudolph Franke](assets/August-13-3-Rudolph-Franke-830x1024_8p6-.jpg "August 13 3 Rudolph Franke")
+![August 13 3 Rudolph Franke](../assets/August-13-3-Rudolph-Franke-830x1024_8p6-.jpg "August 13 3 Rudolph Franke")
 
 III  
 because there are just for one not for  
@@ -87,7 +87,7 @@ Island.
 I don’t know. I dont know who will pay me off Mr  
 Bradley New York or Dr. C. I have now written
 
-![August 13 4 Rudolph Franke](assets/August-13-4-Rudolph-Franke-827x1024_8p6-.jpg "August 13 4 Rudolph Franke")
+![August 13 4 Rudolph Franke](../assets/August-13-4-Rudolph-Franke-827x1024_8p6-.jpg "August 13 4 Rudolph Franke")
 
 4  
 written agreement. It is also the  
@@ -110,9 +110,10 @@ Rudolph Franke.
 
 Lists of the supplies turned over by Franke is also in Peary’s papers.  These lists are also in Ross Marvin’s hand:
 
-![Supplies 1 Rudolph Franke](assets/Supplies-1-Rudolph-Franke-918x1024_8p6-.jpg "Supplies 1 Rudolph Franke")
+![Supplies 1 Rudolph Franke](../assets/Supplies-1-Rudolph-Franke-918x1024_8p6-.jpg "Supplies 1 Rudolph Franke")
 
-![Supplies 2 Rudolph Franke](assets/Supplies-2-Rudolph-Franke-853x1024_8p6-.jpg "Supplies 2 Rudolph Franke")
+![Supplies 2 Rudolph Franke](../assets/Supplies-2-Rudolph-Franke-853x1024_8p6-.jpg "Supplies 2 Rudolph Franke")
 
 The letter and the lists are in the Peary Papers at NARA II.
 
+]

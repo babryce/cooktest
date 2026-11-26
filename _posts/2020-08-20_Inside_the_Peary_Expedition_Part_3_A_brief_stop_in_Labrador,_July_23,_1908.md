@@ -6,9 +6,9 @@ category: General
 
 August 20, 2020
 
-![Turnavik](assets/Turnavik_8p6-.jpg "Turnavik")
+![Turnavik](../assets/Turnavik_8p6-.jpg "Turnavik")
 
-![Labrador 1](assets/Labrador-21-754x1024_8p6-.jpg "Labrador 2")
+![Labrador 1](../assets/Labrador-21-754x1024_8p6-.jpg "Labrador 2")
 
 on board the Roosevelt,  
 off Turnavik, Labrador  
@@ -59,3 +59,4 @@ Ross Marvin
 
 \* No such letter was included among the copies given to the author by Silas H. Ayer III.
 
+]

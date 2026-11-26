@@ -8,7 +8,7 @@ November 10, 2020
 
 The *Roosevelt* was delayed at North Star Bay while waiting for the ice to loosen in Melville Bay before heading farther north. Melville Bay was notorious for hazardous ice jams, but beyond was generally clear in August. While he waited, Marvin added a few details about the expedition’s outfit. The “Huskies” referred to here are the Inuit men Peary took on board at North Star, along with their families. The women worked all winter aboard the ice-bound ship preparing skins and sewing fur garments.
 
-![August 5, 1908](assets/August-5-19081-699x1024_8p6-.jpg "August 5, 1908")
+![August 5, 1908](../assets/August-5-19081-699x1024_8p6-.jpg "August 5, 1908")
 
 8 – 5 1908
 
@@ -34,3 +34,4 @@ worry too much.
 sincerely yours,  
 Ross Marvin
 
+]

@@ -6,7 +6,7 @@ category: General
 
 December 9, 2009
 
-![dunkle-and-loose](assets/dunkle-and-loose_4AlG.jpg "dunkle-and-loose")
+![dunkle-and-loose](../assets/dunkle-and-loose_4AlG.jpg "dunkle-and-loose")
 
 ***The paper that does things***
 
@@ -26,3 +26,4 @@ Time would soon tell, however, which speculations were correct, because Cook’s
 
 All those who had followed the Polar Controversy for more than three months, now awaited for the Danish decision.
 
+]

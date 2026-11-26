@@ -10,17 +10,17 @@ August 16, 2022
 
 During the Barrills brief visit to New York, they swore out additional affidavits on October 14, 1909, concerning a letter Fanny claimed her husband had received from Dr. Cook, sent from Labrador in July 1907, but which had been misplaced. In their separate affidavits, each claimed the letter in question had promised Barrill “a chunk of the Pole,” and in Ed Barrill’s, if only he would “keep still” about Cook’s Mount McKinley hoax. Here are those two affidavits, published here for the first time:
 
-![Chunk 2](assets/Chunk-22_6uWI.jpg "Chunk 2")
+![Chunk 2](../assets/Chunk-22_6uWI.jpg "Chunk 2")
 
-![Chunk 1](assets/Chunk-12_6uWI.jpg "Chunk 1")
+![Chunk 1](../assets/Chunk-12_6uWI.jpg "Chunk 1")
 
 A third affidavit was sworn by Ed Barrill the same day saying that he had received six letters from Cook since his return from Alaska, affixing five of them to the affidavit, swearing the one that was missing was the fifth in the sequence and was the one to which his wife made reference in her affidavit.
 
-![chunk 3](assets/chunk-3_6uWI.jpg "chunk 3")
+![chunk 3](../assets/chunk-3_6uWI.jpg "chunk 3")
 
 Ashton and Hubbard were very interested in the recovery of this letter. Once back in Montana, the Barrill’s looked high and low and eventually found it. This is what it said:
 
-![chunk 4](assets/chunk-4_6uWI.jpg "chunk 4")
+![chunk 4](../assets/chunk-4_6uWI.jpg "chunk 4")
 
 July 15, ‘07  
 Battle Harbor, Labrador
@@ -45,7 +45,7 @@ who owes me a hundred dollars to send it
 to Printz. This will reach him soon after this  
 letter.
 
-![chunk 5](assets/chunk-5_6uWI.jpg "chunk 5")
+![chunk 5](../assets/chunk-5_6uWI.jpg "chunk 5")
 
 2
 
@@ -74,3 +74,4 @@ After reading this letter, in a letter dated November 20, Ashton told Hubbard th
 
 **The affidavits and Cook’s letter are in NARA II, College Park, MD.**
 
+]
