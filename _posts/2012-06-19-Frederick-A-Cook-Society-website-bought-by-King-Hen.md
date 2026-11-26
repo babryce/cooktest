@@ -1,0 +1,10 @@
+---
+title: Frederick A. Cook Society website bought by “King Hen”
+category: General
+---
+## Frederick A. Cook Society website bought by “King Hen”
+
+
+Another sign of the hard times the Frederick A. Cook Society has fallen on is the lapse of their website located at www.cookpolar.org. For some time the site just vanished from the web; then the domain name came up for sale. I put in a bid for it, but they claimed it was worth far more than the $10 I bid. Eventually it was purchased by an outfit in Japan called, Sedori King, which if you can believe a Google translation of their page, translates to “King Hen.” Apparently, it is some sort of producer of software that is used to resell goods on Amazon. In any case, it has nothing whatever to do with polar matters or Dr. Cook. What has happened to the content once on the society’s webpage is anyone’s guess. There has been no word from the society on plans for a future web presence and none of the links to the former web address have been changed by any of the websites who have links to cookpolar.org. The only trace of the content once on the website at present can be found on screenshots the Library of Congress took of the site in 2008 as part of their effort to document and preserve web content.![king hen](../assets/king-hen_GlUx.jpg "king hen")
+
+]

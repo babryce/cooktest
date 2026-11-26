@@ -1,0 +1,96 @@
+---
+title: Dr. Cook Artifacts 13: The Polar Controversy in Song
+category: General
+---
+## Dr. Cook Artifacts 13: The Polar Controversy in Song
+
+
+It’s surprising that such a long running news story as the Polar Controversy, which occupied front pages for nearly four months, would not inspire Tin Pan Alley to write many songs about it. But it came before current news became a frequent subject of popular song. From *The Sinking of the Titanic* on, songs about current events, especially disasters (*When the Lusitania went Down, The Santa Barbara Earthquake, The Wreck of the* (airship) *Shenandoah, The Death of Floyd Collins*, etc. etc., not to mention innumerable train wrecks) and culminating in numerous songs about the Lindbergh flight, front-page news often produced a song.
+
+![Stars and stripes](../assets/Stars-and-stripes-1024x995_hzBa.jpg "Stars and stripes")
+
+Only one has come to light, titled *The Stars and Stripes are Nailed to the Old North Pole*, music by Arthur A. Penn, words by Josephine M. Raab, published by the Pemberton Publishing House, NY. Curiously, though Peary telegraphed the title announcing his discovery, the explorer depicted on the cover looks more like Frederick Cook! Many AI searches failed to find evidence of a single other contemporary song on the subject of the discovery of the North Pole. Some results claimed there were some, and even named them, but a direct search on the title given resulted in no results, so none could be verified.
+
+There were, however, several piano compositions inspired by it. It was the height of the Ragtime craze, and two different composers produced *North Pole Rags* in 1909.
+
+![North Pole Stokes](../assets/North-Pole-Stokes_hzBa.png "North Pole Stokes")
+
+![Stark North Pole Rag](../assets/Stark-North-Pole-Rag_hzBa.jpg "Stark North Pole Rag")
+
+One, sometimes incorrectly attributed to the famous ragtime publisher John Stark, was actually written by S. J. Stokes, published by L. Gurnwald Co., New Orleans, the other, by John Lind, was issued by the composer. You can hear them played by copying the following links, or click on the appropriate link in the Blogroll at the right:
+
+For S. J. Stokes:
+
+https://www.youtube.com/watch?v=p63tteYFoLE
+
+For John Lind:
+
+https://www.youtube.com/watch?v=0sGXCu3s1b8
+
+![Race to the pole](../assets/Race-to-the-pole-984x1024_hzBa.jpg "Race to the pole")
+
+A further “March – Two-step” titled *Dash to the* *Pole* by Elwin L. Shaw was issued as a souvenir to the Brockton, MA fair by the Old Colony Piano Co. Though, judging by the cover, which not only shows explorers in icy conditions, but also a horse race, the title may be a pun on a piece originally written to depict another event altogether.
+
+Another more ambitions piano composition was inspired by Peary’s journey. This was written in England, where Peary’s claim was accepted without question, and has no references to Dr. Cook.
+
+![ezra read](../assets/ezra-read1_hzBa.jpg "ezra read")
+
+**Ezra Read**
+
+It was written by Ezra Read (1862-1922), a band master and composer of many topical piano “fantasias,” that attempted to depict, in tones, concrete events, by dividing them into short descriptive episodes.
+
+![Read covers](../assets/Read-covers_hzBa.jpg "Read covers")
+
+It was called *The North Pole, a Descriptive Piece*, published in London by W. Paxton & Co., and is shown above among some of Read’s other compositions.  It’s seven pages long and is structured into several distinct movements. Each movement captures a different aspect of the narrative related to the Arctic expedition. The sections are as follows:
+
+Movement Number Title  
+1 Preparing for the Journey  
+2 Leaving New York  
+3 On the Arctic Ship Roosevelt  
+4 Attacked by Polar Bears  
+5 A Dash for the Pole  
+6 Victory at Last
+
+These movements collectively depict the journey and experiences of the expedition to the North Pole.
+
+![Railroad-Rag](../assets/Railroad-Rag_hzBa.jpg "Railroad-Rag")
+
+Although no other specific contemporary songs have turned up, Dr. Cook was given a verse in a totally unlikely place in a 1911 hit called *That Railroad Rag* by Ed Bimberg.
+
+Recordings of the song place the verse either second or third:
+
+*Out in San Francisco we met Dr. Cook  
+Talking on the Pole from an old Cook book.*
+
+*The engineer was angry, said he’s done.  
+I’ll go get that Pole, who’ll come?*
+
+*Some one gave a signal, we were off like a shot.  
+Gee! but everyone was hot.*
+
+*In just 30 seconds we were halfway there,  
+Then stopped to get directions from a polar bear.*
+
+You can hear a recording of it by copying this link, or click on the link in the Blogroll at right:
+
+https://www.youtube.com/watch?v=TFctqO195e4&list=RDTFctqO195e4&start\_radio=1
+
+In more modern times, an amazingly clever song written in 2012 by “Karlos the Jackel” called *Cook, Peary and Byrd*, has been recorded and “sung” by its composer on the MeFi Music website. For once someone got all the facts exactly right. Here are the lyrics:
+
+*Cook, Peary, and Byrd — the first, the second, the third. As each man announced that he had reached his goal (journey by land or plane to the North Pole), we all took them at their word: Cook, Peary, and Byrd.*
+
+*Frederick Cook was a doctor from Brooklyn who pretended he’d climbed Mt. McKinley. Later, he claimed to be first to the pole, but his story was spread much too thinly: Cook’s only evidence was that Cook said he did, and eventually he was discredited once everyone got a look at the incomplete journals of Cook.*
+
+*Robert Peary hired experts with sextants, but as they neared their destination he sent them all packing so that he could make up his numbers without moderation. To get to the pole and back, Peary would need to have broken all previous records in speed; though his stories were so grandiose, more likely he never got close.*
+
+*Richard Byrd had a plane, Josephine Ford, and a pilot to fly her about. They noticed an oil leak in mid-flight and decided the full jaunt was out, so they went just one hundred miles away and flew in a circle the rest of the day and returned. The pilot averred he’d keep secret the short flight of Byrd.*
+
+*Cook, Peary, and Byrd — the first, the second, the third. Roald Amundsen thought that he was the fourth, but he was the first man to reach that far north, never mind what you may have heard about Cook, Peary, and Byrd.*
+
+*Everyone who wrote a history book, scientists, journalists, and the public got took by a liar, a fraud, and a crook: Byrd, Peary, and Cook.*
+
+You can hear the song by copying in this link, or click on the appropriate link on the Blogroll at right:
+
+https://music.metafilter.com/6396/Cook-Peary-and-Byrd
+
+]

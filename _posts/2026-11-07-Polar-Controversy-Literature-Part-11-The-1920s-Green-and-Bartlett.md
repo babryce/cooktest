@@ -1,16 +1,14 @@
 ---
-title: Polar Controversy Literature
+title: Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett
 category: General
 ---
 ## Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett
 
-November 7, 2026
 
 ![Peary's grave](../assets/Pearys-grave_hzBa.jpg "Peary's grave")
 
 When Peary died in 1920, shortly before Captain Hall published his “Volume II,” there was an outpouring of effusive obituaries, and memorial tributes from his friends were held at Bowdoin College and the Explorers Club. He was laid to rest with full military honors in Arlington National Cemetery, attended by many high officials of the US Government, including the Vice President and Chief Justice.  
 An imposing monument was soon erected over his grave, courtesy of the National Geographic Society.
-
 
 After Peary’s death, Herbert Bridgman toyed with the idea of writing a biography of Peary, but was cut short by his own death in 1924. Instead, the Peary family authorized it to be written by Commander Fitzhugh Green.
 
@@ -35,3 +33,5 @@ In 1928, Bob Bartlett, captain of Peary’s ship Roosevelt, who had accompanied 
 “Something more than loyalty to his old chief, however is necessary to prove that [Peary] reached the Pole. As no new data are given, this breezy book fails to help the cause that its author has at heart. He gives nothing bearing on the crux of the problem except personal opinion; he adds little to the information given in Commander Green’s biography, and he is like Commander Green in giving a wide berth to all the real difficulties. . . .[So] Here is a second book , published, like the biography, with the evident purpose of propaganda. Yet, for the second time, an opportunity of proving Peary’s claim has been lost. . . .The proofs that he did not reach the Pole are totally unaffected. . . . The biography, indeed, as the penultimate word of his supporters, was enlightening, though not, perhaps altogether in the manner intended. Should the Log of Bob Bartlett be the last word on behalf of that claim, [the evidence showing that Peary did not reach the Pole] may prove to be the verdict of history. . . . One sidelight is unwittingly thrown on the central figure when Bartlett says that Peary “knew more about red tape than any three average men,” and so “he didn’t have much trouble fixing me up with a job.” , . . This was how Peary managed to get his claim to the Pole ‘fixed up.’”
 
 The Reverend Hayes was a keen student of Polar subjects, and the book in which this critique appeared was about to become a potent factor in raising doubts, and convincing many in Europe, that Peary’s claim to the North Pole was simply invalid.
+
+]

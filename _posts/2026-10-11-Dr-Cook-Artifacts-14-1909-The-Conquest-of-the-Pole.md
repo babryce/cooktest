@@ -1,0 +1,76 @@
+---
+title: Dr. Cook Artifacts 14: 1909: “The Conquest of the Pole”
+category: General
+---
+## Dr. Cook Artifacts 14: 1909: “The Conquest of the Pole”
+
+
+This entry could have been first in our ongoing survey of the literature of the Polar Controversy, but because we are not surveying the vast periodical literature of the Polar Controversy, but only books, it appears here.
+
+At the time this series began there was no convenient way to direct the reader to the text of the serial version of Dr. Cook’s polar narrative that was published every other day in the *New York Herald* between September 15 and October 7, 1909.
+
+As an example of one of the many things AI asserts as true which are not, is the claim that the series was never reprinted by any academic journal, but was only available in its original newspaper format. This is only half true. It was partially reprinted in the pages of *The Journal of American History* in Volume 3, nos. 3-4; pages 315-340/637-647. At that point, a note says that the rest of Cook’s account would be given its “historical record” in the next number of the journal, but the narrative just ended there, with the first paragraph of installment 6, the rest apparently being abandoned after Dr. Cook’s “proofs” were rejected by the Konsistorium of the University of Copenhagen in December 1909. There is not another word of the narrative printed in the next number, nor any explanation of why this was so.  Because it appeared in full only in the *Herald*, few have read it.
+
+Now, however, the original serial has been digitized and is available at the link in the blogroll at right as “Conquest of the Pole,” or you can paste in this link into a Google search https://babel.hathitrust.org/cgi/pt?id=mdp.39015085455650&seq=1. The site reproduces all 12 installments of the serial from the collection of papers of Hebert H. Hobbs held at the University of Michigan. Hobbs was a professor there, an ardent Peary supporter, and Peary’s second biographer.  At this site you can read not only the entire serial, but also a number of collateral stories published on the same days.
+
+“The Conquest of the Pole” proved very popular. No doubt, the *Herald* made a considerable sum syndicating it, because it paid Cook only $25,000 (about $850,000 in today’s money) for the rights. (Although Peary received about $10,000 for his three-part account, his per-word total was far higher than what Cook received). In style and content it is similar to the narrative written in Cook’s original notebook, and thus in his later book, but it appears to have been reworked by an editor in spots. Because of this, the serial version is altogether rather more sober than the eventual narrative published in *My Attainment of the Pole*. The similarity however is great, and only a few points of interest need to be noted.
+
+In Part 1 Cook greatly expands the “widow story” and gives a number of unique details not in his other narratives. In Part 2 he gives September 1, 1908 as the date he goes to Annoatok. No doubt this was a fault of memory because he did not have his Winter Diary at hand. The actual day was August 26. Part 3, which deals with his preparations over the winter is probably closest to the Narrative’s content. In Part 4 he makes some unique remarks about sledges, boats and food in preparation for attempting the pole. In Part 5 he starts for the pole. Here he gives the weights on his sledges and mentions that his pemmican was stored in six-pound tins. He also mentions writing letters after the first march from land, or on March 18, not March 17 as the letter delivered to Rudolph Franke is dated. Several interesting variants occur that are not in full accord with his account in MAP. He gives an equivocal account about seeing Crocker Land (Part 7) and a variant description of Bradley Land (Part 9). He makes use of a number of his sketches from his notebook: “Getting Next to One’s self” occurs in Part 8; “The Making and Breaking of the Polar Pack” in Part 9; “Man’s Horse power” and the “Flames of Hades” in Part 10. Cook’s description of the North Pole occupies Part 11. Installment 12 contained the essay on “Dog Comfort” that was ridiculed in Denmark when Cook’s proofs were presented, and also the essay about the use of a dog’s tail.
+
+![return to land](../assets/return-to-land_hzBa.jpg "return to land")Of major interest is the fact that more than a dozen photographs from Cook’s purported polar attempt appear in the serial that were never printed elsewhere, including *My Attainment of the Pole.* A couple of these, such as those of icebergs and one of Dr. Cook exhuming a human scull, were taken on earlier expeditions, but the rest appear to be from his 1908 attempt. Of especial interest is the one that appears in the last installment, labeled “The return to land.” It shows two sledges that are still fully packed, when at the time of Cook’s “return to land” they would have had most of their supplies dissipated. It also shows a large headland in the distance, when Cook’s narrative said they made their first landfall on a small low island, barely above sea level, and that they had only a distant view of the coast of Axel Heiberg Island and the Rignes Islands since leaving the Polar Sea.
+
+Here is the synopsis of the first eleven installments as it was printed in the *New York Herald*. The twelfth has been added in the same style:
+
+![installment 1](../assets/installment-1-732x1024_hzBa.jpg "installment 1")
+
+In the first installment of his thrilling story, “The Conquest of the Pole,” printed in the Herald of Wednesday, September 15, Dr. Frederick A. Cook told of the start from Gloucester on the Bradley, of the voyage to the polar seas and of the overhauling en route of the equipment needed for the dash to the pole.  
+In a graphic manner the discoverer wrote a story of Eskimo life that never has been excelled for human interest. He told of the home life, the tragedy and comedy that mingle in the dreary existence of the dwellers in the Arctic, and of the childlike eagerness of the natives to trade their valuable furs and ivories for the simplest things of civilization.  
+The yacht, her owner, Mr. John R. Bradley, the explorer and his party were pictured in their preliminary work for the final dash.  
+Finally, after describing the various places visited in Greenland in search of guides and information as to conditions further north, Dr. Cook wrote of the trip across Inglefield Gulf, past Cape Auckland {sic} and on toward Cape Robertson.  
+Here the discoverer closed the first part of his narrative with Etah and Annoatok, the last points of call, looming in the icy distance.
+
+![Installment 2](../assets/Installment-21-734x1024_hzBa.jpg "Installment 2")
+
+In the second installment Dr. Cook described the voyage to Etah and then on to Annoatok, the place of plenty, which he selected as the base for his dash to the pole.
+
+![Installment 3](../assets/Installment-3-734x1024_hzBa.jpg "Installment 3")
+
+In the third installment the explorer described the work of preparing his winter quarters, closing with a graphic description of a narwhal hunt.
+
+![Installment 4](../assets/Installment-4-734x1024_hzBa.jpg "Installment 4")
+
+In the fourth installment Dr. Cook described the approach of the long Arctic night, which caused his party at Annoatok to become very active in preparing for the dash to the pole.
+
+![Installment 5](../assets/Installment-5-734x1024_hzBa.jpg "Installment 5")
+
+In the fifth installment Dr. Cook told of the actual start on February 19, 1908, and described the equipment he took for his great final dash.
+
+![Installment 6](../assets/Installment-6-734x1024_hzBa.jpg "Installment 6")
+
+In the sixth installment the discoverer told of the first progress of his little party and the last sight of land, and his adventures on the perilous trip with the two Eskimos who went to the pole with him.
+
+![installment 7](../assets/installment-7-741x1024_hzBa.jpg "installment 7")
+
+In the seventh installment Dr. Cook described how his Eskimo companions saved his life.
+
+![Installment 8](../assets/Installment-8-741x1024_hzBa.jpg "Installment 8")
+
+In the eight chapter Dr. Cook gave a vital picture of the terrors of the Arctic cold.
+
+![installment 9](../assets/installment-9-741x1024_hzBa.jpg "installment 9")
+
+In the ninth installment Dr. Cook described the lifeless lands passed before the pole was reached.
+
+![installment 10](../assets/installment-10-741x1024_hzBa.jpg "installment 10")
+
+In the tenth chapter Dr. Cook described the near approach to the pole.
+
+![installment 11](../assets/installment-111-739x1024_hzBa.jpg "installment 11")
+
+In the eleventh installment Dr. Cook told of the final struggle and the discovery of the pole.
+
+![installment 12](../assets/installment-12-732x1024_hzBa.jpg "installment 12")
+
+In the twelfth installment Dr. Cook told of his journey back to land, his overwintering on Devon Island and his journey back to Annoatok, where he met Harry Whitney and then went on to the Danish settlements in the south.
+
+]
