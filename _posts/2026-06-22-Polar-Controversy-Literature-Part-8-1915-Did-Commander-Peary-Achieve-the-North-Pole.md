@@ -1,5 +1,5 @@
 ---
-title: Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?
+title: tempFix
 category: General
 ---
 ## Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?

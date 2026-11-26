@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook’s 160th Birthday
+title: tempFix
 category: General
 ---
 ## Dr. Cook’s 160th Birthday

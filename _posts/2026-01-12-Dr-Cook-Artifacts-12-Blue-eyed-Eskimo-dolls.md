@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 12: Blue-eyed Eskimo dolls
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 12: Blue-eyed Eskimo dolls

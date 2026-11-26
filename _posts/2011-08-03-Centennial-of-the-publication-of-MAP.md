@@ -1,5 +1,5 @@
 ---
-title: Centennial of the publication of MAP
+title: tempFix
 category: General
 ---
 ## Centennial of the publication of MAP

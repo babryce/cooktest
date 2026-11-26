@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment

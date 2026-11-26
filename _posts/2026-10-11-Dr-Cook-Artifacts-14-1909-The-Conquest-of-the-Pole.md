@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 14: 1909: “The Conquest of the Pole”
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 14: 1909: “The Conquest of the Pole”

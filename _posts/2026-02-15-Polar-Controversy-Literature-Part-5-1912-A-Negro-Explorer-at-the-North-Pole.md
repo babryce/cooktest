@@ -1,5 +1,5 @@
 ---
-title: Polar Controversy Literature Part 5: 1912: A Negro Explorer at the North Pole
+title: tempFix
 category: General
 ---
 ## Polar Controversy Literature Part 5: 1912: A Negro Explorer at the North Pole

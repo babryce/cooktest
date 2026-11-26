@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north

@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files:  August 25, 1909: Peary gets unwelcome news
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files:  August 25, 1909: Peary gets unwelcome news

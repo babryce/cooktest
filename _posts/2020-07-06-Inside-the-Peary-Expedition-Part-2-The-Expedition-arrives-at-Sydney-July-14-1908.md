@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition: Part 2: The Expedition arrives at Sydney, July 14, 1908
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition: Part 2: The Expedition arrives at Sydney, July 14, 1908

@@ -1,5 +1,5 @@
 ---
-title: The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review.
+title: tempFix
 category: General
 ---
 ## The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review.

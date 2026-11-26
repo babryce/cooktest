@@ -1,5 +1,5 @@
 ---
-title: Frederick Cook arrives in Denmark
+title: tempFix
 category: General
 ---
 ## Frederick Cook arrives in Denmark

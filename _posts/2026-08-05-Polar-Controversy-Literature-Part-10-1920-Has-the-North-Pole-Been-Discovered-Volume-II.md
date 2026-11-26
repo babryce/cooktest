@@ -1,5 +1,5 @@
 ---
-title: Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II
+title: tempFix
 category: General
 ---
 ## Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II

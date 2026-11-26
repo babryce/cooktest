@@ -1,5 +1,5 @@
 ---
-title: The John W. Goodsell Archive: Part 1 of 3
+title: tempFix
 category: General
 ---
 ## The John W. Goodsell Archive: Part 1 of 3

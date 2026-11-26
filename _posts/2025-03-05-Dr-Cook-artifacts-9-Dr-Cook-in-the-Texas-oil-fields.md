@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook artifacts 9: Dr. Cook in the Texas oil fields
+title: tempFix
 category: General
 ---
 ## Dr. Cook artifacts 9: Dr. Cook in the Texas oil fields

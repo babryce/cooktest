@@ -1,5 +1,5 @@
 ---
-title: Polar Controversy Literature Part 1: 1910: The North Pole
+title: tempFix
 category: General
 ---
 ## Polar Controversy Literature Part 1: 1910: The North Pole

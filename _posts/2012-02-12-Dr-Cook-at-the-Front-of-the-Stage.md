@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook at the Front of the Stage
+title: tempFix
 category: General
 ---
 ## Dr. Cook at the Front of the Stage

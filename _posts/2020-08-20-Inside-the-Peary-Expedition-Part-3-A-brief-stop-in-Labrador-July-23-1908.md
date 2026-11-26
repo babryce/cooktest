@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition: Part 3: A brief stop in Labrador, July 23, 1908
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition: Part 3: A brief stop in Labrador, July 23, 1908

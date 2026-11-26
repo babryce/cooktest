@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail

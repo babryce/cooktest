@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition, Part 7: A Letter from Rudolph Franke
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition, Part 7: A Letter from Rudolph Franke

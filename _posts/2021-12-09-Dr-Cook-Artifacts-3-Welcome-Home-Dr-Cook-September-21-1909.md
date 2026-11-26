@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 3: Welcome Home, Dr. Cook, September 21, 1909
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 3: Welcome Home, Dr. Cook, September 21, 1909

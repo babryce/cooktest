@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition, Part 10: August 13, 1908: Rudolph Franke decides to go home
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition, Part 10: August 13, 1908: Rudolph Franke decides to go home

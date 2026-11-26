@@ -1,5 +1,5 @@
 ---
-title: New edition of The Lost Notebook of Dr. Frederick A. Cook published
+title: tempFix
 category: General
 ---
 ## New edition of The Lost Notebook of Dr. Frederick A. Cook published

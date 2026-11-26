@@ -1,5 +1,5 @@
 ---
-title: Frederick A. Cook Society website bought by “King Hen”
+title: tempFix
 category: General
 ---
 ## Frederick A. Cook Society website bought by “King Hen”

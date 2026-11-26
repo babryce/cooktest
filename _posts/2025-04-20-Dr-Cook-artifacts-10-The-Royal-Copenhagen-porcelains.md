@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook artifacts 10: The Royal Copenhagen porcelains
+title: tempFix
 category: General
 ---
 ## Dr. Cook artifacts 10: The Royal Copenhagen porcelains

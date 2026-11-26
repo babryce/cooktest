@@ -1,5 +1,5 @@
 ---
-title: Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett
+title: tempFix
 category: General
 ---
 ## Polar Controversy Literature: Part 11: The 1920s: Green and Bartlett

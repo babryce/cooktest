@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines

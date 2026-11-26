@@ -1,5 +1,5 @@
 ---
-title: The Cook & Peary files: January 8, 1912: Dr. Goodsell rebukes Dr. Cook’s account.
+title: tempFix
 category: General
 ---
 ## The Cook & Peary files: January 8, 1912: Dr. Goodsell rebukes Dr. Cook’s account.

@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 13: The Polar Controversy in Song
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 13: The Polar Controversy in Song

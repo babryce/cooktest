@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 4: The Portrait Mug
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 4: The Portrait Mug

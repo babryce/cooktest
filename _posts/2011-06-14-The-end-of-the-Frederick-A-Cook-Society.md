@@ -1,5 +1,5 @@
 ---
-title: The end of the Frederick A. Cook Society?
+title: tempFix
 category: General
 ---
 ## The end of the Frederick A. Cook Society?

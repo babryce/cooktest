@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary files: December 15, 1913: Dr. Cook’s terms.
+title: tempFix
 category: General
 ---
 ## The Cook-Peary files: December 15, 1913: Dr. Cook’s terms.

@@ -1,5 +1,5 @@
 ---
-title: Frederick A. Cook website relocates to a new domain
+title: tempFix
 category: General
 ---
 ## Frederick A. Cook website relocates to a new domain

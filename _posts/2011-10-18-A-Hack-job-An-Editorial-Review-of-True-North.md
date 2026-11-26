@@ -1,5 +1,5 @@
 ---
-title: “A Hack job”: An Editorial Review of True North.
+title: tempFix
 category: General
 ---
 ## “A Hack job”: An Editorial Review of True North.

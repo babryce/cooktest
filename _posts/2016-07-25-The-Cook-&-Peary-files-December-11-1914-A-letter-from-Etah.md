@@ -1,5 +1,5 @@
 ---
-title: The Cook & Peary files: December 11, 1914: A letter from Etah.
+title: tempFix
 category: General
 ---
 ## The Cook & Peary files: December 11, 1914: A letter from Etah.

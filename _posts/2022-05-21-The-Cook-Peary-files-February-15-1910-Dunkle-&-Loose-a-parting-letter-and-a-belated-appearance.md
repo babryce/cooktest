@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary files: February 15, 1910: Dunkle & Loose: a parting letter and a belated appearance
+title: tempFix
 category: General
 ---
 ## The Cook-Peary files: February 15, 1910: Dunkle & Loose: a parting letter and a belated appearance

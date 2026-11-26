@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files:  The Barrill Affidavit Part 2: Ed Barrill and his affidavit go to New York
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files:  The Barrill Affidavit Part 2: Ed Barrill and his affidavit go to New York

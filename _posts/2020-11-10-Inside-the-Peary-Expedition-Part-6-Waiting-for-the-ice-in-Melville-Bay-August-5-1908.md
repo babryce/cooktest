@@ -1,5 +1,5 @@
 ---
-title: Inside the Peary Expedition, Part 6: Waiting for the ice in Melville Bay, August 5, 1908
+title: tempFix
 category: General
 ---
 ## Inside the Peary Expedition, Part 6: Waiting for the ice in Melville Bay, August 5, 1908

@@ -1,5 +1,5 @@
 ---
-title: The Centennial of Dr. Cook’s “confession.”
+title: tempFix
 category: General
 ---
 ## The Centennial of Dr. Cook’s “confession.”

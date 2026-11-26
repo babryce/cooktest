@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook at the Fram Museum
+title: tempFix
 category: General
 ---
 ## Dr. Cook at the Fram Museum

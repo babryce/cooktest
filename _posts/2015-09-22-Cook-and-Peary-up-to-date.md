@@ -1,5 +1,5 @@
 ---
-title: Cook and Peary, up to date
+title: tempFix
 category: General
 ---
 ## Cook and Peary, up to date

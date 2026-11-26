@@ -1,5 +1,5 @@
 ---
-title: Cook’s original telegram drafts are recovered.
+title: tempFix
 category: General
 ---
 ## Cook’s original telegram drafts are recovered.

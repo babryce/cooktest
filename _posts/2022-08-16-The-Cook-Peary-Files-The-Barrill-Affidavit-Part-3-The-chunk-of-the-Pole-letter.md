@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files: The Barrill Affidavit Part 3: The “chunk of the Pole” letter
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files: The Barrill Affidavit Part 3: The “chunk of the Pole” letter

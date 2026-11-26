@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 2: The Esquimaux pitchers
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 2: The Esquimaux pitchers

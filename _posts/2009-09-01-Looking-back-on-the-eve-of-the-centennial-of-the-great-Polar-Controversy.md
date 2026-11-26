@@ -1,5 +1,5 @@
 ---
-title: Looking back on the eve of the centennial of the great Polar Controversy.
+title: tempFix
 category: General
 ---
 ## Looking back on the eve of the centennial of the great Polar Controversy.

@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 1: The Cook Statuette
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 1: The Cook Statuette

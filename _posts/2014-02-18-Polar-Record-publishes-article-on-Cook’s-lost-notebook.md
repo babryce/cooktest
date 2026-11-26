@@ -1,5 +1,5 @@
 ---
-title: Polar Record publishes article on Cook’s lost notebook
+title: tempFix
 category: General
 ---
 ## Polar Record publishes article on Cook’s lost notebook

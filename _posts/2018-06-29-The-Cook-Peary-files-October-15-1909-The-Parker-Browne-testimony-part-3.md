@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 3
+title: tempFix
 category: General
 ---
 ## The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 3

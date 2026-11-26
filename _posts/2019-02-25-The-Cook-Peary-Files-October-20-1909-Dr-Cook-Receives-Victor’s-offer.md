@@ -1,5 +1,5 @@
 ---
-title: The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer
+title: tempFix
 category: General
 ---
 ## The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer

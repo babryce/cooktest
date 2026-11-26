@@ -1,5 +1,5 @@
 ---
-title: Dr. Cook Artifacts 6: The Cook-Peary Figurines
+title: tempFix
 category: General
 ---
 ## Dr. Cook Artifacts 6: The Cook-Peary Figurines
