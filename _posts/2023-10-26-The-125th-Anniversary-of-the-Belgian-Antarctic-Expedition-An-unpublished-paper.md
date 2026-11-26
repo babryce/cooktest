@@ -1,3 +1,7 @@
+---
+title: "The 125th Anniversary of the Belgian Antarctic Expedition: An unpublished paper."
+category: General
+---
 
 *The ongoing series on the “Eskimo Testimony” will resume next month.*
 

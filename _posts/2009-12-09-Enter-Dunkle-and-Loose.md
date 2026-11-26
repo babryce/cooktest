@@ -1,3 +1,7 @@
+---
+title: "Enter Dunkle and Loose."
+category: General
+---
 
 ![dunkle-and-loose](http://babryce.com/cooktest/assets/dunkle-and-loose_4AlG.jpg "dunkle-and-loose")
 

@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 5: The Roosevelt reaches the native settlements, August 3, 1908"
+category: General
+---
 
 ![August 3  1](http://babryce.com/cooktest/assets/August-3-12-674x1024_8p6-.jpg "August 3  1")
 

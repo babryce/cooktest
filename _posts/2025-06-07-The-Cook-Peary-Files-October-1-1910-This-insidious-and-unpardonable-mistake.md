@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files: October 1, 1910: “This insidious and unpardonable mistake”"
+category: General
+---
 
 *This is the latest in a series of posts that publish for the first time significant documents related to the Polar Controversy.*
 

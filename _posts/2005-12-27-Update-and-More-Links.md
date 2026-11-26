@@ -1,3 +1,7 @@
+---
+title: "Update and More Links"
+category: General
+---
 
 Site updated and corrected. Links: [The Library of Congress exhibit](http://www.loc.gov/exhibits/treasures/tr22b.html) including a display of Cook artifacts can be found here; look for the section marked “At the Pole.” [Ohio State Univerisity Archives](http://library.osu.edu/sites/archives/polar/cook/cook.htm) collection of papers related to Cook can be found here.  [The Finding Aid](http://www.loc.gov/rr/mss/f-aids/mssfa.html) to the personal papers of Frederick A. Cook held by the Library of Congress can be found here; look under “C”. A small collection of Cook papers is among the holdings of  [Dartmouth College](http://ead.dartmouth.edu/html/stem127.html).
 

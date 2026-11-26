@@ -1,3 +1,7 @@
+---
+title: "The end of the Frederick A. Cook Society?"
+category: General
+---
 
 2010 was not kind to the Frederick A. Cook Society.  
 First, Dr. Ralph Myerson, a Philadelphia area M.D. and long-time treasurer of the society passed away on January 31. Dr. Meyerson was 91. I had a number of dealings with Dr. Myerson over the last fifteen years and always found him to be courteous and accommodating. He was interested in Cook as a fellow medical doctor, and contributed many pieces to the Cook Society’s publications on medical aspects of polar exploration. He never openly advocated for Cook’s attainment of the pole in any of these. He represented the society at several conferences, including the Belgica Centennial Conference held in Brussels in April of 1998. His paper, “Frederick A. Cook, M.D. , the art and science of medicine aboard the Belgica,” was published in the proceedings of that conference.  

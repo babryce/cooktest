@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 4: The Portrait Mug"
+category: General
+---
 
 ![IMG_0837](http://babryce.com/cooktest/assets/IMG_0837-1024x980_OKYx.jpg "IMG_0837")
 

@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files: October 15, 1909: Herbert Bridgman declines"
+category: General
+---
 
 *This is the 11th in a series examining significant unpublished documents related to the Polar Controversy.*
 

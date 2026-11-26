@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Polar Expedition: Part 1: A parting interview, July 2, 1908"
+category: General
+---
 
 *This post initiates a series on original documents related to Peary’s last attempt to reach the North Pole, The Peary Arctic Club North Pole Expedition of 1908. In the coming months, through this series the participants will be allowed to speak in real time through letters, diaries, and other documents about the events of the expedition. These documents will be accompanied by commentary, and where necessary, explanatory notes will be appended to allow the reader to understand the events referenced in these documents.*
 

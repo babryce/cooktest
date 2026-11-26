@@ -1,3 +1,7 @@
+---
+title: "An Excursion to Ealge Island"
+category: General
+---
 
 ![Eagle Island](http://babryce.com/cooktest/assets/Eagle-Island4_3nNc.jpg "Eagle Island")
 

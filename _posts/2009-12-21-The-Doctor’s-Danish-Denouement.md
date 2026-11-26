@@ -1,3 +1,7 @@
+---
+title: "The Doctor’s Danish Denouement."
+category: General
+---
 
 ![Discovered!](http://babryce.com/cooktest/assets/Discovered2-195x300_4AlG.jpg "Discovered!")
 

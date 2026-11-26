@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 4: At Sea, July 30. 1908"
+category: General
+---
 
 ![Ross Marvin](http://babryce.com/cooktest/assets/Ross-Marvin2-163x300_8p6-.jpg "Ross Marvin")
 

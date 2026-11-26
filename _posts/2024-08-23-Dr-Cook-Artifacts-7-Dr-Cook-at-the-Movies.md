@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 7: Dr. Cook at the Movies"
+category: General
+---
 
 Not long after returning to the United States from nearly a year of “exile,” in December 1910, Dr. Cook went to Chicago, then the center of the film industry.
 

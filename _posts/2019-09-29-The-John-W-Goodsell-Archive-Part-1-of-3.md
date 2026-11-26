@@ -1,3 +1,7 @@
+---
+title: "The John W. Goodsell Archive: Part 1 of 3"
+category: General
+---
 
 ![Dr. John W. Goodsell](http://babryce.com/cooktest/assets/Dr.-John-W.-Goodsell-207x300_omLw.jpg "Dr. John W. Goodsell")
 

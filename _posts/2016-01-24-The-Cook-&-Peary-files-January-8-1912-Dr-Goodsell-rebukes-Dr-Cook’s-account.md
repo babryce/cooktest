@@ -1,3 +1,7 @@
+---
+title: "The Cook & Peary files: January 8, 1912: Dr. Goodsell rebukes Dr. Cook’s account."
+category: General
+---
 
 Over the 40 years your editor has researched the Polar Controversy, he has accumulated thousands of pages of documentation from the many archives, institutions and private individuals that hold significant material dealing with Cook and Peary. This is the first in an ongoing series featuring some of those documents.
 

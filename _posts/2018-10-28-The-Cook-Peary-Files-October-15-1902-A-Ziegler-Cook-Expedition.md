@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files: October 15, 1902: A Ziegler-Cook Expedition?"
+category: General
+---
 
 *![Mrs. Peary 1902A](http://babryce.com/cooktest/assets/Mrs.-Peary-1902B-273x300_lewA.jpg "Mrs. Peary 1902B")*
 

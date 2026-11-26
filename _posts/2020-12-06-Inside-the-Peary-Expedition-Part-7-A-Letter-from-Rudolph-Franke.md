@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition, Part 7: A Letter from Rudolph Franke"
+category: General
+---
 
 At Etah, Peary retrieved a letter sent north via a native by Rudolph Franke, who had been the cook on Bradley’s yacht, and whom Cook had paid to overwinter with him in a house he had built from packing crates at Annoatok. Franke had received a letter from Dr. Cook in May via the Inuit who had accompanied him to Cape Thomas Hubbard, dated March 17. In it he had given these instructions to Franke in case he was not back by June. It read in part:
 

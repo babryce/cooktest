@@ -1,3 +1,7 @@
+---
+title: "Differing versions of Donald MacMillan’s field diary brought to light"
+category: General
+---
 
 Dr. David Welky, a professor at the University of Central Arkansas, who is working on a book on Donald MacMillan’s Crocker Land Expedition of 1913-17, recently brought to my attention that there is a different and apparently earlier version of MacMillan’s 1914 field diary in New York.
 

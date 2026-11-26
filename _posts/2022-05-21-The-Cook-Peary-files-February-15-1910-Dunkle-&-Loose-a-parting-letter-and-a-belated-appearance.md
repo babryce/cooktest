@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary files: February 15, 1910: Dunkle & Loose: a parting letter and a belated appearance"
+category: General
+---
 
 This is the 17th in a series examining significant unpublished documents related to the Polar Controversy.
 

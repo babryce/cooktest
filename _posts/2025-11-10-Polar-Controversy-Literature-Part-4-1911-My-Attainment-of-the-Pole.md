@@ -1,3 +1,7 @@
+---
+title: "Polar Controversy Literature Part 4: 1911: My Attainment of the Pole"
+category: General
+---
 
 *This is the fourth in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 

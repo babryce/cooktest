@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 2: The Esquimaux pitchers"
+category: General
+---
 
 ![1](http://babryce.com/cooktest/assets/1_OKYx.jpg "1")
 

@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 13: The Polar Controversy in Song"
+category: General
+---
 
 It’s surprising that such a long running news story as the Polar Controversy, which occupied front pages for nearly four months, would not inspire Tin Pan Alley to write many songs about it. But it came before current news became a frequent subject of popular song. From *The Sinking of the Titanic* on, songs about current events, especially disasters (*When the Lusitania went Down, The Santa Barbara Earthquake, The Wreck of the* (airship) *Shenandoah, The Death of Floyd Collins*, etc. etc., not to mention innumerable train wrecks) and culminating in numerous songs about the Lindbergh flight, front-page news often produced a song.
 

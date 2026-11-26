@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files: The Barrill Affidavit Part 3: The “chunk of the Pole” letter"
+category: General
+---
 
 *This is the 20th in a series examining significant unpublished documents related to the Polar Controversy.*
 

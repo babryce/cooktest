@@ -1,3 +1,7 @@
+---
+title: "How the Conquering Hero came"
+category: General
+---
 
 On September 21, 1909, Dr. Frederick Albert Cook arrived in the United Sates from Europe aboard the *Oscar II*. The liner had lain off Fire Island since three in the afternoon the day before so as not to upset the welcome plans for the Discoverer of the North Pole. She dressed in flags and proceeded to quarantine at midnight and at dawn was surrounded by boats of the press and well wishers.
 

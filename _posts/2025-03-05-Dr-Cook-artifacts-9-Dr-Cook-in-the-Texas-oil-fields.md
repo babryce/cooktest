@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook artifacts 9: Dr. Cook in the Texas oil fields"
+category: General
+---
 
 Cook started out in the petroleum industry in Wyoming in 1917, but quickly moved on to Texas with news of the fabulous oil strikes there in 1918. He established his first petroleum company that year as The Texas Eagle Oil Co. The company was capitalized at $300,000 in February 1919. It issued 10,000 public shares of stock at $10 a share. That was small money for such an enterprise, so to raise more, in August, a subsidiary company, the Texas Eagle Producing and Refining Co. was created with additional stock amounting to $2.5 million.
 

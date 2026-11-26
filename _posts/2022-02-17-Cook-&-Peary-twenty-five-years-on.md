@@ -1,3 +1,7 @@
+---
+title: "Cook & Peary, twenty-five years on"
+category: General
+---
 
 ![Cook book](http://babryce.com/cooktest/assets/Cook-book-764x1024_OKYx.jpg "Cook book")
 

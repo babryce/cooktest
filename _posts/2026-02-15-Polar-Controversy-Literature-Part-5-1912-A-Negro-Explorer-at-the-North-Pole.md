@@ -1,3 +1,7 @@
+---
+title: "Polar Controversy Literature Part 5: 1912: A Negro Explorer at the North Pole"
+category: General
+---
 
 ![NENP](http://babryce.com/cooktest/assets/NENP-694x1024_hzBa.jpg "NENP")
 

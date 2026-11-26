@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 15: December 1912: Franke’s case against Peary is resolved"
+category: General
+---
 
 The case drug on for another three years. In June 1911, a commission was sent to Canada and the United States to investigate and take testimony from several witnesses including Joe White and Henry Johnson, mentioned in Franke’s complaint. Both men were originally members of the Roosevelt’s crew, but they and all other Americans were dismissed by Peary at Sydney, leaving only Newfoundlanders to man her. Both men, however, were hired on as Able Bodied Seamen on the Erik by Captain Sam Bartlett, and so made the trip to Etah aboard her in company with Peary’s ship. Both later gave affidavits attesting to Peary’s covetousness when it came to furs and ivory, and how he traded for them at great advantage, yet banned any member of either ship’s crew from bartering with the Inuit for the like, or anything else of value. An affidavit by each man was published in the October 1910 issue of Tourist Magazine in an article authored by B.S. Osbon. We can assume that their sworn testimony to the visiting commission was similar in content.
 

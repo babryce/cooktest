@@ -1,3 +1,7 @@
+---
+title: "Frederick Cook arrives in Denmark"
+category: General
+---
 
 ![Cook arrives](http://babryce.com/cooktest/assets/Cook-arrives2-300x200_lewA.jpg "Cook arrives")
 

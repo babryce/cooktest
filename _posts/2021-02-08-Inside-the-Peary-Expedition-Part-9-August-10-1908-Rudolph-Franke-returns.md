@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition, Part 9: August 10, 1908: Rudolph Franke returns"
+category: General
+---
 
 On August 10, Dr. Goodsell wrote in his diary:
 

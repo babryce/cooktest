@@ -1,3 +1,7 @@
+---
+title: "Centennial of the publication of MAP"
+category: General
+---
 
 ![Cook and flag](http://babryce.com/cooktest/assets/Cook-and-flag-270x300_GlUx.jpg "Cook and flag")***My Attainment of the Pole***  
 Cook’s “final summary” of his expedition was a long time in coming. Cook had become so notorious after the Copenhagen decision that no legitimate publisher would touch his narrative.  

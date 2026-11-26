@@ -1,3 +1,7 @@
+---
+title: "Polar Controversy Literature: Part 6 1912-13: New Editions of My Attainment of the Pole"
+category: General
+---
 
 No legitimate publisher would touch Cook’s narrative in book form in 1911, so he formed his own “Polar Publishing Company” to issue and promote it and manage the lectures he planned to give after its publication.
 

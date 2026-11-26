@@ -1,3 +1,7 @@
+---
+title: "Where’s Waldo?"
+category: General
+---
 
 If you followed this blog last year during the centennial of the Polar Controversy, you may have wondered why there have been no recent posts. That long silence corresponds exactly to the period of time—more than a year—that Frederick A. Cook kept silence. It was on this day, 100 years ago that the world officially remade his acquaintance.
 

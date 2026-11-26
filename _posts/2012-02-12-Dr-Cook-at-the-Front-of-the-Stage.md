@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook at the Front of the Stage"
+category: General
+---
 
 Today is the one-hundred-first anniversary of Frederick Cook’s first appearance in Vaudeville.  
 On February 12, 1911, Cook appeared on the stage of Oscar Hammerstein’s Manhattan Opera House as an “added” feature to a six-part vaudeville card directly after the Panklebs, an act billed as “Comedy Clay Modelers.” Herbert Bridgman, the secretary of the Peary Arctic Club, hired a stenographer to get a running account of the whole thing.  

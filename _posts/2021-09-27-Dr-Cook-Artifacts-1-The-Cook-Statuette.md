@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 1: The Cook Statuette"
+category: General
+---
 
 ![IMG_0550](http://babryce.com/cooktest/assets/IMG_0550-681x1024_OKYx.jpg "IMG_0550")
 

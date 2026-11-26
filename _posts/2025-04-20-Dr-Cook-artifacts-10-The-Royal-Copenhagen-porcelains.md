@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook artifacts 10: The Royal Copenhagen porcelains"
+category: General
+---
 
 On September 4, 1909 Dr. Cook landed in Copenhagen to the adulation of the masses assembled along the shore of the Danish capital’s harbor to greet the explorer as he disembarked from the *Hans Egede.*
 

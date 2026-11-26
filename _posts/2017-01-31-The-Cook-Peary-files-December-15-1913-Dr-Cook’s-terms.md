@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary files: December 15, 1913: Dr. Cook’s terms."
+category: General
+---
 
 *This is the fourth in a series examining significant unpublished documents associated with the Polar Controversy.*
 

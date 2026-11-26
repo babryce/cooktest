@@ -1,3 +1,7 @@
+---
+title: "Frederick Cook, M.D.: What it was to be a doctor in 1890"
+category: General
+---
 
 ![Cook_nel_1909](http://babryce.com/cooktest/assets/Cook_nel_1909_OKYx.jpg "Cook_nel_1909")
 

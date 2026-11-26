@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 3: A brief stop in Labrador, July 23, 1908"
+category: General
+---
 
 ![Turnavik](http://babryce.com/cooktest/assets/Turnavik_8p6-.jpg "Turnavik")
 

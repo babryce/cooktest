@@ -1,3 +1,7 @@
+---
+title: "Cook’s original telegram drafts are recovered."
+category: General
+---
 
 ***Full details appear in the October issue of* Polar Record*.***
 

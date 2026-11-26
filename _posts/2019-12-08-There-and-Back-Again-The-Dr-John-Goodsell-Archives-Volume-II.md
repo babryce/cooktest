@@ -1,3 +1,7 @@
+---
+title: "There and Back Again: The Dr. John Goodsell Archives Volume II"
+category: General
+---
 
 *This is the third of three posts covering There and Back Again; The Dr. John Goodsell Archives issued by the Mercer County Historical Society. For preliminary remarks, see the first published post.*
 

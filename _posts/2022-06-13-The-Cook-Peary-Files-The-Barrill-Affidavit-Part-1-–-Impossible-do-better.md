@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files: The Barrill Affidavit: Part 1 – “Impossible do better.”"
+category: General
+---
 
 This is the 18th in a series examining significant unpublished documents related to the Polar Controversy.
 

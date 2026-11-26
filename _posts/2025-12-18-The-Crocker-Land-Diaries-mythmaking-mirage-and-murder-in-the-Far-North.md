@@ -1,3 +1,7 @@
+---
+title: "The Crocker Land Diaries: mythmaking, mirage and murder in the Far North"
+category: General
+---
 
 ![Cover Crocker Land](http://babryce.com/cooktest/assets/Cover-Crocker-Land-683x1023_62j0.jpg "Cover Crocker Land")
 

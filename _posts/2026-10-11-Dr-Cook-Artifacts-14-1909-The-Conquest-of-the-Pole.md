@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 14: 1909: “The Conquest of the Pole”"
+category: General
+---
 
 This entry could have been first in our ongoing survey of the literature of the Polar Controversy, but because we are not surveying the vast periodical literature of the Polar Controversy, but only books, it appears here.
 

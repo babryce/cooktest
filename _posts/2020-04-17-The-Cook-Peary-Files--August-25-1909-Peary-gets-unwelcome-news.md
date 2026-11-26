@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files:  August 25, 1909: Peary gets unwelcome news"
+category: General
+---
 
 *This is the 1**6**th in a series examining significant unpublished documents related to the Polar Controversy.*
 

@@ -1,3 +1,7 @@
+---
+title: "Polar Controversy Literature Part 2: 1911: Did Peary Reach the Pole?"
+category: General
+---
 
 *This is the second in an occasional series that will examine the published literature in book form relevant to the details of the Polar Controversy. These books will be discussed in the order they were published.*
 

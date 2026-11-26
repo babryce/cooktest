@@ -1,3 +1,7 @@
+---
+title: "Dr. Cook Artifacts 3: Welcome Home, Dr. Cook, September 21, 1909"
+category: General
+---
 
 ![Welcome 0](http://babryce.com/cooktest/assets/Welcome-0_OKYx.jpg "Welcome 0")
 

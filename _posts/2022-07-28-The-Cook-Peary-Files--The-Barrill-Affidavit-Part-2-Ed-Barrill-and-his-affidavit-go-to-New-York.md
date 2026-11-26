@@ -1,3 +1,7 @@
+---
+title: "The Cook-Peary Files:  The Barrill Affidavit Part 2: Ed Barrill and his affidavit go to New York"
+category: General
+---
 
 This is the 19th in a series examining significant unpublished documents related to the Polar Controversy.
 

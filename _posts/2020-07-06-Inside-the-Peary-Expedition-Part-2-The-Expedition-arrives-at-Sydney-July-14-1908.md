@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 2: The Expedition arrives at Sydney, July 14, 1908"
+category: General
+---
 
 ![Sydney](http://babryce.com/cooktest/assets/Sydney_8p6-.jpg "Sydney")
 

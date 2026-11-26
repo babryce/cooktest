@@ -1,3 +1,7 @@
+---
+title: "Inside the Peary Expedition: Part 14: Aftermath: June 10, 1910: Franke sues Robert E. Peary"
+category: General
+---
 
 After the adverse findings of the commission appointed to examine Dr. Cook’s records at the University of Copenhagen in December 1909, and the superficial examination Peary’s records received by the National Geographic Society the previous month that resulted in a favorable verdict on his claim, Peary was generally acknowledged as the discoverer of the North Pole. After some preliminary lectures in the United Sates, he set off on a triumphal tour of Europe where he was honored and awarded gold medals and other honors. While staying at the Adlon Hotel in Berlin, however, he received something he didn’t want; he was served papers in connection with a suit brought by Rudolph Franke aimed at recovering the monetary equivalent of the furs and other belongings he claimed Peary had extorted from him at Etah in August 1908.
 

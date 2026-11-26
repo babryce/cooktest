@@ -1,3 +1,7 @@
+---
+title: "150th Anniversary"
+category: General
+---
 
 Today is the sesquicentennial of Frederick A. Cook’s birth. He was born in Hortonville, NY on this day in 1865. Sullivan County records record Cook’s birth in Hortonville. His family lived there until they moved to Port Jervis in 1878. The family home was occupied by Cook’s brother, Theodore, until his death in 1928, and he and their father, among other relatives, are buried in the hillside Hortonville cemetery. The sign welcoming visitors to Hortonville states that it is Cook’s birthplace.
 
