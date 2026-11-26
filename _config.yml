@@ -2,7 +2,7 @@
 plugins:
 - jekyll-paginate
 
-paginate: 2 # jekyll-paginate > items per page
+paginate: 4 # jekyll-paginate > items per page
 paginate_path: page:num # jekyll-paginate > blog page
 
 sass:
