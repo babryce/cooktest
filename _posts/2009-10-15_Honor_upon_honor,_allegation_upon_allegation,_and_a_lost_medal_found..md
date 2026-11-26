@@ -1,3 +1,7 @@
+---
+title:Honor upon honor, allegation upon allegation, and a lost medal found.
+category: General
+---
 ## Honor upon honor, allegation upon allegation, and a lost medal found.
 
 October 15, 2009

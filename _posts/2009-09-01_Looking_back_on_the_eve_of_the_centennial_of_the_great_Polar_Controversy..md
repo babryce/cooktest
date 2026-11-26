@@ -1,3 +1,7 @@
+---
+title:Looking back on the eve of the centennial of the great Polar Controversy.
+category: General
+---
 ## Looking back on the eve of the centennial of the great Polar Controversy.
 
 September 1, 2009

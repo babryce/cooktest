@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: Peary’s Immaculate Notebook
+category: General
+---
 ## The Cook-Peary Files: Peary’s Immaculate Notebook
 
 February 3, 2025

@@ -1,3 +1,7 @@
+---
+title:Cook and Peary, up to date
+category: General
+---
 ## Cook and Peary, up to date
 
 September 22, 2015

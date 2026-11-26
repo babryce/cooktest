@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: The Barrill Affidavit: Part 1 – “Impossible do better.”
+category: General
+---
 ## The Cook-Peary Files: The Barrill Affidavit: Part 1 – “Impossible do better.”
 
 June 13, 2022

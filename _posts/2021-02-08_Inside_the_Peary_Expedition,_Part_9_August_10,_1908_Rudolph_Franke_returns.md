@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition, Part 9: August 10, 1908: Rudolph Franke returns
+category: General
+---
 ## Inside the Peary Expedition, Part 9: August 10, 1908: Rudolph Franke returns
 
 February 8, 2021

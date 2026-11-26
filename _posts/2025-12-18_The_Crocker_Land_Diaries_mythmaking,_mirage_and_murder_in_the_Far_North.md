@@ -1,3 +1,7 @@
+---
+title:The Crocker Land Diaries: mythmaking, mirage and murder in the Far North
+category: General
+---
 ## The Crocker Land Diaries: mythmaking, mirage and murder in the Far North
 
 December 18, 2025

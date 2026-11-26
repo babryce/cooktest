@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 5: 1912: A Negro Explorer at the North Pole
+category: General
+---
 ## Polar Controversy Literature Part 5: 1912: A Negro Explorer at the North Pole
 
 February 15, 2026

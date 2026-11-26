@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition, Part 8: Word of Dr. Cook gets out: August 7, 1908
+category: General
+---
 ## Inside the Peary Expedition, Part 8: Word of Dr. Cook gets out: August 7, 1908
 
 January 6, 2021

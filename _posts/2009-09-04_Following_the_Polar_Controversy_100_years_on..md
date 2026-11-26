@@ -1,3 +1,7 @@
+---
+title:Following the Polar Controversy 100 years on.
+category: General
+---
 ## Following the Polar Controversy 100 years on.
 
 September 4, 2009

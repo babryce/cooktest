@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
+category: General
+---
 ## The Cook-Peary Files: March 20, 1894: Dr. Cook makes an odd invitation
 
 February 17, 2020

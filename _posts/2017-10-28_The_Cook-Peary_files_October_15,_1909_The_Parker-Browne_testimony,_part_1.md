@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1
+category: General
+---
 ## The Cook-Peary files: October 15, 1909: The Parker-Browne testimony, part 1
 
 October 28, 2017

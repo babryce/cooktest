@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary files: July 31, 1914: “Case 2140″
+category: General
+---
 ## The Cook-Peary files: July 31, 1914: “Case 2140″
 
 May 20, 2017

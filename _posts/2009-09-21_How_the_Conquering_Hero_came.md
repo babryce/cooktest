@@ -1,3 +1,7 @@
+---
+title:How the Conquering Hero came
+category: General
+---
 ## How the Conquering Hero came
 
 September 21, 2009

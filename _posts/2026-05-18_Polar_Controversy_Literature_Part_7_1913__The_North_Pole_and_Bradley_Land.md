@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land
+category: General
+---
 ## Polar Controversy Literature Part 7: 1913:  The North Pole and Bradley Land
 
 May 18, 2026

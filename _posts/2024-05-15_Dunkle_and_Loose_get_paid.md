@@ -1,3 +1,7 @@
+---
+title:Dunkle and Loose get paid
+category: General
+---
 ## Dunkle and Loose get paid
 
 May 15, 2024

@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition: Part 5: The Roosevelt reaches the native settlements, August 3, 1908
+category: General
+---
 ## Inside the Peary Expedition: Part 5: The Roosevelt reaches the native settlements, August 3, 1908
 
 October 18, 2020

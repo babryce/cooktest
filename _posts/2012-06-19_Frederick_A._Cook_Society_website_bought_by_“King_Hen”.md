@@ -1,3 +1,7 @@
+---
+title:Frederick A. Cook Society website bought by “King Hen”
+category: General
+---
 ## Frederick A. Cook Society website bought by “King Hen”
 
 June 19, 2012

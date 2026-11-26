@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 1: 1910: The North Pole
+category: General
+---
 ## Polar Controversy Literature Part 1: 1910: The North Pole
 
 August 18, 2025

@@ -1,3 +1,7 @@
+---
+title:Author plans transcription of Cook’s polar notebook
+category: General
+---
 ## Author plans transcription of Cook’s polar notebook
 
 August 22, 2012

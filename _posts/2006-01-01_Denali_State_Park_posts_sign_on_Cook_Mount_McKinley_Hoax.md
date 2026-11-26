@@ -1,3 +1,7 @@
+---
+title:Denali State Park posts sign on Cook Mount McKinley Hoax
+category: General
+---
 ## Denali State Park posts sign on Cook Mount McKinley Hoax
 
 January 1, 2006

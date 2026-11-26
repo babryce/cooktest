@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files:  August 25, 1909: Peary gets unwelcome news
+category: General
+---
 ## The Cook-Peary Files:  August 25, 1909: Peary gets unwelcome news
 
 April 17, 2020

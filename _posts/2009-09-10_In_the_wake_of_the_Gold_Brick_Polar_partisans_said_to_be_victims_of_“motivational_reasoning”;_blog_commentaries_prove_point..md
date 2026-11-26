@@ -1,3 +1,7 @@
+---
+title:In the wake of the Gold Brick: Polar partisans said to be victims of “motivational reasoning”; blog commentaries prove point.
+category: General
+---
 ## In the wake of the Gold Brick: Polar partisans said to be victims of “motivational reasoning”; blog commentaries prove point.
 
 September 10, 2009

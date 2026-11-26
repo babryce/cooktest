@@ -1,3 +1,7 @@
+---
+title:The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review.
+category: General
+---
 ## The Lost Polar Notebook of Dr. Frederick A. Cook receives an academic review.
 
 December 8, 2016

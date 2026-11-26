@@ -1,3 +1,7 @@
+---
+title:There and Back Again: the Dr. John Goodsell Archives: Volume I
+category: General
+---
 ## There and Back Again: the Dr. John Goodsell Archives: Volume I
 
 November 17, 2019

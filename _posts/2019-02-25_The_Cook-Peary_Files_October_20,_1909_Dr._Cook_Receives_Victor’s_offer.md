@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer
+category: General
+---
 ## The Cook-Peary Files: October 20, 1909: Dr. Cook Receives Victor’s offer
 
 February 25, 2019

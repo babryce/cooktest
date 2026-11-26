@@ -1,3 +1,7 @@
+---
+title:Frederick Cook arrives in Denmark
+category: General
+---
 ## Frederick Cook arrives in Denmark
 
 August 27, 2018

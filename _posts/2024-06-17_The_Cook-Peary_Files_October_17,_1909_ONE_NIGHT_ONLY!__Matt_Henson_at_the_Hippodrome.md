@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome
+category: General
+---
 ## The Cook-Peary Files: October 17, 1909: ONE NIGHT ONLY!  Matt Henson at the Hippodrome
 
 June 17, 2024

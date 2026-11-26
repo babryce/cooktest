@@ -1,3 +1,7 @@
+---
+title:Cook & Peary, twenty-five years on
+category: General
+---
 ## Cook & Peary, twenty-five years on
 
 February 17, 2022

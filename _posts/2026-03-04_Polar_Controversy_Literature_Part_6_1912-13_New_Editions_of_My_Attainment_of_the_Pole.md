@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature: Part 6 1912-13: New Editions of My Attainment of the Pole
+category: General
+---
 ## Polar Controversy Literature: Part 6 1912-13: New Editions of My Attainment of the Pole
 
 March 4, 2026

@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail
+category: General
+---
 ## Inside the Peary Expedition: Part 11: August 14-15: The Erik prepares to sail
 
 April 21, 2021

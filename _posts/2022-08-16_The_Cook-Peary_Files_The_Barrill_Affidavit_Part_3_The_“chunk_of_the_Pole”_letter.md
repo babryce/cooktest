@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: The Barrill Affidavit Part 3: The “chunk of the Pole” letter
+category: General
+---
 ## The Cook-Peary Files: The Barrill Affidavit Part 3: The “chunk of the Pole” letter
 
 August 16, 2022

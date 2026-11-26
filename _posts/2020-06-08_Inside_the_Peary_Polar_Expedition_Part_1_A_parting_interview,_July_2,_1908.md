@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Polar Expedition: Part 1: A parting interview, July 2, 1908
+category: General
+---
 ## Inside the Peary Polar Expedition: Part 1: A parting interview, July 2, 1908
 
 June 8, 2020

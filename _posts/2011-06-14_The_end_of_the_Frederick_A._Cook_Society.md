@@ -1,3 +1,7 @@
+---
+title:The end of the Frederick A. Cook Society?
+category: General
+---
 ## The end of the Frederick A. Cook Society?
 
 June 14, 2011

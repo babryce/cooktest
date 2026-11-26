@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II
+category: General
+---
 ## Polar Controversy Literature Part 10: 1920: Has the North Pole Been Discovered? Volume II
 
 August 5, 2026

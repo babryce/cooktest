@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition: Part 14: Aftermath: June 10, 1910: Franke sues Robert E. Peary
+category: General
+---
 ## Inside the Peary Expedition: Part 14: Aftermath: June 10, 1910: Franke sues Robert E. Peary
 
 July 23, 2021

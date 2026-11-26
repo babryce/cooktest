@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?
+category: General
+---
 ## Polar Controversy Literature Part 8: 1915: Did Commander Peary “Achieve” the North Pole?
 
 June 22, 2026

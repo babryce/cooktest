@@ -1,3 +1,7 @@
+---
+title:New edition of the lost polar notebook published
+category: General
+---
 ## New edition of the lost polar notebook published
 
 May 30, 2018

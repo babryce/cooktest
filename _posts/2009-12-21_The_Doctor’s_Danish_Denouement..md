@@ -1,3 +1,7 @@
+---
+title:The Doctor’s Danish Denouement.
+category: General
+---
 ## The Doctor’s Danish Denouement.
 
 December 21, 2009

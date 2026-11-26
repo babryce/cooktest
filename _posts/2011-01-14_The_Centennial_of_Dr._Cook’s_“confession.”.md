@@ -1,3 +1,7 @@
+---
+title:The Centennial of Dr. Cook’s “confession.”
+category: General
+---
 ## The Centennial of Dr. Cook’s “confession.”
 
 January 14, 2011

@@ -1,3 +1,7 @@
+---
+title:Cook’s original telegram drafts are recovered.
+category: General
+---
 ## Cook’s original telegram drafts are recovered.
 
 September 6, 2009

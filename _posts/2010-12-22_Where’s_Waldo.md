@@ -1,3 +1,7 @@
+---
+title:Where’s Waldo?
+category: General
+---
 ## Where’s Waldo?
 
 December 22, 2010

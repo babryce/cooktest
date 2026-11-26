@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment
+category: General
+---
 ## The Cook-Peary Files: August 25, 1909: Peary gets the first word of Dr. Cook’s attainment
 
 January 4, 2025

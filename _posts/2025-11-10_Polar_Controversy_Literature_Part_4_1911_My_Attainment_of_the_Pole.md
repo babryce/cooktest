@@ -1,3 +1,7 @@
+---
+title:Polar Controversy Literature Part 4: 1911: My Attainment of the Pole
+category: General
+---
 ## Polar Controversy Literature Part 4: 1911: My Attainment of the Pole
 
 November 10, 2025

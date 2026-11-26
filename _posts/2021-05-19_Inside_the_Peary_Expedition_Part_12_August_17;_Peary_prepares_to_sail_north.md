@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north
+category: General
+---
 ## Inside the Peary Expedition: Part 12: August 17; Peary prepares to sail north
 
 May 19, 2021

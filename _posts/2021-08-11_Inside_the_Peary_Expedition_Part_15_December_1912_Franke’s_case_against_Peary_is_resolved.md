@@ -1,3 +1,7 @@
+---
+title:Inside the Peary Expedition: Part 15: December 1912: Franke’s case against Peary is resolved
+category: General
+---
 ## Inside the Peary Expedition: Part 15: December 1912: Franke’s case against Peary is resolved
 
 August 11, 2021

@@ -1,3 +1,7 @@
+---
+title:Centennial of the publication of MAP
+category: General
+---
 ## Centennial of the publication of MAP
 
 August 3, 2011

@@ -1,3 +1,7 @@
+---
+title:Differing versions of Donald MacMillan’s field diary brought to light
+category: General
+---
 ## Differing versions of Donald MacMillan’s field diary brought to light
 
 August 1, 2014

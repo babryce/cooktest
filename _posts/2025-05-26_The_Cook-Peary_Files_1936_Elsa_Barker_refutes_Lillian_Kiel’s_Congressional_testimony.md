@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: 1936: Elsa Barker refutes Lillian Kiel’s Congressional testimony
+category: General
+---
 ## The Cook-Peary Files: 1936: Elsa Barker refutes Lillian Kiel’s Congressional testimony
 
 May 26, 2025

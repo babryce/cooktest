@@ -1,3 +1,7 @@
+---
+title:“A Hack job”: An Editorial Review of True North.
+category: General
+---
 ## “A Hack job”: An Editorial Review of True North.
 
 October 18, 2011

@@ -1,3 +1,7 @@
+---
+title:The Cook-Peary Files: October 15, 1902: A Ziegler-Cook Expedition?
+category: General
+---
 ## The Cook-Peary Files: October 15, 1902: A Ziegler-Cook Expedition?
 
 October 28, 2018

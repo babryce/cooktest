@@ -1,3 +1,7 @@
+---
+title:The Smoking Gun
+category: General
+---
 ## The Smoking Gun
 
 December 31, 2013

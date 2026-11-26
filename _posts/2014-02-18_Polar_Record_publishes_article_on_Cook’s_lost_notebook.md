@@ -1,3 +1,7 @@
+---
+title:Polar Record publishes article on Cook’s lost notebook
+category: General
+---
 ## Polar Record publishes article on Cook’s lost notebook
 
 February 18, 2014

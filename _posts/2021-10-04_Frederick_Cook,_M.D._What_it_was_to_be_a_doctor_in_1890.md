@@ -1,3 +1,7 @@
+---
+title:Frederick Cook, M.D.: What it was to be a doctor in 1890
+category: General
+---
 ## Frederick Cook, M.D.: What it was to be a doctor in 1890
 
 October 4, 2021
